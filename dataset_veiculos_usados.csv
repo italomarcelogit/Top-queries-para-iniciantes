@@ -1,0 +1,1501 @@
+DATA DA COMPRA,NOME DO VENDEDOR,NOME DO CLIENTE,SEXO DO CLIENTE,IDADE DO CLIENTE,CIDADE DO CLIENTE,VEÍCULO,ANO DO VEÍCULO,MARCA DO VEÍCULO,MODELO DO VEÍCULO,CATEGORIA DO VEÍCULO,VALOR BRUTO,VALOR DO DESCONTO,VALOR LIQUIDO
+2021-01-03,Beatriz Gomes,Augusto Pires,M,30,Alves do Amparo,Chevrolet Lumina,1992,Chevrolet,Lumina,"Sedan, Coupe",12837,931,11906
+2021-01-04,Vitor Gabriel Castro,Davi Lucca Silveira,M,35,Costa,GMC Sonoma Crew Cab,2002,GMC,Sonoma Crew Cab,Pickup,13722,868,12854
+2021-01-04,Juliana Jesus,Ian Novaes,M,79,Pinto,Toyota Corolla,2017,Toyota,Corolla,Sedan,9651,49,9602
+2021-01-04,Yasmin Fernandes,Augusto Ribeiro,M,23,Santos,Volvo XC90,2009,Volvo,XC90,SUV,13371,814,12557
+2021-01-04,Juliana Jesus,Alice Pires,F,48,Barros,Chevrolet Silverado 1500 Regular Cab,2017,Chevrolet,Silverado 1500 Regular Cab,Pickup,12084,397,11687
+2021-01-06,Sophie Peixoto,Leandro Vieira,M,66,da Cunha,Audi TT,2009,Audi,TT,"Coupe, Convertible",8836,692,8144
+2021-01-07,Francisco Silva,Dra. Evelyn Dias,F,31,da Mota do Campo,Pontiac G5,2008,Pontiac,G5,Coupe,10433,444,9989
+2021-01-08,Beatriz Gomes,Srta. Beatriz Campos,F,72,das Neves das Flores,BMW 2 Series,2018,BMW,2 Series,"Coupe, Convertible",11277,571,10706
+2021-01-08,Francisco Silva,Dr. Luiz Otávio Campos,M,63,Barbosa,Jeep Liberty,2006,Jeep,Liberty,SUV,13671,816,12855
+2021-01-08,Sophie Peixoto,Olivia Jesus,F,48,Sales da Mata,Chevrolet Express 1500 Passenger,1997,Chevrolet,Express 1500 Passenger,Van/Minivan,9839,998,8841
+2021-01-10,Yasmin Fernandes,Nicole Correia,F,44,Rodrigues,Volkswagen Passat,1998,Volkswagen,Passat,"Sedan, Wagon",11140,961,10179
+2021-01-12,Isabella da Rosa,Ana Vitória Nogueira,F,63,Costa Verde,Lexus ES,2014,Lexus,ES,Sedan,13090,367,12723
+2021-01-12,Francisco Silva,Mariana Souza,F,29,Nogueira,Maserati Levante,2019,Maserati,Levante,SUV,12332,868,11464
+2021-01-13,Isabella da Rosa,Emanuel Souza,M,58,Novaes,Lexus LS,1996,Lexus,LS,Sedan,9159,621,8538
+2021-01-13,Sophie Peixoto,Esther Lima,F,66,da Luz do Sul,Volkswagen Beetle,2016,Volkswagen,Beetle,"Hatchback, Convertible",13515,592,12923
+2021-01-14,Juliana Jesus,Matheus Silveira,M,40,Rodrigues de da Rosa,GMC Savana 3500 Cargo,2012,GMC,Savana 3500 Cargo,Van/Minivan,9735,433,9302
+2021-01-14,Francisco Silva,Mirella Lopes,F,42,Barros de Goiás,Hyundai Sonata,1993,Hyundai,Sonata,Sedan,10668,869,9799
+2021-01-14,Beatriz Gomes,Alexandre Dias,M,59,da Mata,Chrysler Crossfire,2004,Chrysler,Crossfire,Coupe,12685,913,11772
+2021-01-14,Juliana Jesus,Raul da Conceição,M,68,Porto dos Dourados,Kia Forte Koup,2015,Kia,Forte Koup,Coupe,13327,615,12712
+2021-01-14,Sophie Peixoto,Rafaela da Cunha,F,36,Sales,Acura TL,1996,Acura,TL,Sedan,9767,485,9282
+2021-01-14,Yasmin Fernandes,Evelyn da Mata,F,80,Lopes do Campo,INFINITI QX50,2019,INFINITI,QX50,SUV,11294,170,11124
+2021-01-15,Sophie Peixoto,Agatha Caldeira,F,60,Silva,Chevrolet Prizm,2000,Chevrolet,Prizm,Sedan,13181,339,12842
+2021-01-15,Juliana Jesus,João Felipe Farias,M,24,Fernandes,Honda Pilot,2005,Honda,Pilot,SUV,8999,877,8122
+2021-01-15,Yasmin Fernandes,Yago Campos,M,78,Gomes,GMC Savana 2500 Passenger,1996,GMC,Savana 2500 Passenger,Van/Minivan,13951,158,13793
+2021-01-17,Isabella da Rosa,Heloísa Carvalho,F,58,Moreira de Minas,Hyundai Accent,2014,Hyundai,Accent,"Hatchback, Sedan",13224,419,12805
+2021-01-17,Juliana Jesus,Sr. Rodrigo Novaes,M,22,Barbosa do Campo,Toyota 86,2019,Toyota,86,Coupe,10315,635,9680
+2021-01-17,Vitor Gabriel Castro,Camila Cunha,F,40,da Mota da Praia,Buick Encore,2013,Buick,Encore,SUV,9918,519,9399
+2021-01-18,Vitor Gabriel Castro,Renan Sales,M,44,Caldeira do Norte,Nissan Frontier Crew Cab,2012,Nissan,Frontier Crew Cab,Pickup,13487,194,13293
+2021-01-18,Isabella da Rosa,Maria Luiza Silveira,F,57,Melo,Ford F250 Super Duty Regular Cab,2014,Ford,F250 Super Duty Regular Cab,Pickup,9883,732,9151
+2021-01-19,Beatriz Gomes,Lucas Rodrigues,M,46,Ramos Alegre,Kia Soul EV,2018,Kia,Soul EV,Wagon,8205,629,7576
+2021-01-19,Yasmin Fernandes,Vicente Fogaça,M,49,Lopes de da Conceição,Mercedes-Benz CLK-Class,2008,Mercedes-Benz,CLK-Class,"Convertible, Coupe",8509,382,8127
+2021-01-20,Juliana Jesus,Emanuel Campos,M,53,Carvalho,Chevrolet Silverado 1500 Crew Cab,2012,Chevrolet,Silverado 1500 Crew Cab,Pickup,10360,736,9624
+2021-01-21,Isabella da Rosa,Felipe Moreira,M,34,da Rocha,Ford Ranger Regular Cab,1997,Ford,Ranger Regular Cab,Pickup,10773,866,9907
+2021-01-22,Sophie Peixoto,Guilherme Jesus,M,68,Nascimento,Chevrolet Malibu,1997,Chevrolet,Malibu,Sedan,9863,477,9386
+2021-01-23,Beatriz Gomes,Vitória Vieira,F,69,Ribeiro de Cardoso,Toyota Tundra Regular Cab,2014,Toyota,Tundra Regular Cab,Pickup,13401,878,12523
+2021-01-24,Vitor Gabriel Castro,Daniel Fernandes,M,39,Duarte,Toyota Tacoma Regular Cab,2012,Toyota,Tacoma Regular Cab,Pickup,9274,165,9109
+2021-01-25,Sophie Peixoto,Heloísa Carvalho,F,31,Ramos Paulista,BMW 5 Series,2009,BMW,5 Series,"Sedan, Wagon",11955,833,11122
+2021-01-27,Beatriz Gomes,Carolina Rocha,F,77,Nogueira,Dodge Ram 3500 Quad Cab,2000,Dodge,Ram 3500 Quad Cab,Pickup,11685,782,10903
+2021-01-27,Beatriz Gomes,Enzo da Rosa,M,61,da Luz,Lincoln Mark LT,2006,Lincoln,Mark LT,Pickup,13099,97,13002
+2021-01-28,Isabella da Rosa,Joana Gonçalves,F,48,Gonçalves,Cadillac SRX,2012,Cadillac,SRX,SUV,8580,962,7618
+2021-01-28,Vitor Gabriel Castro,Diogo da Cunha,M,53,Silveira,Mercedes-Benz R-Class,2006,Mercedes-Benz,R-Class,Wagon,9907,297,9610
+2021-01-28,Sophie Peixoto,Davi Lucca Farias,M,56,Porto,Chrysler 200,2014,Chrysler,200,"Sedan, Convertible",10663,483,10180
+2021-01-28,Beatriz Gomes,Breno Monteiro,M,49,da Mota,Volvo 960,1995,Volvo,960,"Sedan, Wagon",8879,82,8797
+2021-01-29,Juliana Jesus,Luigi Melo,M,31,Caldeira,Nissan LEAF,2016,Nissan,LEAF,Hatchback,8003,895,7108
+2021-01-29,Sophie Peixoto,Dra. Ana Luiza Duarte,F,23,Castro,Ford Mustang,2018,Ford,Mustang,"Convertible, Coupe",8780,843,7937
+2021-01-29,Vitor Gabriel Castro,Amanda Souza,F,78,Correia,Nissan Pathfinder,2009,Nissan,Pathfinder,SUV,11833,574,11259
+2021-01-30,Isabella da Rosa,Elisa Cavalcanti,F,70,da Paz,Lexus IS F,2010,Lexus,IS F,Sedan,12802,309,12493
+2021-01-30,Isabella da Rosa,Otávio Barros,M,26,Fernandes,INFINITI G,1995,INFINITI,G,Sedan,13714,973,12741
+2021-01-31,Sophie Peixoto,Sr. Erick Gomes,M,63,Aragão,Acura RSX,2005,Acura,RSX,Coupe,13273,425,12848
+2021-01-31,Vitor Gabriel Castro,Mariane da Conceição,F,53,Carvalho,MAZDA MX-5 Miata RF,2017,MAZDA,MX-5 Miata RF,Convertible,11133,586,10547
+2021-02-03,Francisco Silva,Carlos Eduardo Aragão,M,43,da Conceição da Mata,Toyota Prius,2014,Toyota,Prius,Hatchback,8893,40,8853
+2021-02-03,Sophie Peixoto,Cauê Caldeira,M,75,Nascimento,Land Rover Range Rover,2019,Land Rover,Range Rover,SUV,13581,216,13365
+2021-02-03,Yasmin Fernandes,Ana Lívia Jesus,F,67,Almeida do Galho,Buick Rainier,2006,Buick,Rainier,SUV,13486,780,12706
+2021-02-04,Francisco Silva,Juan Melo,M,40,Vieira dos Dourados,GMC Sierra 2500 HD Extended Cab,2012,GMC,Sierra 2500 HD Extended Cab,Pickup,10715,822,9893
+2021-02-04,Isabella da Rosa,Lara Barbosa,F,78,Rocha do Norte,Volkswagen Passat,2007,Volkswagen,Passat,"Sedan, Wagon",13995,839,13156
+2021-02-04,Isabella da Rosa,Clarice da Mata,F,49,Gomes das Flores,Aston Martin Rapide S,2014,Aston Martin,Rapide S,Sedan,9919,446,9473
+2021-02-05,Vitor Gabriel Castro,Maria Alice Souza,F,64,Martins,Hyundai Elantra,2019,Hyundai,Elantra,Sedan,8023,717,7306
+2021-02-05,Francisco Silva,Sr. Theo Cardoso,M,49,Ramos,Lexus RC,2018,Lexus,RC,Coupe,11465,727,10738
+2021-02-07,Francisco Silva,Antônio Silva,M,45,Rezende,Nissan NV3500 HD Passenger,2018,Nissan,NV3500 HD Passenger,Van/Minivan,11309,264,11045
+2021-02-08,Francisco Silva,Otávio Cunha,M,70,Araújo,Audi A7,2020,Audi,A7,Sedan,13716,121,13595
+2021-02-08,Beatriz Gomes,Larissa da Rocha,F,72,Carvalho de Cavalcanti,Aston Martin DB9,2015,Aston Martin,DB9,"Coupe, Convertible",11983,284,11699
+2021-02-09,Sophie Peixoto,Brenda Cardoso,F,25,Lima de Minas,Chevrolet Silverado 3500 Crew Cab,2003,Chevrolet,Silverado 3500 Crew Cab,Pickup,10894,945,9949
+2021-02-09,Beatriz Gomes,Sr. Augusto Martins,M,34,Correia Alegre,Audi S5,2019,Audi,S5,"Sedan, Coupe, Convertible",8634,131,8503
+2021-02-09,Sophie Peixoto,Lucca Lima,M,40,Costa de Aragão,GMC 1500 Club Coupe,1999,GMC,1500 Club Coupe,Pickup,9948,25,9923
+2021-02-09,Vitor Gabriel Castro,Dra. Bruna Melo,F,43,Moura de Costela,Chrysler PT Cruiser,2003,Chrysler,PT Cruiser,Wagon,10708,812,9896
+2021-02-11,Yasmin Fernandes,Agatha Cardoso,F,57,Cunha,Toyota Camry Hybrid,2017,Toyota,Camry Hybrid,Sedan,10932,783,10149
+2021-02-12,Yasmin Fernandes,Bryan Santos,M,66,Santos da Mata,Volkswagen Jetta SportWagen,2013,Volkswagen,Jetta SportWagen,Wagon,9021,968,8053
+2021-02-12,Beatriz Gomes,Rebeca Porto,F,55,da Paz do Norte,Toyota Xtra Cab,1993,Toyota,Xtra Cab,Pickup,11040,718,10322
+2021-02-13,Juliana Jesus,Kevin Campos,M,73,Lima,Jaguar S-Type,2001,Jaguar,S-Type,Sedan,11857,73,11784
+2021-02-14,Juliana Jesus,Vitor Fogaça,M,59,Pinto do Galho,Freightliner Sprinter 2500 Cargo,2016,Freightliner,Sprinter 2500 Cargo,Van/Minivan,11638,671,10967
+2021-02-14,Beatriz Gomes,Levi das Neves,M,37,Costa Grande,Mitsubishi Endeavor,2010,Mitsubishi,Endeavor,SUV,8907,374,8533
+2021-02-14,Isabella da Rosa,Diego Teixeira,M,29,Lopes de Pires,Volvo S40,2011,Volvo,S40,Sedan,13010,263,12747
+2021-02-15,Isabella da Rosa,Srta. Emanuelly da Rocha,F,45,Gomes,Honda Civic Type R,2019,Honda,Civic Type R,Hatchback,9089,638,8451
+2021-02-15,Sophie Peixoto,Igor Campos,M,45,da Rosa,Lexus SC,2000,Lexus,SC,Coupe,12070,481,11589
+2021-02-16,Francisco Silva,Camila Alves,F,75,Moreira,GMC Sierra 3500 HD Crew Cab,2016,GMC,Sierra 3500 HD Crew Cab,Pickup,9650,72,9578
+2021-02-17,Vitor Gabriel Castro,João Gomes,M,32,Araújo Alegre,Mitsubishi Lancer,2012,Mitsubishi,Lancer,"Sedan, Hatchback",11807,645,11162
+2021-02-17,Vitor Gabriel Castro,Alice Correia,F,25,Castro do Galho,GMC Savana 1500 Passenger,2000,GMC,Savana 1500 Passenger,Van/Minivan,13749,383,13366
+2021-02-17,Yasmin Fernandes,Davi Nunes,M,36,Azevedo,Ford Explorer,2006,Ford,Explorer,SUV,12579,658,11921
+2021-02-18,Isabella da Rosa,Nina Cardoso,F,77,da Mota,Porsche Panamera,2015,Porsche,Panamera,Sedan,10501,344,10157
+2021-02-19,Francisco Silva,Giovanna da Mota,F,43,Costela do Campo,Suzuki Swift,1999,Suzuki,Swift,Hatchback,9663,255,9408
+2021-02-21,Francisco Silva,Guilherme Fogaça,M,71,da Paz de Minas,Cadillac Eldorado,1995,Cadillac,Eldorado,Coupe,12822,85,12737
+2021-02-21,Francisco Silva,Sophie Rezende,F,26,Gonçalves,GMC Canyon Crew Cab,2009,GMC,Canyon Crew Cab,Pickup,13198,225,12973
+2021-02-21,Vitor Gabriel Castro,Sr. Raul Dias,M,27,Costela Verde,Saab 3-Sep,1999,Saab,3-Sep,"Hatchback, Convertible",13283,762,12521
+2021-02-22,Juliana Jesus,Igor Correia,M,62,Gomes,Ram 2500 Regular Cab,2012,Ram,2500 Regular Cab,Pickup,8131,262,7869
+2021-02-22,Sophie Peixoto,Bernardo Lopes,M,46,Novaes de Souza,Chevrolet Malibu,2019,Chevrolet,Malibu,Sedan,10803,412,10391
+2021-02-22,Vitor Gabriel Castro,Pietra Rodrigues,F,67,Ribeiro,Toyota Prius Plug-in Hybrid,2014,Toyota,Prius Plug-in Hybrid,Hatchback,8787,572,8215
+2021-02-23,Isabella da Rosa,Matheus da Rocha,M,38,Silva,Ford GT,2006,Ford,GT,Coupe,8206,375,7831
+2021-02-23,Isabella da Rosa,Sr. Gustavo Barbosa,M,42,Pereira da Serra,Kia Sportage,2015,Kia,Sportage,SUV,11087,37,11050
+2021-02-24,Isabella da Rosa,Eduardo Nascimento,M,23,Carvalho de Pereira,Ram 2500 Crew Cab,2016,Ram,2500 Crew Cab,Pickup,11388,112,11276
+2021-02-24,Sophie Peixoto,Eduarda das Neves,F,42,Cardoso,Saab 5-Sep,2008,Saab,5-Sep,"Sedan, Wagon",8078,56,8022
+2021-02-25,Vitor Gabriel Castro,Srta. Maria Julia Vieira,F,72,Barros,GMC Sierra 2500 HD Regular Cab,2012,GMC,Sierra 2500 HD Regular Cab,Pickup,13097,54,13043
+2021-02-25,Isabella da Rosa,Srta. Laís Novaes,F,68,Nunes,Jeep Wrangler,2017,Jeep,Wrangler,SUV,9375,354,9021
+2021-02-26,Yasmin Fernandes,Bianca Rodrigues,F,78,da Costa,Lexus GS,2011,Lexus,GS,Sedan,11504,829,10675
+2021-02-26,Beatriz Gomes,Gustavo Martins,M,43,da Conceição da Serra,Hyundai Elantra,2001,Hyundai,Elantra,"Hatchback, Sedan",12368,590,11778
+2021-02-26,Yasmin Fernandes,Bruna Ferreira,F,62,da Cunha,Chevrolet Silverado 3500 HD Extended Cab,2013,Chevrolet,Silverado 3500 HD Extended Cab,Pickup,8347,999,7348
+2021-02-27,Francisco Silva,Dra. Yasmin Dias,F,79,Moreira,Mercury Sable,2004,Mercury,Sable,"Sedan, Wagon",13000,541,12459
+2021-03-01,Sophie Peixoto,Henrique Freitas,M,80,da Rocha,GMC Jimmy,1999,GMC,Jimmy,SUV,11578,402,11176
+2021-03-01,Isabella da Rosa,Sarah da Costa,F,80,Nascimento,Saab 900,1996,Saab,900,"Hatchback, Convertible",9025,825,8200
+2021-03-01,Isabella da Rosa,Lucca Almeida,M,31,Melo das Pedras,Toyota Tacoma Double Cab,2014,Toyota,Tacoma Double Cab,Pickup,12272,338,11934
+2021-03-02,Beatriz Gomes,Sr. Nicolas Cunha,M,31,Moraes,Mercedes-Benz GL-Class,2012,Mercedes-Benz,GL-Class,SUV,12624,374,12250
+2021-03-03,Vitor Gabriel Castro,Dr. Thales Souza,M,39,da Rosa,Ford Freestar Cargo,2007,Ford,Freestar Cargo,Van/Minivan,9059,916,8143
+2021-03-04,Juliana Jesus,Alice Cardoso,F,41,Lopes das Pedras,Subaru Forester,2004,Subaru,Forester,SUV,13717,909,12808
+2021-03-04,Juliana Jesus,Alexandre Porto,M,69,Peixoto,Chevrolet Camaro,1998,Chevrolet,Camaro,"Coupe, Convertible",8691,157,8534
+2021-03-05,Vitor Gabriel Castro,Isadora Lima,F,76,Pinto do Galho,GMC Vandura 2500,1994,GMC,Vandura 2500,Van/Minivan,8373,66,8307
+2021-03-07,Vitor Gabriel Castro,Thiago Pinto,M,51,Novaes de Alves,Chevrolet Silverado 1500 HD Crew Cab,2003,Chevrolet,Silverado 1500 HD Crew Cab,Pickup,13328,753,12575
+2021-03-07,Juliana Jesus,Thiago Santos,M,39,Novaes,Toyota Highlander,2003,Toyota,Highlander,SUV,11895,375,11520
+2021-03-08,Beatriz Gomes,Sr. João Felipe Vieira,M,56,Peixoto do Campo,MINI Cooper,2003,MINI,Cooper,Hatchback,9128,710,8418
+2021-03-09,Sophie Peixoto,Srta. Heloísa Santos,F,80,Moura,Plymouth Sundance,1994,Plymouth,Sundance,Hatchback,9819,692,9127
+2021-03-09,Juliana Jesus,Alexandre Gonçalves,M,41,Almeida,Dodge Dakota Regular Cab,1994,Dodge,Dakota Regular Cab,Pickup,11509,33,11476
+2021-03-09,Beatriz Gomes,Bruna Pires,F,42,Teixeira,Acura RL,2009,Acura,RL,Sedan,12658,447,12211
+2021-03-10,Francisco Silva,Srta. Eloah da Paz,F,54,Cardoso do Campo,Subaru Legacy,1995,Subaru,Legacy,"Sedan, Wagon",13406,512,12894
+2021-03-10,Yasmin Fernandes,Felipe Pires,M,77,Cavalcanti,Dodge Durango,2016,Dodge,Durango,SUV,12577,882,11695
+2021-03-10,Yasmin Fernandes,Mirella da Cunha,F,75,Gomes Verde,Mercedes-Benz R-Class,2007,Mercedes-Benz,R-Class,Wagon,9097,495,8602
+2021-03-10,Vitor Gabriel Castro,Ana Carolina Monteiro,F,63,Alves,Toyota 4Runner,1996,Toyota,4Runner,SUV,12181,897,11284
+2021-03-11,Vitor Gabriel Castro,Dr. João Felipe Mendes,M,37,Oliveira da Mata,Hyundai Ioniq Plug-in Hybrid,2019,Hyundai,Ioniq Plug-in Hybrid,Hatchback,11294,662,10632
+2021-03-11,Isabella da Rosa,Vicente Santos,M,48,Vieira,Isuzu Amigo,2000,Isuzu,Amigo,SUV,13219,552,12667
+2021-03-12,Sophie Peixoto,Pietro Martins,M,26,Monteiro,Subaru Legacy,1999,Subaru,Legacy,"Sedan, Wagon",10605,995,9610
+2021-03-13,Beatriz Gomes,Eduarda Rocha,F,44,Moraes Verde,Hyundai Sonata,2001,Hyundai,Sonata,Sedan,12174,969,11205
+2021-03-14,Vitor Gabriel Castro,Cecília da Mota,F,76,Carvalho,Nissan Titan King Cab,2018,Nissan,Titan King Cab,Pickup,11864,666,11198
+2021-03-15,Sophie Peixoto,Anthony da Mata,M,57,Duarte,Nissan NV2500 HD Cargo,2013,Nissan,NV2500 HD Cargo,Van/Minivan,12571,499,12072
+2021-03-15,Sophie Peixoto,Emanuel Carvalho,M,76,Oliveira da Prata,BMW 1 Series,2013,BMW,1 Series,"Coupe, Convertible",13639,215,13424
+2021-03-17,Yasmin Fernandes,Marcelo Sales,M,78,Cunha de Minas,Volkswagen Eos,2011,Volkswagen,Eos,Convertible,11598,114,11484
+2021-03-17,Sophie Peixoto,Juan Ribeiro,M,71,Mendes,Chevrolet Impala,2010,Chevrolet,Impala,Sedan,8903,670,8233
+2021-03-19,Sophie Peixoto,Emanuella Monteiro,F,55,Cunha Alegre,Acura MDX,2001,Acura,MDX,SUV,12884,153,12731
+2021-03-19,Yasmin Fernandes,Elisa Duarte,F,74,Cardoso,Ferrari 488 GTB,2016,Ferrari,488 GTB,Coupe,12379,97,12282
+2021-03-20,Vitor Gabriel Castro,Vicente da Rosa,M,36,Cunha,Nissan Sentra,2002,Nissan,Sentra,Sedan,10790,108,10682
+2021-03-22,Vitor Gabriel Castro,Helena Castro,F,35,da Costa,MAZDA B-Series Cab Plus,1993,MAZDA,B-Series Cab Plus,Pickup,8186,306,7880
+2021-03-22,Juliana Jesus,Emanuella Cardoso,F,59,Nascimento,Pontiac Sunbird,1993,Pontiac,Sunbird,"Coupe, Sedan, Convertible",11306,420,10886
+2021-03-23,Isabella da Rosa,Alice Silveira,F,28,Melo,Ford F150 Super Cab,2016,Ford,F150 Super Cab,Pickup,13102,367,12735
+2021-03-24,Juliana Jesus,Miguel Nascimento,M,24,Caldeira das Pedras,Subaru WRX,2020,Subaru,WRX,Sedan,12360,341,12019
+2021-03-26,Juliana Jesus,Davi Martins,M,40,Barbosa da Mata,Chevrolet Malibu,1998,Chevrolet,Malibu,Sedan,10597,564,10033
+2021-03-26,Juliana Jesus,Thiago Costela,M,29,da Rocha,GMC Sonoma Regular Cab,1994,GMC,Sonoma Regular Cab,Pickup,9332,256,9076
+2021-03-28,Beatriz Gomes,Bruna Cardoso,F,56,Rocha de Minas,Dodge Ram 2500 Regular Cab,2006,Dodge,Ram 2500 Regular Cab,Pickup,13436,585,12851
+2021-04-02,Beatriz Gomes,Lavínia Rocha,F,42,Rocha do Amparo,Pontiac Firebird,2000,Pontiac,Firebird,"Coupe, Convertible",11293,562,10731
+2021-04-02,Juliana Jesus,Joaquim Souza,M,38,Pires,GMC Savana 1500 Cargo,2003,GMC,Savana 1500 Cargo,Van/Minivan,11579,681,10898
+2021-04-02,Yasmin Fernandes,Noah Almeida,M,65,Caldeira,Subaru Legacy,2010,Subaru,Legacy,Sedan,11055,161,10894
+2021-04-03,Sophie Peixoto,Yasmin Teixeira,F,34,Correia,GMC Sierra 1500 Regular Cab,2017,GMC,Sierra 1500 Regular Cab,Pickup,12288,517,11771
+2021-04-03,Juliana Jesus,Bárbara Carvalho,F,57,Ramos do Sul,Dodge Ram 1500 Quad Cab,2010,Dodge,Ram 1500 Quad Cab,Pickup,12718,810,11908
+2021-04-04,Francisco Silva,Júlia Cardoso,F,68,Vieira Grande,Lexus SC,2007,Lexus,SC,Convertible,13413,675,12738
+2021-04-06,Francisco Silva,Kevin Castro,M,75,Campos de Goiás,Oldsmobile Regency,1997,Oldsmobile,Regency,Sedan,12817,73,12744
+2021-04-07,Sophie Peixoto,Gabrielly Freitas,F,53,Melo de Fogaça,Hyundai Tiburon,2008,Hyundai,Tiburon,Hatchback,8927,917,8010
+2021-04-08,Yasmin Fernandes,Luiz Felipe Castro,M,26,Novaes,Dodge Ram 2500 Quad Cab,2006,Dodge,Ram 2500 Quad Cab,Pickup,10178,328,9850
+2021-04-08,Isabella da Rosa,Vicente Campos,M,51,Rocha do Galho,Scion tC,2007,Scion,tC,Coupe,8858,799,8059
+2021-04-08,Yasmin Fernandes,Thiago Nunes,M,67,Sales,Saab 9-4X,2011,Saab,9-4X,SUV,13076,847,12229
+2021-04-09,Beatriz Gomes,Nicolas Azevedo,M,72,Melo dos Dourados,Dodge Grand Caravan Passenger,2009,Dodge,Grand Caravan Passenger,Van/Minivan,9981,24,9957
+2021-04-09,Juliana Jesus,Emanuel Fernandes,M,50,Rodrigues do Amparo,Toyota Sequoia,2001,Toyota,Sequoia,SUV,12727,548,12179
+2021-04-10,Isabella da Rosa,Carlos Eduardo Santos,M,62,Pinto Paulista,Honda CR-V,2006,Honda,CR-V,SUV,10705,318,10387
+2021-04-10,Yasmin Fernandes,Srta. Maria Julia Peixoto,F,51,Castro,Jaguar XJ,1992,Jaguar,XJ,"Sedan, Coupe, Convertible",13326,739,12587
+2021-04-11,Beatriz Gomes,Levi da Paz,M,29,Novaes de Fernandes,Audi Q7,2019,Audi,Q7,SUV,10591,212,10379
+2021-04-11,Isabella da Rosa,Lívia Duarte,F,43,Duarte do Galho,Porsche 718 Cayman,2019,Porsche,718 Cayman,Coupe,9721,444,9277
+2021-04-15,Francisco Silva,Pietra Cunha,F,70,da Cunha,Chevrolet 2500 Regular Cab,1995,Chevrolet,2500 Regular Cab,Pickup,12491,705,11786
+2021-04-15,Vitor Gabriel Castro,Yasmin Farias,F,54,Carvalho de Minas,BMW 6 Series,2016,BMW,6 Series,"Coupe, Sedan, Convertible",9332,523,8809
+2021-04-15,Juliana Jesus,Thiago Barros,M,29,Nascimento,Ford F250 Super Duty Super Cab,2018,Ford,F250 Super Duty Super Cab,Pickup,9369,881,8488
+2021-04-16,Yasmin Fernandes,Srta. Valentina Lima,F,53,da Cunha,Hyundai Santa Fe,2004,Hyundai,Santa Fe,SUV,8781,974,7807
+2021-04-16,Francisco Silva,Emanuelly Farias,F,64,Castro,Maserati Quattroporte,2007,Maserati,Quattroporte,Sedan,11263,964,10299
+2021-04-17,Juliana Jesus,Ana Lívia Silveira,F,26,Rodrigues,Ford Focus,2018,Ford,Focus,"Sedan, Hatchback",11658,35,11623
+2021-04-18,Juliana Jesus,Dr. João Gabriel da Paz,M,67,Melo,GMC Sierra 2500 HD Regular Cab,2019,GMC,Sierra 2500 HD Regular Cab,Pickup,12378,446,11932
+2021-04-19,Sophie Peixoto,Lorenzo da Mota,M,59,Fogaça do Norte,Nissan 300ZX,1992,Nissan,300ZX,Hatchback,13066,139,12927
+2021-04-19,Francisco Silva,Vitória Fogaça,F,31,Farias do Sul,Mercury Mystique,1999,Mercury,Mystique,Sedan,8438,447,7991
+2021-04-20,Beatriz Gomes,Dr. Lucas Gonçalves,M,36,Porto,Audi S5,2019,Audi,S5,"Sedan, Coupe, Convertible",11371,558,10813
+2021-04-20,Juliana Jesus,Mariana Castro,F,28,Gonçalves,Mercedes-Benz CL-Class,2013,Mercedes-Benz,CL-Class,Coupe,11473,808,10665
+2021-04-20,Isabella da Rosa,Leonardo Monteiro,M,65,Gomes,Chevrolet Lumina,1994,Chevrolet,Lumina,"Sedan, Coupe",12455,117,12338
+2021-04-22,Juliana Jesus,Kevin Martins,M,54,Carvalho,GMC Sierra 2500 HD Regular Cab,2013,GMC,Sierra 2500 HD Regular Cab,Pickup,8596,494,8102
+2021-04-22,Isabella da Rosa,Helena Jesus,F,48,Castro,MINI Convertible,2018,MINI,Convertible,Convertible,12537,574,11963
+2021-04-22,Isabella da Rosa,Alexia Pires,F,34,da Paz,Mercury Villager,1999,Mercury,Villager,Van/Minivan,13149,232,12917
+2021-04-23,Juliana Jesus,Sabrina Cardoso,F,63,Silveira de Goiás,Chevrolet Silverado 2500 Regular Cab,1999,Chevrolet,Silverado 2500 Regular Cab,Pickup,13745,970,12775
+2021-04-23,Isabella da Rosa,Marcela Rodrigues,F,36,Barbosa,Volvo S60,2012,Volvo,S60,Sedan,10179,673,9506
+2021-04-24,Vitor Gabriel Castro,Dra. Bárbara Souza,F,75,da Costa das Pedras,Chevrolet Captiva Sport,2013,Chevrolet,Captiva Sport,SUV,13402,234,13168
+2021-04-25,Vitor Gabriel Castro,Miguel Monteiro,M,28,Pinto de Goiás,Lincoln Navigator L,2009,Lincoln,Navigator L,SUV,11819,482,11337
+2021-04-26,Sophie Peixoto,Dra. Gabrielly da Luz,F,27,Ramos do Oeste,Plymouth Neon,1998,Plymouth,Neon,"Coupe, Sedan",10545,730,9815
+2021-04-26,Yasmin Fernandes,Ana Clara Nascimento,F,55,Campos,Lexus NX,2016,Lexus,NX,SUV,10581,808,9773
+2021-04-27,Yasmin Fernandes,Enzo Gabriel Peixoto,M,63,Sales,Chevrolet 2500 Regular Cab,1995,Chevrolet,2500 Regular Cab,Pickup,13431,30,13401
+2021-04-28,Juliana Jesus,Lara Melo,F,61,Azevedo,Pontiac Vibe,2008,Pontiac,Vibe,Wagon,10497,868,9629
+2021-04-29,Sophie Peixoto,Dr. Leonardo Campos,M,78,Aragão de Viana,Toyota Tacoma Xtracab,2001,Toyota,Tacoma Xtracab,Pickup,11401,182,11219
+2021-04-29,Beatriz Gomes,Sr. Enzo Gabriel Teixeira,M,24,Costa de da Paz,Chevrolet Camaro,2001,Chevrolet,Camaro,"Coupe, Convertible",11425,204,11221
+2021-04-29,Juliana Jesus,Caroline Ferreira,F,67,Novaes,BMW Z4,2013,BMW,Z4,Convertible,13975,965,13010
+2021-04-30,Vitor Gabriel Castro,Sofia Almeida,F,73,Melo,Chevrolet Impala,2020,Chevrolet,Impala,Sedan,9679,852,8827
+2021-04-30,Yasmin Fernandes,Bernardo Costela,M,43,Campos das Pedras,Jeep Patriot,2010,Jeep,Patriot,SUV,12751,716,12035
+2021-05-01,Isabella da Rosa,Isadora Pinto,F,71,Viana,MAZDA MAZDA6,2010,MAZDA,MAZDA6,Sedan,13227,24,13203
+2021-05-01,Vitor Gabriel Castro,Joana Araújo,F,58,Oliveira do Campo,Volkswagen Beetle,2017,Volkswagen,Beetle,"Hatchback, Convertible",13935,354,13581
+2021-05-01,Yasmin Fernandes,Milena da Luz,F,65,Freitas,MINI Countryman,2013,MINI,Countryman,Hatchback,12254,881,11373
+2021-05-01,Vitor Gabriel Castro,Cauã Campos,M,56,Caldeira,GMC Yukon,2001,GMC,Yukon,SUV,9606,133,9473
+2021-05-01,Juliana Jesus,Dra. Brenda Souza,F,34,Monteiro de da Costa,Cadillac ELR,2014,Cadillac,ELR,Coupe,11350,599,10751
+2021-05-03,Francisco Silva,Cecília Peixoto,F,61,Lima de Minas,Toyota Camry,2002,Toyota,Camry,Sedan,11222,762,10460
+2021-05-03,Isabella da Rosa,Ana Lívia Silva,F,38,Porto das Pedras,Land Rover Range Rover Evoque,2014,Land Rover,Range Rover Evoque,SUV,11509,687,10822
+2021-05-05,Vitor Gabriel Castro,Catarina Araújo,F,66,das Neves de Lima,Chrysler Sebring,1998,Chrysler,Sebring,"Convertible, Coupe",11213,10,11203
+2021-05-06,Yasmin Fernandes,João Felipe da Mota,M,75,Fernandes,Volkswagen Passat,2013,Volkswagen,Passat,Sedan,9249,688,8561
+2021-05-07,Isabella da Rosa,Sr. Matheus Teixeira,M,51,Freitas de da Mata,Chevrolet Silverado 1500 Crew Cab,2004,Chevrolet,Silverado 1500 Crew Cab,Pickup,11845,5,11840
+2021-05-08,Yasmin Fernandes,Raquel Gonçalves,F,63,Vieira do Campo,GMC Savana 3500 Passenger,1996,GMC,Savana 3500 Passenger,Van/Minivan,13964,926,13038
+2021-05-10,Beatriz Gomes,Natália Alves,F,59,da Costa,Nissan Armada,2010,Nissan,Armada,SUV,9995,15,9980
+2021-05-11,Isabella da Rosa,Emanuella da Cunha,F,49,Moraes,Lexus NX,2019,Lexus,NX,SUV,10056,117,9939
+2021-05-12,Francisco Silva,Francisco Castro,M,59,Nascimento do Campo,Oldsmobile Alero,2000,Oldsmobile,Alero,"Sedan, Coupe",12009,457,11552
+2021-05-12,Juliana Jesus,Yasmin Freitas,F,62,da Costa das Pedras,Jaguar XJ,1995,Jaguar,XJ,"Sedan, Coupe, Convertible",10365,598,9767
+2021-05-13,Francisco Silva,Sra. Raquel Peixoto,F,34,Sales do Norte,Audi Q7,2010,Audi,Q7,SUV,11554,322,11232
+2021-05-13,Vitor Gabriel Castro,Carlos Eduardo da Cunha,M,67,da Paz do Galho,Mercedes-Benz B-Class,2017,Mercedes-Benz,B-Class,Hatchback,10655,567,10088
+2021-05-15,Beatriz Gomes,André Farias,M,69,Porto Paulista,Kia Sorento,2014,Kia,Sorento,SUV,13215,422,12793
+2021-05-15,Juliana Jesus,Natália Gomes,F,49,Moreira,Buick LeSabre,2004,Buick,LeSabre,Sedan,12383,988,11395
+2021-05-15,Francisco Silva,Pedro das Neves,M,53,Caldeira,Jeep Wrangler,2004,Jeep,Wrangler,SUV,9896,470,9426
+2021-05-16,Yasmin Fernandes,Davi Lucca Moraes,M,53,da Rosa,Honda CR-V,2019,Honda,CR-V,SUV,12984,299,12685
+2021-05-18,Yasmin Fernandes,Sra. Ana Vitória Silva,F,42,Cardoso,Ford Transit 150 Wagon,2016,Ford,Transit 150 Wagon,Van/Minivan,10749,49,10700
+2021-05-19,Vitor Gabriel Castro,Lara da Paz,F,71,Cardoso,Audi A5,2018,Audi,A5,"Coupe, Convertible, Sedan",12003,358,11645
+2021-05-20,Yasmin Fernandes,Ian Rodrigues,M,26,Pinto de Lopes,Lincoln MKC,2016,Lincoln,MKC,SUV,8896,394,8502
+2021-05-20,Vitor Gabriel Castro,Luiza da Conceição,F,67,Caldeira,Chevrolet Suburban 1500,1993,Chevrolet,Suburban 1500,SUV,9269,943,8326
+2021-05-22,Yasmin Fernandes,Ana Carolina da Mota,F,43,Farias Alegre,Audi e-tron,2019,Audi,e-tron,SUV,8304,948,7356
+2021-05-23,Beatriz Gomes,João Pedro da Luz,M,68,Vieira,Toyota Tundra Regular Cab,2017,Toyota,Tundra Regular Cab,Pickup,9207,110,9097
+2021-05-26,Beatriz Gomes,Lavínia da Paz,F,37,Rezende Paulista,Subaru Legacy,2015,Subaru,Legacy,Sedan,8122,558,7564
+2021-05-26,Yasmin Fernandes,Rebeca Azevedo,F,55,da Luz Grande,Saturn SKY,2007,Saturn,SKY,Convertible,13727,700,13027
+2021-05-26,Yasmin Fernandes,Laís Monteiro,F,68,Pinto Verde,Saturn S-Series,1992,Saturn,S-Series,"Coupe, Sedan",11084,254,10830
+2021-05-26,Juliana Jesus,João Guilherme Jesus,M,72,Ramos do Amparo,Volkswagen e-Golf,2019,Volkswagen,e-Golf,Hatchback,10318,933,9385
+2021-05-27,Francisco Silva,Sr. Thomas Caldeira,M,68,Dias de Castro,INFINITI FX,2009,INFINITI,FX,SUV,11053,343,10710
+2021-05-27,Isabella da Rosa,Heloísa Carvalho,F,23,Gonçalves Paulista,Plymouth Laser,1993,Plymouth,Laser,Hatchback,11258,883,10375
+2021-05-27,Beatriz Gomes,Davi Lucas da Rocha,M,78,Barros de Minas,Mercedes-Benz E-Class,1998,Mercedes-Benz,E-Class,"Sedan, Wagon",9442,516,8926
+2021-05-31,Juliana Jesus,Sr. Gustavo da Luz,M,25,Silva,Lexus SC,2003,Lexus,SC,Convertible,8282,741,7541
+2021-06-01,Francisco Silva,Sra. Sophie Melo,F,38,Aragão de Mendes,Hyundai Sonata,2000,Hyundai,Sonata,Sedan,12572,750,11822
+2021-06-02,Francisco Silva,Otávio da Paz,M,77,Freitas da Serra,Ram 1500 Regular Cab,2011,Ram,1500 Regular Cab,Pickup,13569,102,13467
+2021-06-02,Isabella da Rosa,Nathan Correia,M,26,da Mota,Subaru Outback,2012,Subaru,Outback,Wagon,13376,253,13123
+2021-06-03,Juliana Jesus,Brenda Silveira,F,62,Azevedo do Sul,MINI Coupe,2012,MINI,Coupe,Coupe,13003,385,12618
+2021-06-04,Vitor Gabriel Castro,Felipe Silveira,M,24,Carvalho,Chevrolet Prizm,2000,Chevrolet,Prizm,Sedan,13646,476,13170
+2021-06-04,Beatriz Gomes,Raul Pinto,M,77,Sales,Toyota Tundra Access Cab,2003,Toyota,Tundra Access Cab,Pickup,9669,209,9460
+2021-06-04,Francisco Silva,Joana Nunes,F,53,Moraes do Norte,Dodge Nitro,2008,Dodge,Nitro,SUV,10210,790,9420
+2021-06-05,Sophie Peixoto,Sabrina Araújo,F,72,Pinto de Peixoto,Mercedes-Benz CLA,2020,Mercedes-Benz,CLA,Sedan,10455,30,10425
+2021-06-05,Sophie Peixoto,Srta. Evelyn da Cruz,F,74,Nogueira,Chevrolet S10 Blazer,1994,Chevrolet,S10 Blazer,SUV,9263,155,9108
+2021-06-06,Juliana Jesus,Dra. Agatha Alves,F,40,Ramos de da Rocha,Jeep Wrangler,2004,Jeep,Wrangler,SUV,9575,56,9519
+2021-06-06,Beatriz Gomes,Ana Júlia Correia,F,52,Santos de da Cunha,Nissan 370Z,2014,Nissan,370Z,"Coupe, Convertible",8856,552,8304
+2021-06-06,Beatriz Gomes,Luigi Costela,M,43,das Neves,Lotus Elise,2007,Lotus,Elise,Coupe,10966,781,10185
+2021-06-07,Vitor Gabriel Castro,Bruno da Luz,M,33,Rodrigues,Mitsubishi Lancer,2011,Mitsubishi,Lancer,"Sedan, Hatchback",12488,537,11951
+2021-06-09,Francisco Silva,Davi Lucas Barbosa,M,71,Duarte,Toyota Corolla,1994,Toyota,Corolla,"Sedan, Wagon",8466,788,7678
+2021-06-09,Francisco Silva,Thomas Pereira,M,54,Cardoso,GMC Sierra (Classic) 1500 Extended Cab,2007,GMC,Sierra (Classic) 1500 Extended Cab,Pickup,8262,641,7621
+2021-06-10,Vitor Gabriel Castro,Lucas Gabriel Lima,M,69,Pereira,Lexus LS,2010,Lexus,LS,Sedan,12785,260,12525
+2021-06-10,Vitor Gabriel Castro,Ana Carolina Ferreira,F,28,Caldeira,Volkswagen Jetta GLI,2019,Volkswagen,Jetta GLI,Sedan,9061,10,9051
+2021-06-10,Francisco Silva,Sra. Ana Sophia Pinto,F,28,Porto Paulista,BMW X6,2016,BMW,X6,SUV,8669,170,8499
+2021-06-11,Beatriz Gomes,Marcos Vinicius da Mata,M,30,da Conceição Grande,Toyota Land Cruiser,1996,Toyota,Land Cruiser,SUV,11574,295,11279
+2021-06-11,Isabella da Rosa,Daniela Fogaça,F,71,Santos da Praia,FIAT 500c Abarth,2019,FIAT,500c Abarth,Convertible,8717,578,8139
+2021-06-12,Francisco Silva,Bruno Alves,M,33,Ramos Verde,Mercedes-Benz CLA,2020,Mercedes-Benz,CLA,Sedan,9188,537,8651
+2021-06-12,Francisco Silva,Letícia Pinto,F,42,Teixeira,Subaru Impreza,2019,Subaru,Impreza,"Sedan, Wagon",11363,391,10972
+2021-06-12,Francisco Silva,Enzo Gabriel Moreira,M,56,Moura,Mitsubishi Eclipse,2004,Mitsubishi,Eclipse,"Coupe, Convertible",10190,824,9366
+2021-06-13,Juliana Jesus,Daniel Fernandes,M,58,Fogaça de Carvalho,Cadillac CTS,2016,Cadillac,CTS,Sedan,9184,76,9108
+2021-06-13,Vitor Gabriel Castro,Dr. Vinicius da Conceição,M,55,Santos do Galho,Jeep Grand Cherokee,1993,Jeep,Grand Cherokee,SUV,11493,320,11173
+2021-06-13,Beatriz Gomes,Agatha Gonçalves,F,36,Castro das Flores,INFINITI G,1995,INFINITI,G,Sedan,10726,429,10297
+2021-06-13,Yasmin Fernandes,Sr. Kaique Vieira,M,49,Pereira,Toyota Prius Prime,2020,Toyota,Prius Prime,Hatchback,9361,389,8972
+2021-06-14,Francisco Silva,Levi Costela,M,28,Souza,Pontiac Trans Sport,1995,Pontiac,Trans Sport,Van/Minivan,11929,879,11050
+2021-06-15,Vitor Gabriel Castro,Heloísa Ramos,F,80,Teixeira,Buick Park Avenue,2003,Buick,Park Avenue,Sedan,13952,499,13453
+2021-06-16,Sophie Peixoto,Letícia Lima,F,48,Viana da Serra,Dodge Ram Wagon 2500,2000,Dodge,Ram Wagon 2500,Van/Minivan,10197,93,10104
+2021-06-17,Sophie Peixoto,Mariana Cardoso,F,73,Gonçalves,Volkswagen GTI,2010,Volkswagen,GTI,Hatchback,13193,164,13029
+2021-06-17,Juliana Jesus,Sra. Catarina Rodrigues,F,78,Ferreira de Silva,MINI Convertible,2016,MINI,Convertible,Convertible,9129,413,8716
+2021-06-17,Yasmin Fernandes,Ana Luiza Fernandes,F,24,Teixeira,Ram 2500 Mega Cab,2018,Ram,2500 Mega Cab,Pickup,10865,906,9959
+2021-06-18,Yasmin Fernandes,Caroline Mendes,F,36,da Paz,Lexus SC,1996,Lexus,SC,Coupe,12408,192,12216
+2021-06-19,Isabella da Rosa,Maria Eduarda da Costa,F,72,Nunes de da Mata,Nissan 350Z,2007,Nissan,350Z,"Coupe, Convertible",8132,786,7346
+2021-06-19,Beatriz Gomes,Melissa Castro,F,72,Castro,Chevrolet Tahoe,2005,Chevrolet,Tahoe,SUV,9167,335,8832
+2021-06-20,Yasmin Fernandes,Dr. Leandro Lima,M,39,Freitas das Flores,Mercury Cougar,1996,Mercury,Cougar,Coupe,13833,593,13240
+2021-06-20,Vitor Gabriel Castro,Henrique da Mota,M,71,Barros,Ford Excursion,2004,Ford,Excursion,SUV,13775,776,12999
+2021-06-21,Sophie Peixoto,Sra. Maria Luiza Moreira,F,33,Ribeiro,Chevrolet Malibu,2008,Chevrolet,Malibu,Sedan,13737,414,13323
+2021-06-21,Sophie Peixoto,Kamilly Monteiro,F,31,Ramos Grande,BMW M5,2015,BMW,M5,Sedan,12862,424,12438
+2021-06-21,Francisco Silva,Ana Julia Pereira,F,62,das Neves da Mata,Mercedes-Benz Mercedes-AMG CLA,2019,Mercedes-Benz,Mercedes-AMG CLA,Sedan,11518,554,10964
+2021-06-22,Sophie Peixoto,Clarice da Luz,F,47,Sales do Sul,Chevrolet Silverado 2500 HD Double Cab,2017,Chevrolet,Silverado 2500 HD Double Cab,Pickup,9863,168,9695
+2021-06-22,Vitor Gabriel Castro,Clarice Nascimento,F,46,Dias Verde,Mercedes-Benz M-Class,2007,Mercedes-Benz,M-Class,SUV,11185,270,10915
+2021-06-23,Yasmin Fernandes,Isaac Jesus,M,60,Rodrigues,Honda Pilot,2019,Honda,Pilot,SUV,9520,819,8701
+2021-06-23,Isabella da Rosa,Gabrielly Araújo,F,42,Costela Paulista,Nissan NV1500 Cargo,2014,Nissan,NV1500 Cargo,Van/Minivan,12339,416,11923
+2021-06-24,Beatriz Gomes,Renan Nascimento,M,72,Peixoto,Chevrolet Express 1500 Passenger,2011,Chevrolet,Express 1500 Passenger,Van/Minivan,12894,446,12448
+2021-06-26,Vitor Gabriel Castro,Guilherme Nascimento,M,23,Azevedo,Mercedes-Benz Sprinter 3500 XD Cargo,2018,Mercedes-Benz,Sprinter 3500 XD Cargo,Van/Minivan,11666,191,11475
+2021-06-26,Yasmin Fernandes,Augusto Dias,M,63,Santos,Jeep Grand Cherokee,2013,Jeep,Grand Cherokee,SUV,9897,1000,8897
+2021-06-26,Sophie Peixoto,Sr. João Castro,M,40,Castro,GMC Sonoma Extended Cab,2001,GMC,Sonoma Extended Cab,Pickup,8154,222,7932
+2021-06-27,Francisco Silva,Miguel Pereira,M,27,Peixoto,Toyota Tundra Double Cab,2011,Toyota,Tundra Double Cab,Pickup,11284,64,11220
+2021-06-27,Vitor Gabriel Castro,Evelyn Ribeiro,F,75,Almeida,Honda Civic,2005,Honda,Civic,"Coupe, Sedan, Hatchback",10834,579,10255
+2021-06-29,Beatriz Gomes,Ryan Peixoto,M,68,Nunes,Chevrolet Blazer,2001,Chevrolet,Blazer,SUV,9008,325,8683
+2021-06-29,Sophie Peixoto,Catarina Porto,F,54,Fernandes,MINI Countryman,2020,MINI,Countryman,SUV,10231,251,9980
+2021-06-29,Beatriz Gomes,Dr. Augusto Freitas,M,30,Silva,Ram 3500 Regular Cab,2017,Ram,3500 Regular Cab,Pickup,13163,320,12843
+2021-06-30,Beatriz Gomes,Sra. Natália Costela,F,39,Cunha do Norte,Acura TL,1996,Acura,TL,Sedan,11364,176,11188
+2021-06-30,Juliana Jesus,Marina Melo,F,76,Farias,Toyota Tundra Double Cab,2010,Toyota,Tundra Double Cab,Pickup,10925,16,10909
+2021-06-30,Yasmin Fernandes,André Teixeira,M,39,da Rocha das Flores,Volvo V50,2010,Volvo,V50,Wagon,12630,201,12429
+2021-07-01,Sophie Peixoto,Clarice Araújo,F,46,Cunha,Ford Explorer Sport Trac,2010,Ford,Explorer Sport Trac,Pickup,8488,106,8382
+2021-07-01,Juliana Jesus,Anthony da Mota,M,33,Rocha,Mercedes-Benz SLR McLaren,2007,Mercedes-Benz,SLR McLaren,Coupe,11585,215,11370
+2021-07-03,Yasmin Fernandes,Gabriel Cardoso,M,76,Silveira da Serra,Ford F150 SuperCrew Cab,2014,Ford,F150 SuperCrew Cab,Pickup,9305,720,8585
+2021-07-03,Yasmin Fernandes,Ana Julia Nascimento,F,63,Barros de Cavalcanti,Scion xA,2004,Scion,xA,Hatchback,11218,991,10227
+2021-07-04,Francisco Silva,Valentina Fogaça,F,80,Barros de Minas,Kia Cadenza,2017,Kia,Cadenza,Sedan,12027,418,11609
+2021-07-04,Francisco Silva,Renan Rodrigues,M,48,da Mota da Prata,Saturn VUE,2003,Saturn,VUE,SUV,12948,37,12911
+2021-07-05,Isabella da Rosa,Lavínia Rodrigues,F,79,Fogaça,Mercedes-Benz Metris Passenger,2017,Mercedes-Benz,Metris Passenger,Van/Minivan,8032,905,7127
+2021-07-06,Francisco Silva,Davi Lucas Alves,M,60,Jesus,Audi A4,2017,Audi,A4,Sedan,8955,222,8733
+2021-07-07,Beatriz Gomes,Luiz Otávio Moreira,M,73,Araújo,Volvo S60,2015,Volvo,S60,Sedan,9252,81,9171
+2021-07-08,Juliana Jesus,Maria Sophia Rezende,F,30,Moraes do Amparo,Suzuki Samurai,1992,Suzuki,Samurai,SUV,13805,760,13045
+2021-07-09,Isabella da Rosa,Emanuelly Monteiro,F,47,Lopes,GMC Sierra 1500 HD Crew Cab,2006,GMC,Sierra 1500 HD Crew Cab,Pickup,12358,598,11760
+2021-07-10,Francisco Silva,Sr. Samuel Moraes,M,42,Costa,Ford Taurus,1996,Ford,Taurus,"Sedan, Wagon",9297,729,8568
+2021-07-11,Vitor Gabriel Castro,Bruno Nascimento,M,35,Nogueira de Goiás,Toyota Paseo,1996,Toyota,Paseo,Coupe,11384,474,10910
+2021-07-14,Juliana Jesus,Maria Gonçalves,F,70,das Neves,smart fortwo,2013,smart,fortwo,"Hatchback, Convertible",9765,993,8772
+2021-07-14,Isabella da Rosa,Maria Vitória Sales,F,72,Moreira de da Costa,Dodge Grand Caravan Passenger,1997,Dodge,Grand Caravan Passenger,Van/Minivan,10271,161,10110
+2021-07-15,Sophie Peixoto,Mirella Rocha,F,45,Cunha de Araújo,Land Rover Range Rover Velar,2020,Land Rover,Range Rover Velar,SUV,10695,762,9933
+2021-07-15,Vitor Gabriel Castro,André Sales,M,48,Aragão,Ford F250 Super Duty Super Cab,2001,Ford,F250 Super Duty Super Cab,Pickup,12369,747,11622
+2021-07-16,Francisco Silva,Alice Moura,F,73,Silveira Verde,Suzuki Grand Vitara,2000,Suzuki,Grand Vitara,SUV,8344,999,7345
+2021-07-18,Vitor Gabriel Castro,Bruno Fogaça,M,61,Oliveira,Oldsmobile Achieva,1992,Oldsmobile,Achieva,"Sedan, Coupe",9360,785,8575
+2021-07-19,Yasmin Fernandes,Luna da Costa,F,28,Lopes de da Luz,Chevrolet Tracker,1999,Chevrolet,Tracker,SUV,10912,89,10823
+2021-07-19,Beatriz Gomes,Gustavo da Mata,M,35,da Luz,Honda Pilot,2014,Honda,Pilot,SUV,9311,334,8977
+2021-07-22,Isabella da Rosa,Vicente Campos,M,44,Barbosa,Lincoln MKZ,2008,Lincoln,MKZ,Sedan,9328,80,9248
+2021-07-22,Francisco Silva,Luana Duarte,F,25,da Luz do Galho,Buick Regal Sportback,2019,Buick,Regal Sportback,Sedan,10881,746,10135
+2021-07-23,Sophie Peixoto,Dr. Guilherme Martins,M,32,Mendes de Viana,Ford F150 Super Cab,2000,Ford,F150 Super Cab,Pickup,8386,102,8284
+2021-07-23,Yasmin Fernandes,André Porto,M,43,da Costa,Chrysler Pacifica,2017,Chrysler,Pacifica,Van/Minivan,10169,889,9280
+2021-07-23,Isabella da Rosa,Luigi Cardoso,M,76,Campos,BMW X6 M,2017,BMW,X6 M,SUV,11007,550,10457
+2021-07-24,Francisco Silva,Laura Silva,F,51,Silveira dos Dourados,Ford E250 Super Duty Cargo,2007,Ford,E250 Super Duty Cargo,Van/Minivan,8457,494,7963
+2021-07-24,Vitor Gabriel Castro,Dr. Thales Barros,M,46,Vieira,Hyundai Entourage,2008,Hyundai,Entourage,Van/Minivan,8062,666,7396
+2021-07-25,Beatriz Gomes,Maria Cecília Mendes,F,30,Mendes do Norte,Nissan LEAF,2011,Nissan,LEAF,Hatchback,11524,454,11070
+2021-07-26,Vitor Gabriel Castro,João Gabriel Costela,M,62,Cavalcanti de Araújo,Volkswagen Tiguan,2017,Volkswagen,Tiguan,SUV,11451,539,10912
+2021-07-26,Isabella da Rosa,João Gabriel da Cunha,M,23,Novaes dos Dourados,Honda Prelude,1998,Honda,Prelude,Coupe,9593,77,9516
+2021-07-27,Isabella da Rosa,Camila Alves,F,35,Ferreira do Campo,Oldsmobile Bravada,2004,Oldsmobile,Bravada,SUV,13852,673,13179
+2021-07-29,Francisco Silva,Dra. Raquel Barbosa,F,68,Nogueira,Cadillac SRX,2010,Cadillac,SRX,SUV,10012,972,9040
+2021-07-29,Yasmin Fernandes,Maria Vitória da Conceição,F,44,Moreira da Mata,Jeep Wrangler,2017,Jeep,Wrangler,SUV,10705,513,10192
+2021-08-01,Vitor Gabriel Castro,Sra. Maria Clara Nogueira,F,54,Lopes de Porto,Ford Econoline E250 Cargo,2001,Ford,Econoline E250 Cargo,Van/Minivan,9744,796,8948
+2021-08-01,Yasmin Fernandes,Maria Luiza da Rocha,F,77,Viana Verde,Ford Excursion,2003,Ford,Excursion,SUV,8660,260,8400
+2021-08-03,Isabella da Rosa,João Lucas da Rosa,M,61,Fogaça,Mercury Mystique,1995,Mercury,Mystique,Sedan,8596,835,7761
+2021-08-04,Isabella da Rosa,Isaac Duarte,M,75,Farias,Dodge Ram Van 1500,1995,Dodge,Ram Van 1500,Van/Minivan,9697,968,8729
+2021-08-05,Yasmin Fernandes,Pedro da Rocha,M,31,Ramos,Audi A6,2011,Audi,A6,"Sedan, Wagon",12108,526,11582
+2021-08-05,Sophie Peixoto,Bianca Martins,F,27,Teixeira do Norte,Dodge Journey,2015,Dodge,Journey,SUV,8737,15,8722
+2021-08-07,Juliana Jesus,Ana Vitória Santos,F,56,Farias,GMC Sierra 1500 Extended Cab,2002,GMC,Sierra 1500 Extended Cab,Pickup,11804,611,11193
+2021-08-08,Francisco Silva,Isaac Almeida,M,69,da Conceição Alegre,Volkswagen Golf,1998,Volkswagen,Golf,Hatchback,8504,592,7912
+2021-08-08,Vitor Gabriel Castro,Sr. Paulo Pinto,M,59,Lima,INFINITI Q50,2015,INFINITI,Q50,Sedan,11793,579,11214
+2021-08-09,Francisco Silva,Beatriz Caldeira,F,74,da Paz,MAZDA MAZDA3,2012,MAZDA,MAZDA3,"Hatchback, Sedan",9625,7,9618
+2021-08-09,Sophie Peixoto,Esther Fernandes,F,44,Caldeira,Chevrolet Sportvan G20,1992,Chevrolet,Sportvan G20,Van/Minivan,13107,113,12994
+2021-08-10,Sophie Peixoto,Nina Melo,F,32,da Cruz de Goiás,Chevrolet Silverado 3500 Regular Cab,2006,Chevrolet,Silverado 3500 Regular Cab,Pickup,11066,492,10574
+2021-08-10,Yasmin Fernandes,Henrique Silva,M,25,Costela,Nissan Sentra,2018,Nissan,Sentra,Sedan,13914,914,13000
+2021-08-11,Sophie Peixoto,Ana Júlia Lopes,F,78,Cavalcanti de Jesus,GMC Sierra 3500 Regular Cab,2002,GMC,Sierra 3500 Regular Cab,Pickup,8035,564,7471
+2021-08-11,Beatriz Gomes,Mariane da Rosa,F,23,Ribeiro das Flores,Honda Fit,2009,Honda,Fit,Hatchback,8702,909,7793
+2021-08-13,Beatriz Gomes,Srta. Yasmin Moreira,F,74,Rezende de Goiás,Chevrolet Silverado 3500 HD Crew Cab,2009,Chevrolet,Silverado 3500 HD Crew Cab,Pickup,12568,977,11591
+2021-08-14,Francisco Silva,Sra. Ana Vitória da Luz,F,38,Moura,Land Rover LR4,2012,Land Rover,LR4,SUV,13696,952,12744
+2021-08-15,Francisco Silva,Diogo Barbosa,M,23,Ribeiro de Cardoso,Alfa Romeo Spider,1992,Alfa Romeo,Spider,Convertible,8536,587,7949
+2021-08-16,Juliana Jesus,Clara Duarte,F,63,Viana,BMW 5 Series,2004,BMW,5 Series,Sedan,8841,673,8168
+2021-08-17,Beatriz Gomes,Sra. Maria Julia das Neves,F,42,Costela do Amparo,Subaru Legacy,2012,Subaru,Legacy,Sedan,8037,170,7867
+2021-08-17,Francisco Silva,Murilo Teixeira,M,60,Araújo,Dodge Challenger,2015,Dodge,Challenger,Coupe,8956,127,8829
+2021-08-18,Isabella da Rosa,Ian Silva,M,37,da Mata,Toyota Sienna,2018,Toyota,Sienna,Van/Minivan,8802,298,8504
+2021-08-19,Isabella da Rosa,Cecília da Mata,F,50,Nogueira das Pedras,Mercedes-Benz CLS-Class,2015,Mercedes-Benz,CLS-Class,Sedan,9057,826,8231
+2021-08-20,Beatriz Gomes,Sarah da Rosa,F,29,Cunha,GMC 2500 Club Coupe,1998,GMC,2500 Club Coupe,Pickup,9894,452,9442
+2021-08-20,Beatriz Gomes,Catarina da Cruz,F,59,Pereira de Farias,MAZDA Protege5,2002,MAZDA,Protege5,Hatchback,10825,783,10042
+2021-08-21,Beatriz Gomes,Diego Aragão,M,43,Cavalcanti,Honda Odyssey,2013,Honda,Odyssey,Van/Minivan,13048,525,12523
+2021-08-22,Beatriz Gomes,Sabrina Fogaça,F,57,Melo,Pontiac Vibe,2003,Pontiac,Vibe,Wagon,9504,415,9089
+2021-08-22,Francisco Silva,Pietro Oliveira,M,38,Fogaça de Teixeira,Chevrolet TrailBlazer,2008,Chevrolet,TrailBlazer,SUV,9608,937,8671
+2021-08-22,Francisco Silva,Pedro Henrique Teixeira,M,55,Cavalcanti,Lexus GS,2006,Lexus,GS,Sedan,8029,280,7749
+2021-08-23,Juliana Jesus,Joaquim Nascimento,M,23,Sales,Mitsubishi Galant,2002,Mitsubishi,Galant,Sedan,11037,91,10946
+2021-08-24,Vitor Gabriel Castro,Thiago Melo,M,49,Santos,Chevrolet Silverado 1500 Crew Cab,2004,Chevrolet,Silverado 1500 Crew Cab,Pickup,12995,298,12697
+2021-08-25,Vitor Gabriel Castro,Noah Costela,M,62,Cavalcanti da Prata,GMC Sierra 1500 Extended Cab,2013,GMC,Sierra 1500 Extended Cab,Pickup,11490,664,10826
+2021-08-27,Isabella da Rosa,Thales Lima,M,36,Martins de Gomes,Pontiac Montana,2001,Pontiac,Montana,Van/Minivan,10718,158,10560
+2021-08-27,Isabella da Rosa,João Vitor Costa,M,74,Barros,Chevrolet Express 1500 Cargo,2008,Chevrolet,Express 1500 Cargo,Van/Minivan,8357,418,7939
+2021-08-27,Beatriz Gomes,Sr. Pedro Silva,M,24,Cardoso do Oeste,Chevrolet Silverado 1500 HD Crew Cab,2005,Chevrolet,Silverado 1500 HD Crew Cab,Pickup,10620,663,9957
+2021-08-27,Vitor Gabriel Castro,Sabrina Azevedo,F,29,Pinto,Ram 2500 Crew Cab,2012,Ram,2500 Crew Cab,Pickup,13706,382,13324
+2021-08-29,Beatriz Gomes,Juan Souza,M,80,Cardoso da Praia,Subaru Forester,2001,Subaru,Forester,SUV,11509,603,10906
+2021-08-29,Juliana Jesus,Bernardo da Luz,M,24,Moreira do Galho,Mercury Villager,2000,Mercury,Villager,Van/Minivan,9635,478,9157
+2021-08-29,Francisco Silva,Nathan Silveira,M,28,Silva,Aston Martin DB11,2017,Aston Martin,DB11,Coupe,11033,113,10920
+2021-08-31,Francisco Silva,Enrico Barbosa,M,47,Freitas Alegre,INFINITI QX70,2014,INFINITI,QX70,SUV,9260,199,9061
+2021-09-01,Juliana Jesus,Evelyn Gonçalves,F,42,Nunes de Pinto,Pontiac Bonneville,1994,Pontiac,Bonneville,Sedan,9286,174,9112
+2021-09-01,Yasmin Fernandes,Dr. Alexandre Costela,M,53,Almeida,Nissan Frontier Regular Cab,1999,Nissan,Frontier Regular Cab,Pickup,11908,315,11593
+2021-09-01,Beatriz Gomes,Pedro Correia,M,64,Souza,Chevrolet Venture Passenger,2005,Chevrolet,Venture Passenger,Van/Minivan,9837,274,9563
+2021-09-02,Yasmin Fernandes,Dra. Luana da Luz,F,29,Pires do Galho,Ford F150 Super Cab,1995,Ford,F150 Super Cab,Pickup,10430,434,9996
+2021-09-03,Vitor Gabriel Castro,Luiza Almeida,F,78,Sales,Mercedes-Benz SL-Class,1995,Mercedes-Benz,SL-Class,Convertible,9046,333,8713
+2021-09-04,Isabella da Rosa,João Lucas Rezende,M,75,Correia de Melo,Nissan Quest,1999,Nissan,Quest,Van/Minivan,13739,265,13474
+2021-09-05,Yasmin Fernandes,Enzo Gabriel Cunha,M,30,Ferreira,Dodge Sprinter 2500 Cargo,2008,Dodge,Sprinter 2500 Cargo,Van/Minivan,12726,507,12219
+2021-09-05,Sophie Peixoto,Dr. Pedro Lucas Sales,M,23,Duarte,Toyota Tundra Regular Cab,2006,Toyota,Tundra Regular Cab,Pickup,13820,281,13539
+2021-09-06,Isabella da Rosa,Cauê Fernandes,M,58,Gomes da Serra,Chevrolet Malibu,2018,Chevrolet,Malibu,Sedan,8571,62,8509
+2021-09-06,Francisco Silva,Nina Correia,F,59,da Mata,Ram C/V,2012,Ram,C/V,Van/Minivan,8391,764,7627
+2021-09-06,Isabella da Rosa,Isabel Peixoto,F,29,Correia da Prata,Ford Fiesta,2017,Ford,Fiesta,"Sedan, Hatchback",9649,668,8981
+2021-09-06,Juliana Jesus,Ana Lívia Correia,F,52,Lima da Mata,Honda Odyssey,1999,Honda,Odyssey,Van/Minivan,13696,400,13296
+2021-09-06,Yasmin Fernandes,Davi Luiz Araújo,M,74,Silveira,Cadillac Escalade ESV,2018,Cadillac,Escalade ESV,SUV,12026,418,11608
+2021-09-08,Beatriz Gomes,Enzo Barbosa,M,27,Novaes,Volkswagen e-Golf,2018,Volkswagen,e-Golf,Hatchback,11605,406,11199
+2021-09-08,Juliana Jesus,Juliana Jesus,F,61,Aragão Paulista,Cadillac XT5,2020,Cadillac,XT5,SUV,12534,819,11715
+2021-09-10,Juliana Jesus,Luigi da Mata,M,37,Lopes,Cadillac SRX,2007,Cadillac,SRX,SUV,10917,201,10716
+2021-09-11,Vitor Gabriel Castro,Mariane Melo,F,80,Mendes de Silveira,Cadillac STS,2006,Cadillac,STS,Sedan,13977,708,13269
+2021-09-11,Yasmin Fernandes,João Miguel Farias,M,26,Nogueira,Land Rover Range Rover,1994,Land Rover,Range Rover,SUV,13400,823,12577
+2021-09-11,Yasmin Fernandes,Sr. Vinicius Aragão,M,46,Peixoto de Vieira,Dodge Ram 2500 Club Cab,1999,Dodge,Ram 2500 Club Cab,Pickup,9736,326,9410
+2021-09-11,Isabella da Rosa,Ana Júlia Freitas,F,60,Ribeiro,Nissan Versa,2009,Nissan,Versa,"Sedan, Hatchback",13578,689,12889
+2021-09-12,Vitor Gabriel Castro,Henrique Costela,M,32,da Rocha Verde,Nissan Xterra,2001,Nissan,Xterra,SUV,11074,607,10467
+2021-09-13,Beatriz Gomes,Kamilly Mendes,F,41,Martins das Pedras,Mercedes-Benz Mercedes-Maybach S-Class,2017,Mercedes-Benz,Mercedes-Maybach S-Class,Sedan,8742,756,7986
+2021-09-13,Beatriz Gomes,Lucas Gabriel Martins,M,63,Moura,Suzuki SX4,2010,Suzuki,SX4,"Sedan, Hatchback",10686,485,10201
+2021-09-13,Vitor Gabriel Castro,Eloah Santos,F,40,Peixoto de Lopes,Mercury Cougar,2000,Mercury,Cougar,Coupe,9485,868,8617
+2021-09-14,Beatriz Gomes,Luiz Miguel Cunha,M,74,Moraes de Gomes,Chevrolet Metro,2000,Chevrolet,Metro,"Hatchback, Sedan",9873,733,9140
+2021-09-15,Sophie Peixoto,Gabrielly Correia,F,30,Viana,Chevrolet Express 3500 Cargo,2008,Chevrolet,Express 3500 Cargo,Van/Minivan,9795,426,9369
+2021-09-16,Yasmin Fernandes,Olivia da Cunha,F,50,Nascimento,Volvo C70,2012,Volvo,C70,Convertible,10432,16,10416
+2021-09-17,Beatriz Gomes,Henrique Azevedo,M,37,Sales,Mercedes-Benz Mercedes-AMG GLE,2018,Mercedes-Benz,Mercedes-AMG GLE,SUV,9208,115,9093
+2021-09-18,Francisco Silva,Fernando Vieira,M,45,Correia,Chevrolet Corvette,2013,Chevrolet,Corvette,"Coupe, Convertible",13958,241,13717
+2021-09-20,Sophie Peixoto,Lorena Castro,F,64,Teixeira das Pedras,Suzuki Reno,2007,Suzuki,Reno,Hatchback,10337,663,9674
+2021-09-20,Sophie Peixoto,Júlia Barros,F,50,Fernandes da Mata,GMC Vandura 3500,1993,GMC,Vandura 3500,Van/Minivan,12677,576,12101
+2021-09-20,Vitor Gabriel Castro,Lucas Gomes,M,39,da Rosa das Flores,GMC Savana 1500 Cargo,1997,GMC,Savana 1500 Cargo,Van/Minivan,12267,701,11566
+2021-09-20,Sophie Peixoto,João Felipe Mendes,M,23,Rocha de da Mota,Ford Escape,2019,Ford,Escape,SUV,10681,796,9885
+2021-09-21,Beatriz Gomes,Sra. Stella Ferreira,F,35,Lima da Serra,Chevrolet Silverado 2500 HD Crew Cab,2004,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,12372,87,12285
+2021-09-22,Juliana Jesus,Thales Rocha,M,46,Duarte,Volkswagen Golf,2018,Volkswagen,Golf,Hatchback,11194,83,11111
+2021-09-23,Beatriz Gomes,Marcela Costa,F,57,Almeida Grande,Subaru Impreza,1994,Subaru,Impreza,"Sedan, Wagon",11082,1,11081
+2021-09-24,Yasmin Fernandes,Gabriel Santos,M,75,da Mata,GMC Safari Passenger,2005,GMC,Safari Passenger,Van/Minivan,13819,677,13142
+2021-09-24,Vitor Gabriel Castro,Srta. Mirella Rezende,F,30,Viana da Praia,Lexus LX,2015,Lexus,LX,SUV,8605,324,8281
+2021-09-24,Beatriz Gomes,João Pedro Vieira,M,74,Pires,Toyota Celica,1995,Toyota,Celica,"Hatchback, Convertible, Coupe",13872,984,12888
+2021-09-24,Sophie Peixoto,Alana Cavalcanti,F,22,Melo,Honda CR-V,2011,Honda,CR-V,SUV,11099,742,10357
+2021-09-25,Francisco Silva,Dra. Isabel Monteiro,F,72,Novaes da Serra,Kia Cadenza,2015,Kia,Cadenza,Sedan,12585,450,12135
+2021-09-26,Yasmin Fernandes,Erick da Cruz,M,51,Teixeira,Land Rover Range Rover,2000,Land Rover,Range Rover,SUV,10582,811,9771
+2021-09-26,Vitor Gabriel Castro,Antônio Martins,M,54,Azevedo,Mercury Sable,1997,Mercury,Sable,"Sedan, Wagon",10496,48,10448
+2021-09-27,Isabella da Rosa,Maria Cecília Ribeiro,F,72,Castro do Sul,Pontiac Grand Prix,2007,Pontiac,Grand Prix,Sedan,11347,348,10999
+2021-09-28,Sophie Peixoto,Pietra Ramos,F,72,Fogaça da Praia,Ford F250 Super Duty Regular Cab,2015,Ford,F250 Super Duty Regular Cab,Pickup,12967,199,12768
+2021-09-29,Yasmin Fernandes,Dra. Daniela Nunes,F,64,Duarte,Chevrolet Camaro,2011,Chevrolet,Camaro,"Coupe, Convertible",10160,511,9649
+2021-09-30,Juliana Jesus,Rodrigo Oliveira,M,79,Moraes das Flores,Toyota Corolla,2004,Toyota,Corolla,Sedan,12113,857,11256
+2021-09-30,Francisco Silva,Carolina Ferreira,F,78,Silva de Fogaça,Lexus GX,2005,Lexus,GX,SUV,13494,537,12957
+2021-10-01,Vitor Gabriel Castro,Maria Sophia Castro,F,55,Ramos,INFINITI QX80,2015,INFINITI,QX80,SUV,11633,147,11486
+2021-10-01,Isabella da Rosa,Dr. Francisco Barbosa,M,26,Monteiro,Kia Rio,2006,Kia,Rio,"Sedan, Hatchback",10683,845,9838
+2021-10-03,Isabella da Rosa,Vitor Hugo da Rocha,M,72,da Rosa de Duarte,GMC Vandura 3500,1992,GMC,Vandura 3500,Van/Minivan,8906,750,8156
+2021-10-06,Sophie Peixoto,Kaique Silva,M,77,Teixeira de Cunha,Mitsubishi Outlander Sport,2013,Mitsubishi,Outlander Sport,SUV,13296,929,12367
+2021-10-07,Vitor Gabriel Castro,Ryan Rezende,M,22,Correia Paulista,Saab 9000,1998,Saab,9000,Hatchback,10174,219,9955
+2021-10-08,Beatriz Gomes,Camila Azevedo,F,45,Mendes Paulista,Aston Martin DB9,2005,Aston Martin,DB9,"Convertible, Coupe",10780,234,10546
+2021-10-08,Sophie Peixoto,Dr. Davi da Rosa,M,74,Nascimento do Oeste,Nissan Quest,2016,Nissan,Quest,Van/Minivan,10649,534,10115
+2021-10-08,Sophie Peixoto,Ana Júlia Cardoso,F,57,Ferreira,Kia Niro EV,2019,Kia,Niro EV,Wagon,11911,206,11705
+2021-10-09,Francisco Silva,Sra. Maria Ferreira,F,22,das Neves,Volkswagen Passat,1994,Volkswagen,Passat,"Sedan, Wagon",11700,236,11464
+2021-10-11,Juliana Jesus,Nathan da Mata,M,26,Pinto da Mata,Chevrolet Silverado (Classic) 1500 HD Crew Cab,2007,Chevrolet,Silverado (Classic) 1500 HD Crew Cab,Pickup,10015,992,9023
+2021-10-13,Beatriz Gomes,Sofia Ferreira,F,75,Novaes da Praia,Chevrolet Tahoe,2012,Chevrolet,Tahoe,SUV,12230,956,11274
+2021-10-16,Yasmin Fernandes,Maria Julia Porto,F,37,Silva de Castro,Dodge Caravan Passenger,1999,Dodge,Caravan Passenger,Van/Minivan,10433,980,9453
+2021-10-16,Sophie Peixoto,Lara Martins,F,59,da Conceição Alegre,Chrysler Town & Country,2012,Chrysler,Town & Country,Van/Minivan,10524,231,10293
+2021-10-17,Yasmin Fernandes,Rodrigo Pires,M,75,Cunha de da Rosa,Mercedes-Benz Mercedes-AMG GT,2017,Mercedes-Benz,Mercedes-AMG GT,Coupe,8574,276,8298
+2021-10-17,Juliana Jesus,Gustavo Henrique Fernandes,M,24,Oliveira,Volvo S60,2019,Volvo,S60,Sedan,10070,290,9780
+2021-10-17,Sophie Peixoto,Alice Duarte,F,33,Azevedo,Ram 3500 Crew Cab,2018,Ram,3500 Crew Cab,Pickup,8376,348,8028
+2021-10-17,Francisco Silva,Ana Júlia Cardoso,F,65,Teixeira,Toyota Avalon,1998,Toyota,Avalon,Sedan,12648,69,12579
+2021-10-19,Vitor Gabriel Castro,Sr. Daniel Cardoso,M,39,Ribeiro de Monteiro,Nissan Altima,1997,Nissan,Altima,Sedan,10479,665,9814
+2021-10-19,Beatriz Gomes,Laís das Neves,F,78,Santos,Chevrolet Express 3500 Passenger,2005,Chevrolet,Express 3500 Passenger,Van/Minivan,11623,561,11062
+2021-10-20,Francisco Silva,Júlia Freitas,F,24,Oliveira,Honda Passport,2019,Honda,Passport,SUV,9439,866,8573
+2021-10-20,Francisco Silva,Eloah da Costa,F,35,Cunha,GMC Savana 3500 Passenger,2005,GMC,Savana 3500 Passenger,Van/Minivan,9129,961,8168
+2021-10-20,Beatriz Gomes,Francisco Moraes,M,78,Nascimento,Audi A8,2003,Audi,A8,Sedan,8713,276,8437
+2021-10-20,Juliana Jesus,Caroline da Cunha,F,47,Mendes,Jeep Wrangler,2014,Jeep,Wrangler,SUV,12542,908,11634
+2021-10-21,Sophie Peixoto,Bernardo Pereira,M,62,Fogaça Paulista,Kia Sportage,2016,Kia,Sportage,SUV,12445,447,11998
+2021-10-23,Francisco Silva,Isabel Rodrigues,F,48,Vieira,Nissan NV3500 HD Passenger,2018,Nissan,NV3500 HD Passenger,Van/Minivan,10668,101,10567
+2021-10-23,Sophie Peixoto,Raul Farias,M,44,Cavalcanti Paulista,Honda Odyssey,2005,Honda,Odyssey,Van/Minivan,11815,793,11022
+2021-10-24,Sophie Peixoto,Kaique Correia,M,79,Silva,Chrysler 300,1999,Chrysler,300,Sedan,8782,133,8649
+2021-10-24,Juliana Jesus,Vitória Cardoso,F,24,Rodrigues,Lotus Evora,2011,Lotus,Evora,Coupe,11453,261,11192
+2021-10-25,Beatriz Gomes,Joana Caldeira,F,35,Lopes,Oldsmobile Ciera,1996,Oldsmobile,Ciera,"Sedan, Wagon",12522,743,11779
+2021-10-27,Francisco Silva,Yuri Sales,M,26,Rezende de Gonçalves,Chevrolet Suburban 2500,2013,Chevrolet,Suburban 2500,SUV,8345,32,8313
+2021-10-27,Francisco Silva,Ana Lívia Caldeira,F,32,Silveira do Amparo,Nissan Titan Crew Cab,2005,Nissan,Titan Crew Cab,Pickup,12832,440,12392
+2021-10-27,Beatriz Gomes,Eduarda das Neves,F,62,Nascimento de Peixoto,Honda Passport,1997,Honda,Passport,SUV,8595,32,8563
+2021-10-28,Yasmin Fernandes,Davi Cardoso,M,39,da Rocha do Galho,Scion xB,2004,Scion,xB,Hatchback,8380,537,7843
+2021-10-28,Yasmin Fernandes,Beatriz Rezende,F,52,Silva,Chevrolet Blazer,1997,Chevrolet,Blazer,SUV,10943,227,10716
+2021-10-28,Isabella da Rosa,Nina Duarte,F,32,Santos Verde,Chevrolet Express 3500 Cargo,2008,Chevrolet,Express 3500 Cargo,Van/Minivan,13848,303,13545
+2021-10-29,Juliana Jesus,Camila Fernandes,F,76,Gomes,Chevrolet Express 3500 Passenger,2003,Chevrolet,Express 3500 Passenger,Van/Minivan,9049,172,8877
+2021-10-29,Isabella da Rosa,João Lucas Cardoso,M,55,Freitas,GMC Yukon XL 2500,2008,GMC,Yukon XL 2500,SUV,10344,794,9550
+2021-10-30,Beatriz Gomes,Gabrielly das Neves,F,38,da Cunha de Pereira,Ford F150 Regular Cab,2005,Ford,F150 Regular Cab,Pickup,12189,640,11549
+2021-10-30,Sophie Peixoto,Joana Nogueira,F,72,Fogaça de Goiás,Eagle Talon,1995,Eagle,Talon,Hatchback,11544,917,10627
+2021-10-31,Juliana Jesus,Ian da Mata,M,74,Barros,Ford Aerostar Cargo,1994,Ford,Aerostar Cargo,Van/Minivan,8840,1,8839
+2021-10-31,Yasmin Fernandes,Camila Novaes,F,52,da Rocha de Porto,Chrysler Sebring,2005,Chrysler,Sebring,"Coupe, Sedan, Convertible",10069,559,9510
+2021-11-01,Juliana Jesus,Maysa Lopes,F,46,Correia das Flores,BMW X6,2015,BMW,X6,SUV,9814,957,8857
+2021-11-01,Francisco Silva,Bruno da Rosa,M,79,Duarte de Cardoso,Honda Prelude,1996,Honda,Prelude,Coupe,13796,604,13192
+2021-11-01,Yasmin Fernandes,Sr. Luiz Felipe Carvalho,M,41,Santos,Dodge Avenger,2014,Dodge,Avenger,Sedan,12347,364,11983
+2021-11-02,Francisco Silva,Leonardo da Luz,M,29,Ramos,Chevrolet Suburban,2016,Chevrolet,Suburban,SUV,8910,542,8368
+2021-11-04,Juliana Jesus,Carolina Souza,F,72,Cardoso de Silveira,Volkswagen Cabrio,1997,Volkswagen,Cabrio,Convertible,9443,328,9115
+2021-11-06,Beatriz Gomes,Maria Alice Barros,F,25,Araújo,BMW 5 Series,1993,BMW,5 Series,"Wagon, Sedan",11637,586,11051
+2021-11-07,Yasmin Fernandes,Sr. Lucas Oliveira,M,41,da Cruz Paulista,Mitsubishi Outlander,2013,Mitsubishi,Outlander,SUV,8345,304,8041
+2021-11-07,Juliana Jesus,Sra. Esther Nogueira,F,61,Costa,Isuzu Trooper,1999,Isuzu,Trooper,SUV,8077,410,7667
+2021-11-09,Juliana Jesus,Dr. Pedro Lucas Farias,M,78,Santos,Buick Terraza,2006,Buick,Terraza,Van/Minivan,12706,695,12011
+2021-11-10,Francisco Silva,Pedro Miguel Costela,M,80,Freitas da Mata,Nissan Pathfinder,1994,Nissan,Pathfinder,SUV,13486,795,12691
+2021-11-10,Francisco Silva,Alice Martins,F,74,Cardoso de Nunes,Audi SQ5,2015,Audi,SQ5,SUV,11139,967,10172
+2021-11-10,Sophie Peixoto,Cauê Porto,M,34,Sales de Cavalcanti,Mercedes-Benz SL,2019,Mercedes-Benz,SL,Convertible,13744,885,12859
+2021-11-10,Sophie Peixoto,Vitor Hugo Pereira,M,58,da Costa de Oliveira,Hyundai Tucson,2015,Hyundai,Tucson,SUV,12101,624,11477
+2021-11-11,Yasmin Fernandes,Kaique Souza,M,44,da Luz do Galho,Lincoln LS,2005,Lincoln,LS,Sedan,8947,169,8778
+2021-11-11,Juliana Jesus,Valentina Rocha,F,34,da Cruz de da Rosa,Toyota Highlander,2017,Toyota,Highlander,SUV,13212,852,12360
+2021-11-12,Isabella da Rosa,Amanda Pinto,F,25,Cardoso dos Dourados,Audi S6,2003,Audi,S6,Wagon,11789,851,10938
+2021-11-13,Sophie Peixoto,Alexia Oliveira,F,73,Gomes,Plymouth Neon,1997,Plymouth,Neon,"Sedan, Coupe",10930,333,10597
+2021-11-13,Juliana Jesus,Samuel Almeida,M,76,Monteiro do Galho,Ford Taurus,2010,Ford,Taurus,Sedan,9869,202,9667
+2021-11-14,Juliana Jesus,Luiza Costela,F,52,Moreira de Santos,Suzuki Swift,1998,Suzuki,Swift,Hatchback,11597,781,10816
+2021-11-16,Sophie Peixoto,Sr. Luigi Mendes,M,54,Farias,GMC Sierra 3500 HD Crew Cab,2020,GMC,Sierra 3500 HD Crew Cab,Pickup,10625,998,9627
+2021-11-17,Yasmin Fernandes,Dr. João Gabriel Barbosa,M,42,Araújo,Audi S4,2005,Audi,S4,"Convertible, Wagon, Sedan",8750,367,8383
+2021-11-17,Juliana Jesus,Gabrielly Moreira,F,58,Sales,Isuzu Axiom,2003,Isuzu,Axiom,SUV,9392,729,8663
+2021-11-17,Beatriz Gomes,Yasmin Costela,F,41,Barros da Serra,GMC Sonoma Regular Cab,1995,GMC,Sonoma Regular Cab,Pickup,11972,281,11691
+2021-11-17,Juliana Jesus,Davi Lucca Rodrigues,M,66,Cardoso do Campo,GMC Sonoma Club Coupe Cab,1996,GMC,Sonoma Club Coupe Cab,Pickup,10037,785,9252
+2021-11-18,Vitor Gabriel Castro,Sr. Emanuel Melo,M,71,Dias da Prata,Acura RL,2006,Acura,RL,Sedan,9002,477,8525
+2021-11-19,Sophie Peixoto,Kamilly Silva,F,54,Cavalcanti,Volvo S40,2010,Volvo,S40,Sedan,10617,709,9908
+2021-11-19,Sophie Peixoto,Rodrigo Farias,M,80,Lima,Toyota Prius v,2012,Toyota,Prius v,Wagon,9513,258,9255
+2021-11-19,Sophie Peixoto,Bianca Pires,F,54,Peixoto de Santos,Maserati Ghibli,2018,Maserati,Ghibli,Sedan,10350,36,10314
+2021-11-20,Isabella da Rosa,Ana Sophia Santos,F,71,Carvalho do Campo,Chevrolet Blazer,1998,Chevrolet,Blazer,SUV,10873,557,10316
+2021-11-20,Isabella da Rosa,Ian Aragão,M,61,Barros,Honda Odyssey,2014,Honda,Odyssey,Van/Minivan,8621,90,8531
+2021-11-20,Vitor Gabriel Castro,Emanuel da Mata,M,34,Mendes,Mitsubishi Montero,1992,Mitsubishi,Montero,SUV,9075,827,8248
+2021-11-23,Sophie Peixoto,Brenda Ramos,F,26,Costa do Galho,Mercedes-Benz SL-Class,2012,Mercedes-Benz,SL-Class,Convertible,12270,185,12085
+2021-11-23,Yasmin Fernandes,Dr. Nathan da Rocha,M,61,Cardoso,Ford Windstar Passenger,2000,Ford,Windstar Passenger,Van/Minivan,12192,616,11576
+2021-11-24,Beatriz Gomes,Vitor Hugo Castro,M,23,Rezende do Oeste,Volkswagen Golf,2017,Volkswagen,Golf,Hatchback,11890,984,10906
+2021-11-24,Juliana Jesus,Ana Carolina Cavalcanti,F,61,Correia das Pedras,Acura TLX,2020,Acura,TLX,Sedan,10426,344,10082
+2021-11-24,Vitor Gabriel Castro,Maysa da Rocha,F,32,Farias de Lopes,Chevrolet Silverado 2500 HD Regular Cab,2009,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,8186,426,7760
+2021-11-24,Juliana Jesus,Luiz Gustavo Campos,M,66,Farias de Porto,MAZDA MX-5 Miata,2015,MAZDA,MX-5 Miata,Convertible,12459,727,11732
+2021-11-24,Yasmin Fernandes,Davi Lucas Freitas,M,55,Lima de Porto,BMW M6,2014,BMW,M6,"Coupe, Convertible",11894,302,11592
+2021-11-24,Francisco Silva,Alícia Carvalho,F,45,Santos,Suzuki Reno,2005,Suzuki,Reno,Hatchback,8544,985,7559
+2021-11-25,Beatriz Gomes,Ana Lívia da Costa,F,44,Araújo,Ford Five Hundred,2006,Ford,Five Hundred,Sedan,9160,885,8275
+2021-11-26,Francisco Silva,Maria Alice Moura,F,51,Mendes,Lexus IS,2010,Lexus,IS,"Convertible, Sedan",10634,638,9996
+2021-11-26,Isabella da Rosa,Kamilly Silva,F,72,Carvalho,Nissan Frontier King Cab,2006,Nissan,Frontier King Cab,Pickup,11679,743,10936
+2021-11-28,Vitor Gabriel Castro,Dr. Pedro Henrique da Luz,M,61,Lopes de Martins,Ford Econoline E150 Cargo,1998,Ford,Econoline E150 Cargo,Van/Minivan,8814,440,8374
+2021-11-29,Francisco Silva,Samuel Duarte,M,34,da Mata do Sul,GMC Canyon Crew Cab,2005,GMC,Canyon Crew Cab,Pickup,12916,386,12530
+2021-11-29,Isabella da Rosa,Luiz Gustavo Nascimento,M,55,Melo,GMC Jimmy,1992,GMC,Jimmy,SUV,8968,917,8051
+2021-11-29,Juliana Jesus,Bryan Costela,M,25,Barros Grande,Honda Odyssey,2003,Honda,Odyssey,Van/Minivan,12244,669,11575
+2021-11-29,Yasmin Fernandes,Ana Julia Pereira,F,57,Barbosa da Serra,Chevrolet Corsica,1996,Chevrolet,Corsica,Sedan,8800,255,8545
+2021-11-30,Juliana Jesus,Maitê Viana,F,72,Nunes,Pontiac Grand Am,1998,Pontiac,Grand Am,"Sedan, Coupe",13432,829,12603
+2021-11-30,Beatriz Gomes,Cecília da Cruz,F,37,Martins da Mata,Ford Expedition,1997,Ford,Expedition,SUV,12143,921,11222
+2021-11-30,Beatriz Gomes,Alícia Campos,F,34,Fogaça,Ram 3500 Mega Cab,2016,Ram,3500 Mega Cab,Pickup,9996,592,9404
+2021-12-01,Juliana Jesus,Clarice Sales,F,77,da Mota,Cadillac CTS,2005,Cadillac,CTS,Sedan,9538,382,9156
+2021-12-02,Beatriz Gomes,Danilo Duarte,M,51,Carvalho de Freitas,Pontiac Montana,2005,Pontiac,Montana,Van/Minivan,12040,855,11185
+2021-12-02,Juliana Jesus,Alexandre Cunha,M,50,Almeida do Galho,Chrysler 300,2005,Chrysler,300,Sedan,11334,659,10675
+2021-12-03,Vitor Gabriel Castro,Clarice Cardoso,F,56,da Costa,Lincoln Navigator,2015,Lincoln,Navigator,SUV,11025,900,10125
+2021-12-03,Vitor Gabriel Castro,Srta. Gabriela da Rosa,F,24,Oliveira da Prata,Nissan Pathfinder,1994,Nissan,Pathfinder,SUV,13217,347,12870
+2021-12-03,Juliana Jesus,Sra. Maria Eduarda Castro,F,71,da Cruz,Chevrolet 1500 Extended Cab,1998,Chevrolet,1500 Extended Cab,Pickup,13454,784,12670
+2021-12-04,Beatriz Gomes,Bárbara Silva,F,30,Mendes de Ferreira,Toyota Highlander Hybrid,2019,Toyota,Highlander Hybrid,SUV,13193,443,12750
+2021-12-04,Francisco Silva,Sra. Marina Moraes,F,38,Silveira,Ford Windstar Passenger,2000,Ford,Windstar Passenger,Van/Minivan,13197,823,12374
+2021-12-04,Yasmin Fernandes,Maria Sophia Cavalcanti,F,75,Azevedo,Kia Sorento,2018,Kia,Sorento,SUV,12676,956,11720
+2021-12-05,Juliana Jesus,Yago Nogueira,M,47,Rezende do Campo,Plymouth Sundance,1994,Plymouth,Sundance,Hatchback,13499,686,12813
+2021-12-06,Francisco Silva,João Lucas Teixeira,M,43,Alves das Pedras,Chevrolet Express 2500 Cargo,2003,Chevrolet,Express 2500 Cargo,Van/Minivan,13150,398,12752
+2021-12-07,Juliana Jesus,Leonardo Teixeira,M,25,Barros,INFINITI QX,2011,INFINITI,QX,SUV,11529,838,10691
+2021-12-08,Juliana Jesus,Rebeca Cavalcanti,F,56,Fogaça do Oeste,GMC 2500 Crew Cab,1999,GMC,2500 Crew Cab,Pickup,9583,823,8760
+2021-12-09,Francisco Silva,João Vitor Rezende,M,67,Moura,Ferrari 599 GTB Fiorano,2007,Ferrari,599 GTB Fiorano,Coupe,10949,721,10228
+2021-12-09,Juliana Jesus,Dra. Letícia Farias,F,32,da Costa Grande,Ford E150 Super Duty Passenger,2008,Ford,E150 Super Duty Passenger,Van/Minivan,10564,341,10223
+2021-12-09,Sophie Peixoto,Ian Pires,M,36,da Mota do Campo,Nissan NV3500 HD Cargo,2016,Nissan,NV3500 HD Cargo,Van/Minivan,9184,358,8826
+2021-12-10,Sophie Peixoto,João Gabriel Rocha,M,80,Nunes,Dodge Dakota Quad Cab,2007,Dodge,Dakota Quad Cab,Pickup,9670,345,9325
+2021-12-10,Yasmin Fernandes,Nicole da Mota,F,35,da Mota de da Paz,Ford Thunderbird,2003,Ford,Thunderbird,Convertible,11271,201,11070
+2021-12-11,Yasmin Fernandes,Heloísa Cavalcanti,F,60,Lopes,smart fortwo electric drive cabrio,2018,smart,fortwo electric drive cabrio,Convertible,11245,330,10915
+2021-12-12,Isabella da Rosa,Alexia Rodrigues,F,70,Moraes,Acura MDX,2005,Acura,MDX,SUV,12322,893,11429
+2021-12-12,Isabella da Rosa,Ana Pires,F,78,Barbosa do Galho,Chevrolet Camaro,1995,Chevrolet,Camaro,"Convertible, Hatchback",8834,233,8601
+2021-12-13,Sophie Peixoto,Antônio Cavalcanti,M,54,Santos da Praia,Hyundai Sonata,1998,Hyundai,Sonata,Sedan,11050,46,11004
+2021-12-14,Beatriz Gomes,Elisa da Paz,F,53,Farias,Isuzu i-370 Extended Cab,2008,Isuzu,i-370 Extended Cab,Pickup,11283,784,10499
+2021-12-14,Isabella da Rosa,Pedro Miguel Fernandes,M,54,Oliveira de Aragão,Volkswagen Cabrio (New),1999,Volkswagen,Cabrio (New),Convertible,9269,670,8599
+2021-12-16,Sophie Peixoto,Alana Ribeiro,F,55,Martins,GMC Sierra (Classic) 1500 Regular Cab,2007,GMC,Sierra (Classic) 1500 Regular Cab,Pickup,12626,344,12282
+2021-12-17,Juliana Jesus,Daniel da Paz,M,37,Sales Alegre,Dodge Ram 2500 Regular Cab,1998,Dodge,Ram 2500 Regular Cab,Pickup,10594,603,9991
+2021-12-17,Yasmin Fernandes,Sra. Isabella Pinto,F,57,Martins Verde,Buick Park Avenue,2001,Buick,Park Avenue,Sedan,9938,792,9146
+2021-12-18,Beatriz Gomes,Thomas Martins,M,46,Duarte de Aragão,Buick Century,2001,Buick,Century,Sedan,12101,547,11554
+2021-12-18,Francisco Silva,Maria Alice Rodrigues,F,78,Costa de Pereira,Mitsubishi Mirage,1995,Mitsubishi,Mirage,"Sedan, Coupe",10349,383,9966
+2021-12-19,Sophie Peixoto,Vinicius Rodrigues,M,68,Rezende,Mercedes-Benz GLC,2019,Mercedes-Benz,GLC,SUV,9684,986,8698
+2021-12-20,Juliana Jesus,Bianca das Neves,F,54,Barros da Mata,Eagle Talon,1993,Eagle,Talon,Hatchback,11636,7,11629
+2021-12-20,Isabella da Rosa,Isis Araújo,F,61,da Costa da Serra,GMC Yukon XL 1500,2013,GMC,Yukon XL 1500,SUV,13260,841,12419
+2021-12-20,Isabella da Rosa,Sr. Theo da Mota,M,54,Pinto da Mata,Toyota Matrix,2010,Toyota,Matrix,Wagon,8871,822,8049
+2021-12-23,Yasmin Fernandes,Valentina da Paz,F,52,Sales,Dodge Dakota Regular Cab,1995,Dodge,Dakota Regular Cab,Pickup,8225,258,7967
+2021-12-24,Yasmin Fernandes,Sarah Duarte,F,26,Martins de Goiás,Audi A5,2015,Audi,A5,"Coupe, Convertible",9416,382,9034
+2021-12-24,Beatriz Gomes,João Pedro Souza,M,61,Peixoto do Oeste,Ford Explorer,2014,Ford,Explorer,SUV,10618,401,10217
+2021-12-25,Juliana Jesus,Henrique Costela,M,22,Mendes,Chevrolet Suburban 2500,2008,Chevrolet,Suburban 2500,SUV,8604,996,7608
+2021-12-25,Isabella da Rosa,Beatriz Farias,F,42,Carvalho,Kia Rio,2008,Kia,Rio,"Sedan, Hatchback",11016,884,10132
+2021-12-25,Francisco Silva,Srta. Alexia Lima,F,29,Pereira,Suzuki XL-7,2006,Suzuki,XL-7,SUV,9458,633,8825
+2021-12-26,Francisco Silva,Agatha Monteiro,F,56,Lopes do Sul,Volkswagen Tiguan,2014,Volkswagen,Tiguan,SUV,10491,962,9529
+2021-12-27,Sophie Peixoto,Emanuella Nunes,F,35,Silveira,Ford E150 Super Duty Passenger,2006,Ford,E150 Super Duty Passenger,Van/Minivan,13114,542,12572
+2021-12-27,Isabella da Rosa,Vitor Hugo Pires,M,49,Moreira,Pontiac Torrent,2007,Pontiac,Torrent,SUV,9866,769,9097
+2021-12-28,Sophie Peixoto,Sra. Ana Júlia Ramos,F,30,Santos de Minas,Chevrolet Cruze,2012,Chevrolet,Cruze,Sedan,13401,994,12407
+2021-12-28,Juliana Jesus,Dr. Yuri Moreira,M,43,Farias,Chevrolet Equinox,2013,Chevrolet,Equinox,SUV,11855,588,11267
+2021-12-28,Juliana Jesus,Paulo Castro,M,33,Farias do Oeste,Isuzu i-370 Extended Cab,2007,Isuzu,i-370 Extended Cab,Pickup,13369,291,13078
+2021-12-29,Yasmin Fernandes,Noah Nascimento,M,48,Vieira,Nissan Armada,2011,Nissan,Armada,SUV,10004,217,9787
+2021-12-30,Francisco Silva,Marcela Gonçalves,F,39,Rodrigues do Campo,MAZDA B-Series Regular Cab,2005,MAZDA,B-Series Regular Cab,Pickup,12111,716,11395
+2021-12-31,Francisco Silva,Davi Lucas da Mota,M,32,Moura de Cavalcanti,Mitsubishi Eclipse,1993,Mitsubishi,Eclipse,Hatchback,11063,16,11047
+2022-01-01,Isabella da Rosa,Gustavo Henrique Silveira,M,46,Melo de Oliveira,Ford Windstar Passenger,2000,Ford,Windstar Passenger,Van/Minivan,12009,391,11618
+2022-01-02,Juliana Jesus,Dr. Henrique Rodrigues,M,56,Vieira das Flores,BMW Z4,2012,BMW,Z4,Convertible,9449,970,8479
+2022-01-03,Juliana Jesus,Sra. Júlia Martins,F,25,Cardoso,Acura RDX,2013,Acura,RDX,SUV,8292,40,8252
+2022-01-03,Juliana Jesus,Sarah Moreira,F,76,Carvalho Verde,Subaru Legacy,1995,Subaru,Legacy,"Sedan, Wagon",11211,442,10769
+2022-01-03,Vitor Gabriel Castro,João Pedro Pinto,M,34,Alves,Mercedes-Benz E-Class,2001,Mercedes-Benz,E-Class,"Sedan, Wagon",8351,983,7368
+2022-01-07,Sophie Peixoto,Levi da Cunha,M,22,Moraes,Hyundai Tiburon,1998,Hyundai,Tiburon,Hatchback,8282,816,7466
+2022-01-08,Yasmin Fernandes,Marina Teixeira,F,22,Souza da Prata,Ford F250 Super Duty Crew Cab,2001,Ford,F250 Super Duty Crew Cab,Pickup,10727,578,10149
+2022-01-09,Yasmin Fernandes,Gustavo Henrique da Conceição,M,55,da Conceição do Campo,MINI Hardtop 2 Door,2018,MINI,Hardtop 2 Door,Hatchback,10751,520,10231
+2022-01-09,Beatriz Gomes,Juan da Conceição,M,60,Duarte,Mercedes-Benz Mercedes-AMG SL,2016,Mercedes-Benz,Mercedes-AMG SL,Convertible,12483,228,12255
+2022-01-11,Isabella da Rosa,Gustavo Henrique Pinto,M,44,Caldeira dos Dourados,INFINITI FX,2011,INFINITI,FX,SUV,8035,454,7581
+2022-01-12,Francisco Silva,Miguel Jesus,M,72,da Rosa,Dodge Avenger,2011,Dodge,Avenger,Sedan,9122,265,8857
+2022-01-12,Isabella da Rosa,Nicolas da Conceição,M,37,Porto,Honda Accord,2004,Honda,Accord,"Sedan, Coupe",13786,327,13459
+2022-01-13,Juliana Jesus,Sra. Maria Fernanda Jesus,F,78,Lima Grande,Mercedes-Benz SL-Class,2013,Mercedes-Benz,SL-Class,Convertible,8720,119,8601
+2022-01-13,Francisco Silva,Luana Novaes,F,24,Duarte,Ram 1500 Quad Cab,2011,Ram,1500 Quad Cab,Pickup,10932,650,10282
+2022-01-13,Sophie Peixoto,Lucca da Mota,M,23,Melo Paulista,Nissan LEAF,2013,Nissan,LEAF,Hatchback,9736,363,9373
+2022-01-15,Sophie Peixoto,Luiz Felipe Dias,M,29,Nogueira dos Dourados,Jaguar XK,1998,Jaguar,XK,"Coupe, Convertible",10519,525,9994
+2022-01-15,Yasmin Fernandes,Dr. Davi Lucas Duarte,M,58,Viana de Sales,INFINITI G,2003,INFINITI,G,"Sedan, Coupe",12416,443,11973
+2022-01-17,Beatriz Gomes,Vitor Gabriel Melo,M,48,da Cunha de Rodrigues,Chevrolet Silverado 2500 HD Double Cab,2018,Chevrolet,Silverado 2500 HD Double Cab,Pickup,12711,804,11907
+2022-01-18,Isabella da Rosa,Isadora Sales,F,75,Moreira do Sul,Chevrolet Blazer,1996,Chevrolet,Blazer,SUV,12052,761,11291
+2022-01-18,Francisco Silva,Catarina Mendes,F,80,Barbosa de da Cunha,Mitsubishi Diamante,1992,Mitsubishi,Diamante,Sedan,12529,977,11552
+2022-01-21,Beatriz Gomes,Caio Melo,M,33,Cavalcanti dos Dourados,Nissan Rogue Select,2015,Nissan,Rogue Select,SUV,10571,461,10110
+2022-01-22,Sophie Peixoto,Sra. Maysa Souza,F,25,Oliveira do Sul,BMW 3 Series,1993,BMW,3 Series,"Sedan, Coupe, Convertible",13629,427,13202
+2022-01-23,Francisco Silva,Catarina Nascimento,F,67,Cardoso,Pontiac Grand Prix,1998,Pontiac,Grand Prix,"Coupe, Sedan",8179,513,7666
+2022-01-23,Yasmin Fernandes,Antônio Castro,M,62,Barbosa Alegre,Ram 3500 Mega Cab,2016,Ram,3500 Mega Cab,Pickup,12065,413,11652
+2022-01-23,Yasmin Fernandes,Luiz Felipe da Rocha,M,40,Fogaça do Galho,Mercedes-Benz CLS-Class,2011,Mercedes-Benz,CLS-Class,Coupe,13613,206,13407
+2022-01-24,Juliana Jesus,Natália das Neves,F,38,da Cruz da Mata,Kia Rio,2003,Kia,Rio,"Sedan, Wagon",8333,17,8316
+2022-01-25,Isabella da Rosa,Alícia Souza,F,33,Pinto,Jeep Wrangler,1998,Jeep,Wrangler,SUV,10538,767,9771
+2022-01-25,Vitor Gabriel Castro,Enzo Peixoto,M,78,Farias,Mitsubishi Expo,1994,Mitsubishi,Expo,Wagon,10295,776,9519
+2022-01-26,Yasmin Fernandes,Eloah Gomes,F,46,Sales,BMW M,2000,BMW,M,"Hatchback, Convertible",9713,959,8754
+2022-01-26,Vitor Gabriel Castro,Gustavo Henrique Farias,M,33,das Neves da Prata,Audi Q7,2010,Audi,Q7,SUV,10653,97,10556
+2022-01-26,Sophie Peixoto,Isabelly Caldeira,F,46,da Luz da Mata,Toyota RAV4,2017,Toyota,RAV4,SUV,11028,904,10124
+2022-01-26,Francisco Silva,Ryan Alves,M,51,Melo,Audi Q7,2017,Audi,Q7,SUV,10788,756,10032
+2022-01-27,Vitor Gabriel Castro,João Guilherme Silva,M,67,Barbosa de Vieira,Pontiac Bonneville,2003,Pontiac,Bonneville,Sedan,12660,947,11713
+2022-01-27,Yasmin Fernandes,Guilherme Cunha,M,50,Gonçalves de Minas,Chevrolet Express 1500 Cargo,2004,Chevrolet,Express 1500 Cargo,Van/Minivan,9274,548,8726
+2022-01-27,Sophie Peixoto,Murilo Lima,M,33,Moraes,Mercedes-Benz Mercedes-AMG GT,2016,Mercedes-Benz,Mercedes-AMG GT,Coupe,12216,959,11257
+2022-01-28,Isabella da Rosa,Sr. Gabriel Araújo,M,66,Cunha,Volkswagen Routan,2009,Volkswagen,Routan,Van/Minivan,11694,388,11306
+2022-01-29,Sophie Peixoto,Marcela Rocha,F,61,Peixoto do Campo,Eagle Summit,1996,Eagle,Summit,"Sedan, Coupe, Wagon",11131,882,10249
+2022-01-29,Juliana Jesus,Rafaela Souza,F,68,Barbosa,Ford Mustang,2009,Ford,Mustang,"Convertible, Coupe",13775,369,13406
+2022-01-29,Isabella da Rosa,Sophia da Paz,F,60,Azevedo,Plymouth Grand Voyager,1993,Plymouth,Grand Voyager,Van/Minivan,9256,72,9184
+2022-01-30,Beatriz Gomes,Emilly Gomes,F,30,Duarte,Toyota Echo,2000,Toyota,Echo,"Sedan, Coupe",10053,138,9915
+2022-02-01,Yasmin Fernandes,Cauã Nascimento,M,58,da Cunha,Mitsubishi Outlander PHEV,2018,Mitsubishi,Outlander PHEV,SUV,10302,607,9695
+2022-02-02,Francisco Silva,Erick Teixeira,M,76,Dias da Serra,Dodge Grand Caravan Passenger,2019,Dodge,Grand Caravan Passenger,Van/Minivan,13573,502,13071
+2022-02-02,Francisco Silva,Vitória Moura,F,69,Sales do Galho,Dodge Stratus,1999,Dodge,Stratus,Sedan,12343,847,11496
+2022-02-04,Isabella da Rosa,Daniel Barbosa,M,54,Pires,Mercedes-Benz C-Class,1998,Mercedes-Benz,C-Class,Sedan,10054,683,9371
+2022-02-06,Beatriz Gomes,Mirella Gomes,F,73,Melo,Honda Accord,1996,Honda,Accord,"Sedan, Wagon, Coupe",11775,493,11282
+2022-02-06,Francisco Silva,Marcos Vinicius Pereira,M,39,Souza,Ford Aerostar Cargo,1994,Ford,Aerostar Cargo,Van/Minivan,12915,173,12742
+2022-02-07,Yasmin Fernandes,Emanuel Moreira,M,43,Gonçalves de Gonçalves,Lincoln Navigator L,2010,Lincoln,Navigator L,SUV,8670,959,7711
+2022-02-07,Francisco Silva,Srta. Emanuelly Lima,F,35,Santos,Panoz Esperante,2005,Panoz,Esperante,"Coupe, Convertible",9050,370,8680
+2022-02-09,Yasmin Fernandes,Levi Cardoso,M,45,Fogaça da Praia,Honda CR-Z,2014,Honda,CR-Z,Coupe,12882,838,12044
+2022-02-09,Francisco Silva,Dra. Vitória Nascimento,F,32,Costa,Eagle Vision,1995,Eagle,Vision,Sedan,9407,695,8712
+2022-02-10,Sophie Peixoto,Evelyn Mendes,F,58,Almeida do Sul,Chevrolet G-Series G20,1994,Chevrolet,G-Series G20,Van/Minivan,12160,374,11786
+2022-02-10,Vitor Gabriel Castro,Dra. Emilly Farias,F,66,Gonçalves,Volvo XC60,2016,Volvo,XC60,SUV,11448,219,11229
+2022-02-11,Beatriz Gomes,Dra. Eloah Ferreira,F,55,da Costa de Porto,Chevrolet Astro Cargo,2005,Chevrolet,Astro Cargo,Van/Minivan,11866,565,11301
+2022-02-11,Juliana Jesus,Luiza da Cunha,F,40,Aragão,Cadillac Eldorado,2002,Cadillac,Eldorado,Coupe,8497,610,7887
+2022-02-11,Beatriz Gomes,Davi Lucas Cardoso,M,45,Silveira do Oeste,Subaru Legacy,2016,Subaru,Legacy,Sedan,12790,867,11923
+2022-02-11,Vitor Gabriel Castro,André Ribeiro,M,74,Dias de Duarte,Dodge Ram 3500 Quad Cab,2008,Dodge,Ram 3500 Quad Cab,Pickup,8667,631,8036
+2022-02-13,Francisco Silva,Enzo Rezende,M,32,Azevedo de Nascimento,Chrysler 300,2015,Chrysler,300,Sedan,8540,563,7977
+2022-02-13,Vitor Gabriel Castro,Juliana Silveira,F,62,Lima,Mercedes-Benz Mercedes-Maybach S 600,2016,Mercedes-Benz,Mercedes-Maybach S 600,Sedan,10346,19,10327
+2022-02-13,Francisco Silva,Heloísa Costa,F,55,da Cruz,Volkswagen New Beetle,2001,Volkswagen,New Beetle,Hatchback,13343,69,13274
+2022-02-16,Juliana Jesus,Sra. Luiza Caldeira,F,43,Mendes de Barros,Nissan Versa,2010,Nissan,Versa,"Sedan, Hatchback",13290,331,12959
+2022-02-18,Juliana Jesus,Giovanna Pires,F,54,Barros,Lexus RX,2011,Lexus,RX,SUV,12579,467,12112
+2022-02-20,Juliana Jesus,Bruno Azevedo,M,22,Moreira,Chevrolet Beretta,1995,Chevrolet,Beretta,Coupe,11352,836,10516
+2022-02-20,Isabella da Rosa,Sr. Breno da Costa,M,27,Barbosa de Goiás,Mitsubishi Lancer,2017,Mitsubishi,Lancer,Sedan,10329,670,9659
+2022-02-21,Juliana Jesus,Maria Cecília Viana,F,70,Fernandes,Nissan Regular Cab,1995,Nissan,Regular Cab,Pickup,13552,587,12965
+2022-02-22,Vitor Gabriel Castro,Luiz Henrique Monteiro,M,27,Moura do Oeste,Jeep Grand Cherokee,2007,Jeep,Grand Cherokee,SUV,10315,606,9709
+2022-02-22,Sophie Peixoto,Milena Novaes,F,34,Nascimento,Maserati Quattroporte,2006,Maserati,Quattroporte,Sedan,11688,584,11104
+2022-02-23,Yasmin Fernandes,Luiza Azevedo,F,62,Alves da Praia,Toyota Highlander,2006,Toyota,Highlander,SUV,11522,95,11427
+2022-02-23,Vitor Gabriel Castro,Vitória Cunha,F,51,Santos Grande,Lincoln Navigator L,2019,Lincoln,Navigator L,SUV,13862,64,13798
+2022-02-24,Beatriz Gomes,Luiz Fernando Ribeiro,M,22,Carvalho da Prata,Mercedes-Benz Sprinter 2500 Crew,2014,Mercedes-Benz,Sprinter 2500 Crew,Van/Minivan,11242,241,11001
+2022-02-24,Juliana Jesus,Stephany Ferreira,F,59,Barbosa de Minas,GMC Canyon Extended Cab,2017,GMC,Canyon Extended Cab,Pickup,9060,144,8916
+2022-02-25,Isabella da Rosa,Fernando Novaes,M,55,Pires do Campo,Mercedes-Benz M-Class,2003,Mercedes-Benz,M-Class,SUV,12478,764,11714
+2022-02-25,Yasmin Fernandes,Augusto Fogaça,M,68,Melo,Alfa Romeo 164,1995,Alfa Romeo,164,Sedan,12845,664,12181
+2022-02-25,Francisco Silva,Alana Lima,F,55,Vieira do Amparo,Mercedes-Benz 190 E,1993,Mercedes-Benz,190 E,Sedan,9669,1000,8669
+2022-02-26,Vitor Gabriel Castro,Maria Julia Martins,F,31,Nogueira,Chevrolet S10 Blazer,1993,Chevrolet,S10 Blazer,SUV,12297,198,12099
+2022-02-27,Isabella da Rosa,Sr. João Lucas da Cunha,M,43,Caldeira do Campo,Audi A4,2011,Audi,A4,"Sedan, Wagon",11056,801,10255
+2022-02-28,Vitor Gabriel Castro,Alice Nunes,F,76,Ramos,Ford Expedition,2012,Ford,Expedition,SUV,12377,830,11547
+2022-03-01,Isabella da Rosa,Giovanna Lopes,F,75,Castro,Acura RDX,2013,Acura,RDX,SUV,10159,310,9849
+2022-03-02,Yasmin Fernandes,Daniela Gomes,F,33,Carvalho de Goiás,Mitsubishi Galant,1992,Mitsubishi,Galant,Sedan,12618,180,12438
+2022-03-03,Sophie Peixoto,Francisco Cardoso,M,62,Silva de Teixeira,Toyota Camry,2019,Toyota,Camry,Sedan,12814,247,12567
+2022-03-03,Beatriz Gomes,Cecília Pereira,F,26,Nunes do Amparo,Mitsubishi Montero,2003,Mitsubishi,Montero,SUV,9277,897,8380
+2022-03-03,Beatriz Gomes,Benício Cunha,M,41,Castro das Pedras,Acura RL,2002,Acura,RL,Sedan,9489,237,9252
+2022-03-04,Francisco Silva,Pedro Miguel Santos,M,59,Silveira de Viana,Nissan Pathfinder,1997,Nissan,Pathfinder,SUV,12998,760,12238
+2022-03-04,Sophie Peixoto,Thiago Rocha,M,24,Sales de Carvalho,GMC Sierra 1500 Regular Cab,2018,GMC,Sierra 1500 Regular Cab,Pickup,12274,644,11630
+2022-03-04,Vitor Gabriel Castro,Maria Fernandes,F,47,da Paz,Acura MDX,2006,Acura,MDX,SUV,9965,339,9626
+2022-03-05,Francisco Silva,Rebeca Ferreira,F,36,Caldeira do Galho,Honda Passport,2002,Honda,Passport,SUV,9073,147,8926
+2022-03-05,Beatriz Gomes,Bruna Porto,F,22,Almeida,Audi S6,2010,Audi,S6,Sedan,8695,170,8525
+2022-03-06,Sophie Peixoto,Sr. Enzo Gabriel Gomes,M,57,Cardoso,MAZDA B-Series Regular Cab,2008,MAZDA,B-Series Regular Cab,Pickup,10458,839,9619
+2022-03-08,Francisco Silva,Gabriela Silva,F,41,Silveira,smart fortwo electric drive,2015,smart,fortwo electric drive,"Hatchback, Convertible",8197,313,7884
+2022-03-09,Vitor Gabriel Castro,Dra. Ana Azevedo,F,74,Novaes da Prata,GMC Sierra 2500 HD Regular Cab,2009,GMC,Sierra 2500 HD Regular Cab,Pickup,9633,19,9614
+2022-03-10,Yasmin Fernandes,Ana Júlia Pires,F,56,da Mota da Prata,Chrysler LeBaron,1992,Chrysler,LeBaron,"Sedan, Coupe, Convertible",12631,681,11950
+2022-03-11,Isabella da Rosa,Júlia Ferreira,F,43,Cavalcanti da Prata,Ford Transit 250 Van,2018,Ford,Transit 250 Van,Van/Minivan,11654,960,10694
+2022-03-11,Juliana Jesus,Sr. Calebe Ramos,M,71,Rocha,Honda Prelude,2000,Honda,Prelude,Coupe,10504,362,10142
+2022-03-12,Juliana Jesus,Fernanda da Costa,F,44,Alves,Toyota Xtra Cab,1994,Toyota,Xtra Cab,Pickup,10661,857,9804
+2022-03-12,Sophie Peixoto,Diego Costa,M,77,Vieira,MAZDA 929,1995,MAZDA,929,Sedan,10020,244,9776
+2022-03-13,Juliana Jesus,Calebe Almeida,M,29,Gomes,GMC Savana 3500 Cargo,2011,GMC,Savana 3500 Cargo,Van/Minivan,13339,45,13294
+2022-03-15,Beatriz Gomes,Eduarda Moraes,F,36,Peixoto,Toyota Sienna,2004,Toyota,Sienna,Van/Minivan,13099,474,12625
+2022-03-15,Beatriz Gomes,Augusto Lopes,M,64,Azevedo da Mata,Dodge Sprinter 2500 Passenger,2003,Dodge,Sprinter 2500 Passenger,Van/Minivan,13952,192,13760
+2022-03-15,Francisco Silva,Ryan Ramos,M,54,Alves,Toyota Sienna,2005,Toyota,Sienna,Van/Minivan,9586,88,9498
+2022-03-15,Juliana Jesus,Gabrielly Correia,F,22,Campos,GMC 3500 Crew Cab,1994,GMC,3500 Crew Cab,Pickup,8316,590,7726
+2022-03-16,Yasmin Fernandes,Ana Sophia Cunha,F,72,Teixeira de Goiás,Porsche 911,1994,Porsche,911,"Coupe, Convertible",12731,668,12063
+2022-03-18,Juliana Jesus,Sra. Maria Vitória da Costa,F,75,da Mota,Saab 3-Sep,2008,Saab,3-Sep,"Sedan, Convertible, Wagon",8912,307,8605
+2022-03-18,Beatriz Gomes,Bryan Monteiro,M,46,Nascimento de Goiás,GMC Safari Passenger,1995,GMC,Safari Passenger,Van/Minivan,11392,289,11103
+2022-03-19,Sophie Peixoto,Laís Barros,F,62,Ramos do Amparo,FIAT 500 Abarth,2015,FIAT,500 Abarth,"Hatchback, Convertible",10933,260,10673
+2022-03-19,Sophie Peixoto,Alícia da Mota,F,61,da Rocha dos Dourados,Toyota Tacoma Double Cab,2016,Toyota,Tacoma Double Cab,Pickup,9423,301,9122
+2022-03-20,Beatriz Gomes,Yago Freitas,M,38,Mendes do Oeste,Suzuki Vitara,2000,Suzuki,Vitara,SUV,8307,722,7585
+2022-03-20,Yasmin Fernandes,Bruna Costa,F,69,da Costa,GMC Safari Cargo,2004,GMC,Safari Cargo,Van/Minivan,9334,394,8940
+2022-03-20,Yasmin Fernandes,Benjamin Alves,M,37,Melo do Campo,Ford F250 Super Duty Regular Cab,2006,Ford,F250 Super Duty Regular Cab,Pickup,11953,971,10982
+2022-03-20,Beatriz Gomes,Dra. Giovanna Vieira,F,37,da Cunha do Amparo,Chevrolet Colorado Regular Cab,2010,Chevrolet,Colorado Regular Cab,Pickup,10503,846,9657
+2022-03-21,Yasmin Fernandes,Dr. Yago Pires,M,54,Teixeira de Ferreira,Chevrolet Sportvan G10,1993,Chevrolet,Sportvan G10,Van/Minivan,12743,279,12464
+2022-03-21,Beatriz Gomes,Mariana Silveira,F,34,Almeida,GMC Sierra 1500 Crew Cab,2010,GMC,Sierra 1500 Crew Cab,Pickup,9364,273,9091
+2022-03-25,Yasmin Fernandes,Luiz Henrique Jesus,M,60,Nunes,Subaru Legacy,2017,Subaru,Legacy,Sedan,9986,918,9068
+2022-03-27,Sophie Peixoto,Ana Júlia Caldeira,F,22,Dias,Ram 1500 Quad Cab,2011,Ram,1500 Quad Cab,Pickup,12454,910,11544
+2022-03-27,Juliana Jesus,Alexandre Dias,M,47,Sales de Pereira,Nissan Pathfinder,1994,Nissan,Pathfinder,SUV,13818,412,13406
+2022-03-27,Yasmin Fernandes,Ana Beatriz Castro,F,66,Vieira de Dias,FIAT 500 Abarth,2015,FIAT,500 Abarth,"Hatchback, Convertible",12864,16,12848
+2022-03-28,Sophie Peixoto,Sarah Jesus,F,78,Costa,Acura MDX,2009,Acura,MDX,SUV,9361,846,8515
+2022-03-28,Yasmin Fernandes,Agatha Monteiro,F,39,Alves,Kia Sportage,2010,Kia,Sportage,SUV,13949,608,13341
+2022-03-30,Francisco Silva,Isaac Viana,M,35,Pires de Minas,Saturn VUE,2003,Saturn,VUE,SUV,11259,610,10649
+2022-03-30,Isabella da Rosa,Davi Lucas Fogaça,M,43,Moura de Minas,Suzuki Vitara,2003,Suzuki,Vitara,SUV,11620,346,11274
+2022-03-30,Juliana Jesus,Agatha Cunha,F,53,das Neves do Oeste,GMC Sierra 3500 HD Double Cab,2016,GMC,Sierra 3500 HD Double Cab,Pickup,8405,77,8328
+2022-03-31,Yasmin Fernandes,Mariane Ribeiro,F,47,Vieira Alegre,Maserati Quattroporte,2008,Maserati,Quattroporte,Sedan,9863,386,9477
+2022-03-31,Sophie Peixoto,Pedro Lucas Gonçalves,M,56,Barros,Chevrolet Volt,2016,Chevrolet,Volt,Sedan,13247,413,12834
+2022-04-01,Vitor Gabriel Castro,Júlia Barros,F,72,Novaes,Chevrolet Silverado 1500 Extended Cab,2009,Chevrolet,Silverado 1500 Extended Cab,Pickup,11807,401,11406
+2022-04-02,Yasmin Fernandes,Fernando Pinto,M,25,Cavalcanti Verde,Honda Odyssey,2017,Honda,Odyssey,Van/Minivan,9376,385,8991
+2022-04-03,Yasmin Fernandes,Srta. Yasmin da Cunha,F,28,Moraes da Mata,Hyundai Elantra,1998,Hyundai,Elantra,"Sedan, Wagon",8578,175,8403
+2022-04-03,Beatriz Gomes,Thiago Freitas,M,34,Moraes,Isuzu Oasis,1997,Isuzu,Oasis,Van/Minivan,10005,753,9252
+2022-04-03,Sophie Peixoto,Yuri da Mota,M,24,Pires da Praia,Lincoln MKX,2010,Lincoln,MKX,SUV,9864,774,9090
+2022-04-03,Sophie Peixoto,Dra. Valentina da Paz,F,23,Rezende,MINI Convertible,2007,MINI,Convertible,Convertible,11216,373,10843
+2022-04-04,Juliana Jesus,Yasmin Cardoso,F,55,Campos,Chevrolet Venture Passenger,1999,Chevrolet,Venture Passenger,Van/Minivan,9669,230,9439
+2022-04-04,Sophie Peixoto,João Lucas da Mata,M,28,Moraes,Porsche Boxster,2008,Porsche,Boxster,Convertible,9490,531,8959
+2022-04-04,Isabella da Rosa,Pedro Henrique Cavalcanti,M,66,Nogueira do Oeste,Mercedes-Benz 500 SEL,1992,Mercedes-Benz,500 SEL,Sedan,11642,64,11578
+2022-04-04,Sophie Peixoto,Nathan Duarte,M,26,da Mota de Moraes,Ford Bronco,1993,Ford,Bronco,SUV,10444,436,10008
+2022-04-05,Francisco Silva,Amanda Peixoto,F,70,Barbosa,Chrysler LeBaron,1995,Chrysler,LeBaron,Convertible,13794,201,13593
+2022-04-05,Vitor Gabriel Castro,Esther Rodrigues,F,60,Barros,GMC Sierra 1500 Regular Cab,2018,GMC,Sierra 1500 Regular Cab,Pickup,13118,4,13114
+2022-04-06,Isabella da Rosa,Sr. Paulo Alves,M,52,Ferreira de Novaes,Buick Encore,2020,Buick,Encore,SUV,10689,269,10420
+2022-04-06,Isabella da Rosa,Ana Carolina Lima,F,56,Moura de Ribeiro,Isuzu Regular Cab,1995,Isuzu,Regular Cab,Pickup,12858,130,12728
+2022-04-07,Beatriz Gomes,Leonardo Pires,M,78,Pinto,GMC Savana 3500 Cargo,1999,GMC,Savana 3500 Cargo,Van/Minivan,10939,686,10253
+2022-04-10,Yasmin Fernandes,Ana Sophia Monteiro,F,27,Moreira de das Neves,Buick LeSabre,1996,Buick,LeSabre,Sedan,9782,633,9149
+2022-04-11,Juliana Jesus,Felipe Oliveira,M,56,Lopes,Land Rover Range Rover,2014,Land Rover,Range Rover,SUV,12741,217,12524
+2022-04-11,Yasmin Fernandes,Emanuel Rocha,M,42,Barbosa de Mendes,Ford E350 Super Duty Cargo,2003,Ford,E350 Super Duty Cargo,Van/Minivan,11131,727,10404
+2022-04-12,Beatriz Gomes,Dr. Eduardo Caldeira,M,48,Nascimento,Toyota Land Cruiser,1994,Toyota,Land Cruiser,SUV,10231,517,9714
+2022-04-12,Juliana Jesus,Amanda da Mota,F,57,Sales,Lexus LX,2008,Lexus,LX,SUV,10771,883,9888
+2022-04-14,Sophie Peixoto,Carolina Caldeira,F,54,Barbosa de Castro,GMC Suburban 1500,1999,GMC,Suburban 1500,SUV,8748,716,8032
+2022-04-15,Juliana Jesus,Joana Fernandes,F,52,Duarte do Norte,Subaru Crosstrek,2017,Subaru,Crosstrek,SUV,9056,313,8743
+2022-04-15,Francisco Silva,Dra. Ana Beatriz da Mota,F,38,Campos de Aragão,GMC Canyon Crew Cab,2009,GMC,Canyon Crew Cab,Pickup,12110,206,11904
+2022-04-16,Yasmin Fernandes,Marcela Porto,F,66,Mendes da Serra,Chevrolet Express 2500 Cargo,2006,Chevrolet,Express 2500 Cargo,Van/Minivan,8306,662,7644
+2022-04-16,Isabella da Rosa,Juliana Correia,F,52,Pereira de Moreira,Geo Prizm,1993,Geo,Prizm,Sedan,10486,578,9908
+2022-04-16,Sophie Peixoto,Letícia Moura,F,24,Cavalcanti do Campo,Audi A8,2008,Audi,A8,Sedan,8103,639,7464
+2022-04-18,Juliana Jesus,Isabel Lima,F,22,Ferreira,Genesis G90,2017,Genesis,G90,Sedan,13444,409,13035
+2022-04-18,Francisco Silva,Dr. Emanuel Cardoso,M,30,da Mata do Oeste,Chevrolet Colorado Extended Cab,2019,Chevrolet,Colorado Extended Cab,Pickup,8868,891,7977
+2022-04-18,Yasmin Fernandes,Luiz Otávio Rocha,M,29,Cavalcanti da Praia,Chevrolet Impala Limited,2015,Chevrolet,Impala Limited,Sedan,10589,42,10547
+2022-04-19,Francisco Silva,Rebeca Monteiro,F,28,Mendes do Galho,Subaru Crosstrek,2016,Subaru,Crosstrek,SUV,12236,723,11513
+2022-04-19,Juliana Jesus,Diego Aragão,M,25,da Cunha de Sales,Geo Storm,1992,Geo,Storm,"Coupe, Hatchback",9791,673,9118
+2022-04-19,Juliana Jesus,Alice da Costa,F,80,da Luz das Flores,Audi A6,2006,Audi,A6,"Sedan, Wagon",9593,904,8689
+2022-04-19,Sophie Peixoto,Srta. Ana Beatriz Barbosa,F,39,da Cruz Verde,Mercedes-Benz C-Class,2012,Mercedes-Benz,C-Class,"Sedan, Coupe",11600,485,11115
+2022-04-19,Vitor Gabriel Castro,Yago da Cunha,M,65,da Cruz de Goiás,Ford F350 Super Duty Regular Cab,2002,Ford,F350 Super Duty Regular Cab,Pickup,9621,662,8959
+2022-04-21,Yasmin Fernandes,Sr. Anthony Porto,M,46,Ribeiro do Oeste,Nissan Armada,2010,Nissan,Armada,SUV,12195,280,11915
+2022-04-22,Vitor Gabriel Castro,Danilo Porto,M,23,Porto do Norte,Suzuki Sidekick,1993,Suzuki,Sidekick,SUV,9824,646,9178
+2022-04-23,Isabella da Rosa,Luana Ramos,F,60,Melo da Prata,Toyota Sequoia,2020,Toyota,Sequoia,SUV,13301,236,13065
+2022-04-23,Vitor Gabriel Castro,Benício da Paz,M,51,Araújo de Carvalho,BMW i8,2016,BMW,i8,Coupe,12234,140,12094
+2022-04-23,Yasmin Fernandes,Bianca da Mata,F,32,Ferreira da Mata,Porsche 911,2002,Porsche,911,"Coupe, Convertible",9567,557,9010
+2022-04-24,Sophie Peixoto,Raul Aragão,M,52,da Rocha,Kia Rio,2020,Kia,Rio,"Sedan, Hatchback",13679,456,13223
+2022-04-24,Sophie Peixoto,Marcos Vinicius Novaes,M,73,Pereira,Volkswagen CC,2017,Volkswagen,CC,Sedan,12452,171,12281
+2022-04-25,Sophie Peixoto,Cauê Pires,M,22,Souza das Pedras,Dodge Caravan Passenger,2003,Dodge,Caravan Passenger,Van/Minivan,9649,127,9522
+2022-04-25,Juliana Jesus,Lucas Gabriel Moraes,M,50,Rocha,Toyota Tacoma Regular Cab,2000,Toyota,Tacoma Regular Cab,Pickup,9467,909,8558
+2022-04-25,Beatriz Gomes,Benjamin Monteiro,M,27,Gonçalves de Lima,Saab 900,1997,Saab,900,"Coupe, Hatchback, Convertible",12274,504,11770
+2022-04-25,Francisco Silva,Kaique Moura,M,61,da Luz de Oliveira,Honda Civic,2006,Honda,Civic,"Sedan, Coupe",13434,303,13131
+2022-04-26,Yasmin Fernandes,Luigi Novaes,M,47,Araújo,Chevrolet Avalanche,2007,Chevrolet,Avalanche,Pickup,13964,944,13020
+2022-04-26,Yasmin Fernandes,Kevin Vieira,M,51,Mendes,Mercedes-Benz M-Class,2010,Mercedes-Benz,M-Class,SUV,13316,858,12458
+2022-04-27,Francisco Silva,Alana Lopes,F,29,Caldeira,Buick Roadmaster,1992,Buick,Roadmaster,"Sedan, Wagon",8359,216,8143
+2022-04-28,Vitor Gabriel Castro,Heitor Alves,M,58,Moraes de Minas,Lexus GS,2019,Lexus,GS,Sedan,10000,336,9664
+2022-04-30,Sophie Peixoto,Alana Sales,F,44,Carvalho de Minas,Lexus GX,2016,Lexus,GX,SUV,10410,312,10098
+2022-05-01,Vitor Gabriel Castro,João Vitor Costela,M,71,Freitas,GMC Savana 3500 Passenger,2001,GMC,Savana 3500 Passenger,Van/Minivan,13102,302,12800
+2022-05-01,Isabella da Rosa,Kamilly da Mota,F,57,Costela,Lincoln MKT,2010,Lincoln,MKT,SUV,11469,15,11454
+2022-05-02,Yasmin Fernandes,Luiza Cardoso,F,61,Azevedo,Pontiac GTO,2004,Pontiac,GTO,Coupe,11217,625,10592
+2022-05-03,Yasmin Fernandes,Dr. Thiago Silva,M,36,Nascimento do Norte,MAZDA 929,1993,MAZDA,929,Sedan,9078,443,8635
+2022-05-03,Yasmin Fernandes,Sr. Heitor Ferreira,M,78,Silveira,BMW X6 M,2012,BMW,X6 M,SUV,8299,818,7481
+2022-05-04,Juliana Jesus,Dra. Emanuelly Porto,F,50,Lima,MAZDA MAZDA5,2007,MAZDA,MAZDA5,Van/Minivan,8786,330,8456
+2022-05-05,Vitor Gabriel Castro,Vicente Cavalcanti,M,69,Silveira de Sales,MAZDA MAZDA6,2013,MAZDA,MAZDA6,Sedan,8603,293,8310
+2022-05-06,Yasmin Fernandes,Luiza Cunha,F,77,Moraes,Cadillac Escalade,2000,Cadillac,Escalade,SUV,13051,467,12584
+2022-05-06,Francisco Silva,Sra. Mariane Lima,F,71,Dias,Mercedes-Benz Sprinter 3500 Cargo,2018,Mercedes-Benz,Sprinter 3500 Cargo,Van/Minivan,9903,606,9297
+2022-05-07,Isabella da Rosa,Elisa Ferreira,F,77,Fernandes da Serra,Toyota Prius,2015,Toyota,Prius,Hatchback,12737,172,12565
+2022-05-08,Yasmin Fernandes,João Gabriel Correia,M,29,Martins Alegre,Lexus CT,2016,Lexus,CT,Hatchback,11235,317,10918
+2022-05-08,Yasmin Fernandes,João Dias,M,37,Aragão,Kia Soul,2018,Kia,Soul,Wagon,8013,783,7230
+2022-05-09,Juliana Jesus,Miguel Santos,M,46,Nascimento,Land Rover Defender 90,1997,Land Rover,Defender 90,SUV,12713,475,12238
+2022-05-10,Beatriz Gomes,Otávio Rodrigues,M,49,da Cunha,GMC Rally Wagon 3500,1994,GMC,Rally Wagon 3500,Van/Minivan,9710,263,9447
+2022-05-10,Sophie Peixoto,Sra. Gabrielly da Mata,F,34,Nascimento,Ford Windstar Cargo,1996,Ford,Windstar Cargo,Van/Minivan,10247,111,10136
+2022-05-11,Yasmin Fernandes,Dr. Gustavo da Costa,M,65,da Mota do Sul,Plymouth Colt,1994,Plymouth,Colt,Sedan,8894,866,8028
+2022-05-11,Francisco Silva,Benjamin Souza,M,56,Castro de Costela,Chevrolet Silverado 3500 HD Regular Cab,2014,Chevrolet,Silverado 3500 HD Regular Cab,Pickup,13997,955,13042
+2022-05-11,Isabella da Rosa,Marcela da Conceição,F,77,da Costa das Flores,Acura TL,1998,Acura,TL,Sedan,11678,596,11082
+2022-05-12,Isabella da Rosa,Ian Cardoso,M,38,Martins de Minas,Ford F350 Super Duty Super Cab,2014,Ford,F350 Super Duty Super Cab,Pickup,11645,544,11101
+2022-05-12,Beatriz Gomes,Luiz Felipe da Costa,M,61,Dias do Sul,Dodge Sprinter 3500 Cargo,2005,Dodge,Sprinter 3500 Cargo,Van/Minivan,12833,55,12778
+2022-05-13,Juliana Jesus,Nina Fogaça,F,60,Pires da Prata,GMC Envoy,2008,GMC,Envoy,SUV,12486,209,12277
+2022-05-13,Isabella da Rosa,Nina da Cunha,F,75,Araújo,Volvo V50,2007,Volvo,V50,Wagon,10465,247,10218
+2022-05-14,Yasmin Fernandes,Sra. Juliana Gonçalves,F,74,Teixeira,Audi R8,2014,Audi,R8,"Coupe, Convertible",10251,716,9535
+2022-05-15,Juliana Jesus,Isadora Gonçalves,F,52,da Mata,Ford Mustang,1998,Ford,Mustang,"Coupe, Convertible",13794,815,12979
+2022-05-16,Francisco Silva,Thomas Moreira,M,44,da Paz do Sul,Mercedes-Benz Mercedes-AMG GLS,2018,Mercedes-Benz,Mercedes-AMG GLS,SUV,13642,403,13239
+2022-05-16,Francisco Silva,Dra. Ana Julia Moreira,F,79,da Paz,Ford Taurus,2007,Ford,Taurus,Sedan,8620,302,8318
+2022-05-16,Beatriz Gomes,Yasmin Porto,F,43,da Cruz,Dodge Grand Caravan Passenger,1994,Dodge,Grand Caravan Passenger,Van/Minivan,11288,472,10816
+2022-05-17,Francisco Silva,Maysa da Paz,F,56,Alves,INFINITI Q70,2018,INFINITI,Q70,Sedan,11324,348,10976
+2022-05-17,Yasmin Fernandes,Daniel Porto,M,78,da Costa de Minas,Mercedes-Benz Sprinter 3500 Cargo,2014,Mercedes-Benz,Sprinter 3500 Cargo,Van/Minivan,10169,270,9899
+2022-05-17,Yasmin Fernandes,Davi Pereira,M,43,Alves de Minas,Lincoln Navigator,2020,Lincoln,Navigator,SUV,10717,151,10566
+2022-05-18,Sophie Peixoto,Isis Moraes,F,75,da Mota do Galho,Chevrolet Malibu,2009,Chevrolet,Malibu,Sedan,10533,931,9602
+2022-05-19,Isabella da Rosa,Sra. Isabel Porto,F,52,da Luz dos Dourados,INFINITI QX,2013,INFINITI,QX,SUV,8426,214,8212
+2022-05-20,Sophie Peixoto,Dra. Maria Julia Gomes,F,70,Caldeira,Cadillac DeVille,2004,Cadillac,DeVille,Sedan,11988,847,11141
+2022-05-21,Juliana Jesus,Kaique Martins,M,33,Duarte,Suzuki Esteem,1998,Suzuki,Esteem,"Sedan, Wagon",13812,761,13051
+2022-05-22,Yasmin Fernandes,Luiz Otávio Gonçalves,M,63,Rezende de Castro,Rolls-Royce Dawn,2018,Rolls-Royce,Dawn,Convertible,12773,889,11884
+2022-05-23,Juliana Jesus,Dr. Vitor Ferreira,M,23,Caldeira do Norte,BMW 5 Series,2001,BMW,5 Series,"Wagon, Sedan",10292,412,9880
+2022-05-23,Sophie Peixoto,Nicole Vieira,F,69,da Luz,Audi allroad,2003,Audi,allroad,Wagon,11371,76,11295
+2022-05-24,Isabella da Rosa,Maria Sophia Silveira,F,33,Silveira da Mata,Mitsubishi 3000GT,1999,Mitsubishi,3000GT,Hatchback,8165,919,7246
+2022-05-25,Sophie Peixoto,Anthony Freitas,M,61,da Conceição de Goiás,Chevrolet Sportvan G20,1992,Chevrolet,Sportvan G20,Van/Minivan,10400,235,10165
+2022-05-25,Sophie Peixoto,Ana Beatriz Monteiro,F,75,Nogueira da Prata,Volvo 850,1995,Volvo,850,"Wagon, Sedan",13304,128,13176
+2022-05-25,Isabella da Rosa,Eduardo Almeida,M,27,Fogaça do Oeste,Toyota Previa,1996,Toyota,Previa,Van/Minivan,10751,118,10633
+2022-05-25,Isabella da Rosa,Sr. Fernando Aragão,M,54,Lopes,Audi R8,2010,Audi,R8,Coupe,8979,727,8252
+2022-05-25,Isabella da Rosa,Cauê da Conceição,M,64,Caldeira do Oeste,FIAT 500c,2014,FIAT,500c,Convertible,10392,284,10108
+2022-05-26,Yasmin Fernandes,Maysa Araújo,F,73,Novaes,Ford C-MAX Hybrid,2016,Ford,C-MAX Hybrid,Wagon,8945,158,8787
+2022-05-27,Beatriz Gomes,Alana Oliveira,F,79,Teixeira da Prata,Lexus LS,2015,Lexus,LS,Sedan,8246,823,7423
+2022-05-28,Vitor Gabriel Castro,Cauê Novaes,M,52,Caldeira Verde,Geo Tracker,1995,Geo,Tracker,SUV,13272,186,13086
+2022-05-28,Vitor Gabriel Castro,Alexandre Pereira,M,69,Barros,Jeep Liberty,2006,Jeep,Liberty,SUV,11716,9,11707
+2022-05-30,Vitor Gabriel Castro,Gustavo Henrique Castro,M,37,Campos do Campo,Nissan Altima,2005,Nissan,Altima,Sedan,13306,400,12906
+2022-06-02,Vitor Gabriel Castro,Catarina da Cunha,F,55,Campos das Pedras,Isuzu Trooper,1998,Isuzu,Trooper,SUV,8222,465,7757
+2022-06-02,Beatriz Gomes,Diogo Silva,M,70,Nascimento,Audi A6,2019,Audi,A6,Sedan,9925,262,9663
+2022-06-03,Vitor Gabriel Castro,Sra. Amanda Fogaça,F,52,Carvalho,MINI Countryman,2011,MINI,Countryman,Hatchback,12578,36,12542
+2022-06-03,Vitor Gabriel Castro,Rafael Jesus,M,62,da Cunha,Volkswagen GTI,2012,Volkswagen,GTI,Hatchback,11897,868,11029
+2022-06-03,Beatriz Gomes,Dr. Thales Campos,M,34,Duarte,Pontiac Vibe,2008,Pontiac,Vibe,Wagon,10628,822,9806
+2022-06-05,Vitor Gabriel Castro,Lorenzo Barbosa,M,52,Fogaça,Mercedes-Benz Sprinter 2500 Cargo,2015,Mercedes-Benz,Sprinter 2500 Cargo,Van/Minivan,9998,853,9145
+2022-06-05,Francisco Silva,Ana Luiza Teixeira,F,61,da Luz,Land Rover Discovery Series II,2002,Land Rover,Discovery Series II,SUV,12482,420,12062
+2022-06-06,Francisco Silva,Vitor Ferreira,M,79,Mendes,Volkswagen Golf,2018,Volkswagen,Golf,Hatchback,12518,643,11875
+2022-06-06,Sophie Peixoto,Augusto Nunes,M,38,das Neves Verde,Subaru Impreza,2016,Subaru,Impreza,"Wagon, Sedan",13172,925,12247
+2022-06-07,Sophie Peixoto,Dr. Benício Correia,M,29,Souza,BMW X6 M,2019,BMW,X6 M,SUV,10064,107,9957
+2022-06-09,Francisco Silva,Dr. Luigi Moura,M,75,Caldeira Paulista,Cadillac Escalade,2008,Cadillac,Escalade,SUV,12139,713,11426
+2022-06-09,Beatriz Gomes,Pedro Cardoso,M,28,Campos,Mercedes-Benz E-Class,2004,Mercedes-Benz,E-Class,"Sedan, Wagon",10791,962,9829
+2022-06-10,Beatriz Gomes,Lucca Novaes,M,57,Dias,Nissan JUKE,2011,Nissan,JUKE,SUV,9463,400,9063
+2022-06-10,Vitor Gabriel Castro,Carlos Eduardo Correia,M,35,da Luz,GMC Savana 1500 Passenger,2014,GMC,Savana 1500 Passenger,Van/Minivan,10133,801,9332
+2022-06-10,Francisco Silva,Brenda da Costa,F,61,da Rosa das Flores,Nissan Frontier King Cab,2002,Nissan,Frontier King Cab,Pickup,10290,795,9495
+2022-06-10,Yasmin Fernandes,Samuel da Conceição,M,32,da Cruz,Jeep Wrangler,2016,Jeep,Wrangler,SUV,12416,655,11761
+2022-06-10,Beatriz Gomes,Joaquim Porto,M,35,Peixoto de Lopes,Ferrari 458 Italia,2014,Ferrari,458 Italia,Coupe,11497,440,11057
+2022-06-11,Juliana Jesus,Elisa Gomes,F,50,Silveira,Ford Excursion,2002,Ford,Excursion,SUV,9530,258,9272
+2022-06-14,Juliana Jesus,Cecília Correia,F,58,Farias Verde,BMW 3 Series,2015,BMW,3 Series,"Sedan, Wagon",12121,690,11431
+2022-06-14,Sophie Peixoto,Dra. Pietra Campos,F,73,Costela de Azevedo,Nissan Frontier King Cab,2005,Nissan,Frontier King Cab,Pickup,13214,687,12527
+2022-06-15,Francisco Silva,João Guilherme Rocha,M,28,Nogueira,Jaguar XK,2004,Jaguar,XK,"Coupe, Convertible",11582,680,10902
+2022-06-16,Yasmin Fernandes,Isabel Porto,F,63,Viana do Norte,Buick Regal,2002,Buick,Regal,Sedan,13039,407,12632
+2022-06-18,Juliana Jesus,Paulo Gonçalves,M,75,Porto do Galho,Mercedes-Benz CLK-Class,2007,Mercedes-Benz,CLK-Class,"Convertible, Coupe",10416,718,9698
+2022-06-18,Sophie Peixoto,Kaique Sales,M,61,Caldeira,Dodge Intrepid,2000,Dodge,Intrepid,Sedan,8541,197,8344
+2022-06-19,Vitor Gabriel Castro,Laura Martins,F,23,Novaes do Norte,Ford F250 Super Duty Super Cab,2005,Ford,F250 Super Duty Super Cab,Pickup,11274,969,10305
+2022-06-21,Juliana Jesus,Dra. Nicole da Rocha,F,28,Jesus das Pedras,Lincoln Navigator,2018,Lincoln,Navigator,SUV,10008,827,9181
+2022-06-22,Beatriz Gomes,Rebeca Cardoso,F,79,Farias,BMW X1,2017,BMW,X1,SUV,13514,758,12756
+2022-06-23,Vitor Gabriel Castro,Henrique da Luz,M,79,Aragão,Subaru Forester,2003,Subaru,Forester,SUV,11017,546,10471
+2022-06-24,Beatriz Gomes,Kamilly Santos,F,56,Costa de Minas,Mercedes-Benz Mercedes-AMG SLC,2019,Mercedes-Benz,Mercedes-AMG SLC,Convertible,10224,607,9617
+2022-06-24,Yasmin Fernandes,Yuri Rodrigues,M,29,Rezende,Ram ProMaster City,2019,Ram,ProMaster City,Van/Minivan,11785,629,11156
+2022-06-25,Yasmin Fernandes,Maria Alice Freitas,F,25,Porto,BMW X5 M,2010,BMW,X5 M,SUV,8684,185,8499
+2022-06-25,Vitor Gabriel Castro,Nina Almeida,F,37,Sales,Chrysler Town & Country,2013,Chrysler,Town & Country,Van/Minivan,11232,858,10374
+2022-06-27,Yasmin Fernandes,Nina das Neves,F,67,Vieira,Buick Century,1992,Buick,Century,"Coupe, Sedan, Wagon",13659,991,12668
+2022-06-27,Juliana Jesus,Miguel Monteiro,M,80,Farias,GMC Sierra 3500 HD Crew Cab,2018,GMC,Sierra 3500 HD Crew Cab,Pickup,13778,786,12992
+2022-06-28,Yasmin Fernandes,Dra. Clarice Duarte,F,59,Silva,Suzuki Forenza,2006,Suzuki,Forenza,"Sedan, Wagon",10962,683,10279
+2022-06-28,Sophie Peixoto,Pedro Henrique da Luz,M,44,Ferreira do Amparo,Porsche Boxster,2005,Porsche,Boxster,Convertible,10017,1,10016
+2022-06-28,Yasmin Fernandes,Luiz Felipe Martins,M,38,da Conceição,Aston Martin DB9,2009,Aston Martin,DB9,"Coupe, Convertible",13285,271,13014
+2022-06-28,Beatriz Gomes,Valentina Melo,F,58,Martins de Minas,Mercedes-Benz CLS-Class,2010,Mercedes-Benz,CLS-Class,Coupe,9432,309,9123
+2022-07-01,Sophie Peixoto,Marina Castro,F,54,da Conceição de Fernandes,Ram C/V Tradesman,2014,Ram,C/V Tradesman,Van/Minivan,9415,328,9087
+2022-07-01,Yasmin Fernandes,Alice Porto,F,68,Vieira,Chevrolet Astro Cargo,1994,Chevrolet,Astro Cargo,Van/Minivan,13486,414,13072
+2022-07-01,Yasmin Fernandes,Maysa Moura,F,71,Almeida do Sul,Ford F250 Super Duty Super Cab,2000,Ford,F250 Super Duty Super Cab,Pickup,10793,40,10753
+2022-07-02,Sophie Peixoto,Fernanda Mendes,F,27,Moraes Alegre,Nissan Maxima,2017,Nissan,Maxima,Sedan,8212,393,7819
+2022-07-03,Beatriz Gomes,Danilo Sales,M,35,da Mata de da Costa,Volkswagen Eurovan,2000,Volkswagen,Eurovan,Van/Minivan,13728,334,13394
+2022-07-04,Francisco Silva,Alana Almeida,F,31,da Rocha Grande,Nissan Frontier Regular Cab,2000,Nissan,Frontier Regular Cab,Pickup,8442,190,8252
+2022-07-04,Yasmin Fernandes,Mariana Rezende,F,46,Barros de Castro,Jaguar XJ,2015,Jaguar,XJ,Sedan,9686,482,9204
+2022-07-05,Isabella da Rosa,Sabrina Aragão,F,24,da Paz,Hyundai Santa Fe,2005,Hyundai,Santa Fe,SUV,8608,618,7990
+2022-07-05,Francisco Silva,Mariana da Rocha,F,57,Pires de Silveira,Nissan 350Z,2003,Nissan,350Z,Coupe,11098,266,10832
+2022-07-05,Francisco Silva,Gustavo Henrique Peixoto,M,78,Silva Paulista,Chevrolet Silverado 1500 Extended Cab,2000,Chevrolet,Silverado 1500 Extended Cab,Pickup,10459,542,9917
+2022-07-07,Yasmin Fernandes,Milena Moura,F,62,Pinto Paulista,Rolls-Royce Phantom,2012,Rolls-Royce,Phantom,"Convertible, Coupe, Sedan",13558,367,13191
+2022-07-08,Vitor Gabriel Castro,Leandro Campos,M,36,da Cunha,Dodge Grand Caravan Passenger,1996,Dodge,Grand Caravan Passenger,Van/Minivan,13850,807,13043
+2022-07-09,Beatriz Gomes,Sr. João Gabriel Aragão,M,53,Araújo,Subaru Outback,2014,Subaru,Outback,Wagon,10452,247,10205
+2022-07-09,Isabella da Rosa,Gabriela Araújo,F,53,Fernandes,Chevrolet Silverado 2500 HD Crew Cab,2019,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,8405,207,8198
+2022-07-11,Juliana Jesus,Antônio Monteiro,M,23,Nunes,Saab 9000,1995,Saab,9000,"Hatchback, Sedan",9701,630,9071
+2022-07-11,Sophie Peixoto,Isabella Oliveira,F,64,Almeida do Oeste,Honda Pilot,2007,Honda,Pilot,SUV,9192,947,8245
+2022-07-11,Sophie Peixoto,Camila Moraes,F,49,Oliveira da Praia,Mitsubishi Raider Double Cab,2007,Mitsubishi,Raider Double Cab,Pickup,13830,598,13232
+2022-07-12,Juliana Jesus,Srta. Laís Duarte,F,54,da Cruz das Flores,Cadillac Escalade,2006,Cadillac,Escalade,SUV,11627,345,11282
+2022-07-15,Yasmin Fernandes,Nicole Aragão,F,23,Lima,Ford F350 Super Duty Regular Cab,2018,Ford,F350 Super Duty Regular Cab,Pickup,11925,985,10940
+2022-07-15,Isabella da Rosa,Enzo Gabriel Aragão,M,55,Sales,Lincoln Town Car,2003,Lincoln,Town Car,Sedan,8126,275,7851
+2022-07-16,Isabella da Rosa,Sra. Evelyn da Rocha,F,47,Peixoto do Galho,Nissan Versa,2007,Nissan,Versa,"Hatchback, Sedan",13735,720,13015
+2022-07-16,Yasmin Fernandes,Pedro da Rocha,M,59,Souza,MAZDA B-Series Regular Cab,2006,MAZDA,B-Series Regular Cab,Pickup,13765,292,13473
+2022-07-17,Francisco Silva,Maria Clara Castro,F,71,da Cruz da Prata,Jeep Grand Cherokee,2015,Jeep,Grand Cherokee,SUV,10361,800,9561
+2022-07-17,Francisco Silva,Kamilly Silveira,F,41,Pinto de Duarte,Chevrolet Tahoe,2009,Chevrolet,Tahoe,SUV,13191,720,12471
+2022-07-17,Yasmin Fernandes,Noah Rodrigues,M,31,Pereira do Galho,Dodge Grand Caravan Cargo,2009,Dodge,Grand Caravan Cargo,Van/Minivan,9600,507,9093
+2022-07-18,Sophie Peixoto,Igor Silva,M,75,Moura,Aston Martin Rapide,2011,Aston Martin,Rapide,Sedan,12466,879,11587
+2022-07-18,Beatriz Gomes,Maitê Freitas,F,23,Caldeira,Ford Explorer,2016,Ford,Explorer,SUV,11004,815,10189
+2022-07-19,Sophie Peixoto,Camila Almeida,F,48,Costela,Volkswagen Golf (New),1999,Volkswagen,Golf (New),Hatchback,8583,713,7870
+2022-07-20,Beatriz Gomes,Miguel Alves,M,32,Nogueira,Chevrolet Monte Carlo,1995,Chevrolet,Monte Carlo,Coupe,11897,735,11162
+2022-07-21,Sophie Peixoto,Augusto Alves,M,46,Costela,BMW 3 Series,2004,BMW,3 Series,"Sedan, Coupe, Convertible, Wagon",10415,119,10296
+2022-07-21,Beatriz Gomes,Otávio da Conceição,M,51,Campos,Ford F150 SuperCrew Cab,2014,Ford,F150 SuperCrew Cab,Pickup,8244,489,7755
+2022-07-22,Beatriz Gomes,João Pedro da Luz,M,60,Mendes de Moreira,Mercury Grand Marquis,1998,Mercury,Grand Marquis,Sedan,8290,639,7651
+2022-07-22,Juliana Jesus,Ana Júlia Moraes,F,61,Cardoso,Dodge Caravan Cargo,2007,Dodge,Caravan Cargo,Van/Minivan,13971,263,13708
+2022-07-22,Francisco Silva,Danilo Nogueira,M,64,Rodrigues do Amparo,Alfa Romeo 164,1993,Alfa Romeo,164,Sedan,10585,331,10254
+2022-07-24,Vitor Gabriel Castro,Sra. Ana Beatriz Freitas,F,58,da Paz da Serra,Dodge Ram 1500 Club Cab,2001,Dodge,Ram 1500 Club Cab,Pickup,9667,925,8742
+2022-07-24,Yasmin Fernandes,Henrique Nunes,M,52,da Conceição,Nissan Murano,2003,Nissan,Murano,SUV,8795,686,8109
+2022-07-25,Beatriz Gomes,Isaac Rezende,M,44,Vieira de Pinto,Jeep Grand Cherokee,2015,Jeep,Grand Cherokee,SUV,11162,186,10976
+2022-07-26,Sophie Peixoto,Alice Moreira,F,66,Monteiro,Mitsubishi Galant,2008,Mitsubishi,Galant,Sedan,8850,667,8183
+2022-07-28,Isabella da Rosa,Caroline da Conceição,F,47,Duarte,Toyota Tundra Regular Cab,2017,Toyota,Tundra Regular Cab,Pickup,10490,200,10290
+2022-07-28,Isabella da Rosa,Antônio Barbosa,M,54,da Rosa da Prata,Lexus GX,2003,Lexus,GX,SUV,10821,672,10149
+2022-07-29,Francisco Silva,Enzo da Conceição,M,33,Correia de Rocha,MINI Roadster,2015,MINI,Roadster,Convertible,13981,352,13629
+2022-07-29,Beatriz Gomes,Yago da Conceição,M,61,Nogueira de Souza,Suzuki Equator Extended Cab,2009,Suzuki,Equator Extended Cab,Pickup,8731,358,8373
+2022-07-30,Juliana Jesus,Rebeca Gomes,F,39,Moura Grande,INFINITI QX,2006,INFINITI,QX,SUV,8602,68,8534
+2022-08-02,Francisco Silva,Ryan Freitas,M,76,Mendes,FIAT 500,2013,FIAT,500,"Hatchback, Convertible",12411,632,11779
+2022-08-02,Isabella da Rosa,Sra. Pietra Oliveira,F,35,Mendes de Castro,Chevrolet Silverado 2500 HD Regular Cab,2018,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,12090,754,11336
+2022-08-02,Isabella da Rosa,Nicolas Oliveira,M,65,Martins do Oeste,Mercedes-Benz M-Class,2014,Mercedes-Benz,M-Class,SUV,10562,927,9635
+2022-08-03,Juliana Jesus,Natália Costa,F,59,Moura dos Dourados,Acura ILX,2015,Acura,ILX,Sedan,8278,901,7377
+2022-08-03,Vitor Gabriel Castro,Srta. Ana Aragão,F,47,Cardoso,GMC Sierra (Classic) 3500 Regular Cab,2007,GMC,Sierra (Classic) 3500 Regular Cab,Pickup,8305,135,8170
+2022-08-05,Vitor Gabriel Castro,Sr. Vinicius Nascimento,M,74,Porto,Chevrolet SSR,2004,Chevrolet,SSR,Pickup,10903,120,10783
+2022-08-05,Vitor Gabriel Castro,Sr. Joaquim Silva,M,57,da Cruz,Kia Forte,2012,Kia,Forte,"Sedan, Hatchback, Coupe",9162,929,8233
+2022-08-06,Francisco Silva,Isis Castro,F,29,Carvalho de Goiás,Cadillac Escalade ESV,2006,Cadillac,Escalade ESV,SUV,12171,149,12022
+2022-08-07,Yasmin Fernandes,Laura Lopes,F,46,Cavalcanti de Costela,Chevrolet Suburban 1500,2007,Chevrolet,Suburban 1500,SUV,10976,509,10467
+2022-08-08,Sophie Peixoto,Sra. Evelyn Pinto,F,43,Aragão,Dodge Charger,2010,Dodge,Charger,Sedan,9733,813,8920
+2022-08-10,Beatriz Gomes,Pedro Ferreira,M,76,Pereira dos Dourados,Bentley Mulsanne,2013,Bentley,Mulsanne,Sedan,8107,459,7648
+2022-08-10,Juliana Jesus,Nicole Moura,F,55,Martins,Oldsmobile Bravada,1997,Oldsmobile,Bravada,SUV,8546,402,8144
+2022-08-11,Vitor Gabriel Castro,Dra. Maitê Vieira,F,32,Duarte,Dodge Durango,2000,Dodge,Durango,SUV,13166,707,12459
+2022-08-11,Isabella da Rosa,Sra. Maitê Rodrigues,F,49,Porto,MAZDA RX-8,2005,MAZDA,RX-8,Coupe,12537,944,11593
+2022-08-11,Juliana Jesus,Kevin Souza,M,24,Aragão,GMC Rally Wagon 1500,1993,GMC,Rally Wagon 1500,Van/Minivan,12679,916,11763
+2022-08-11,Francisco Silva,Yuri Vieira,M,61,Moreira,Mitsubishi Lancer,2017,Mitsubishi,Lancer,Sedan,13219,156,13063
+2022-08-12,Francisco Silva,Fernando da Cunha,M,44,Araújo da Prata,Mitsubishi Expo,1993,Mitsubishi,Expo,Wagon,13173,685,12488
+2022-08-12,Beatriz Gomes,Fernando da Cunha,M,77,Araújo de Minas,Audi S8,2002,Audi,S8,Sedan,13807,843,12964
+2022-08-13,Isabella da Rosa,Antônio Alves,M,51,da Rosa da Serra,Toyota Tacoma Double Cab,2003,Toyota,Tacoma Double Cab,Pickup,8640,476,8164
+2022-08-13,Juliana Jesus,Theo da Rosa,M,73,Nascimento,Cadillac Eldorado,1996,Cadillac,Eldorado,Coupe,9995,167,9828
+2022-08-13,Beatriz Gomes,Maria Azevedo,F,37,da Paz da Prata,BMW X6,2011,BMW,X6,SUV,12839,1,12838
+2022-08-13,Yasmin Fernandes,Giovanna da Costa,F,22,da Rocha,Nissan Quest,1997,Nissan,Quest,Van/Minivan,10926,411,10515
+2022-08-13,Sophie Peixoto,Lorena Silva,F,41,Oliveira do Campo,Kia Forte,2016,Kia,Forte,Sedan,8328,699,7629
+2022-08-14,Isabella da Rosa,Mariana Gomes,F,26,Ribeiro,Pontiac Grand Am,2001,Pontiac,Grand Am,"Coupe, Sedan",10506,366,10140
+2022-08-18,Francisco Silva,Erick Rocha,M,47,Fernandes,Honda Odyssey,2002,Honda,Odyssey,Van/Minivan,10087,282,9805
+2022-08-18,Vitor Gabriel Castro,Sofia Viana,F,74,da Conceição dos Dourados,Mercedes-Benz GLK-Class,2011,Mercedes-Benz,GLK-Class,SUV,10251,896,9355
+2022-08-19,Sophie Peixoto,Davi da Rocha,M,78,Nogueira Grande,Chrysler Sebring,2009,Chrysler,Sebring,"Sedan, Convertible",11329,167,11162
+2022-08-20,Isabella da Rosa,Ana Luiza da Mota,F,42,Rodrigues,Audi S6,2002,Audi,S6,Wagon,11398,720,10678
+2022-08-20,Vitor Gabriel Castro,Camila Lopes,F,53,Teixeira,GMC Jimmy,1997,GMC,Jimmy,SUV,8113,788,7325
+2022-08-21,Francisco Silva,Ana Vitória Silveira,F,68,Peixoto de Fogaça,Jeep Grand Cherokee,1996,Jeep,Grand Cherokee,SUV,8193,323,7870
+2022-08-21,Beatriz Gomes,Pedro Costela,M,37,Melo do Norte,Chrysler Town & Country,1998,Chrysler,Town & Country,Van/Minivan,8208,964,7244
+2022-08-22,Isabella da Rosa,Eduarda Gonçalves,F,33,da Mata,Lincoln MKT,2010,Lincoln,MKT,SUV,9787,33,9754
+2022-08-22,Vitor Gabriel Castro,Ana Julia Nascimento,F,41,Viana do Amparo,Audi S7,2016,Audi,S7,Sedan,13268,445,12823
+2022-08-23,Beatriz Gomes,Benício Melo,M,32,Pires da Mata,Hyundai Genesis,2013,Hyundai,Genesis,Sedan,11486,561,10925
+2022-08-23,Francisco Silva,Gabrielly Cunha,F,27,das Neves do Norte,Chevrolet Silverado 2500 HD Crew Cab,2019,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,8152,214,7938
+2022-08-24,Sophie Peixoto,Mariana Moraes,F,50,Fogaça,Ford Focus,2016,Ford,Focus,"Sedan, Hatchback",8522,684,7838
+2022-08-24,Isabella da Rosa,Gabriel Fernandes,M,42,da Rocha,Porsche Boxster,2006,Porsche,Boxster,Convertible,11652,361,11291
+2022-08-24,Yasmin Fernandes,Dr. André da Mata,M,59,Moreira Alegre,Volvo S40,2002,Volvo,S40,Sedan,13461,943,12518
+2022-08-25,Vitor Gabriel Castro,Samuel Porto,M,55,Moreira,Jeep Wrangler,2019,Jeep,Wrangler,SUV,12166,686,11480
+2022-08-25,Juliana Jesus,Julia Castro,F,48,Gonçalves,Chevrolet Express 1500 Passenger,1997,Chevrolet,Express 1500 Passenger,Van/Minivan,13314,615,12699
+2022-08-25,Isabella da Rosa,Dr. Diego Nogueira,M,80,Lima da Serra,Jaguar XK,1997,Jaguar,XK,"Convertible, Coupe",12350,976,11374
+2022-08-27,Yasmin Fernandes,Luiz Otávio Souza,M,53,Costela,Buick Skylark,1998,Buick,Skylark,Sedan,13942,876,13066
+2022-08-27,Isabella da Rosa,Samuel Campos,M,59,Fogaça,Kia Rio,2003,Kia,Rio,"Sedan, Wagon",13611,906,12705
+2022-08-27,Beatriz Gomes,Maysa Melo,F,36,Azevedo das Pedras,smart fortwo electric drive,2014,smart,fortwo electric drive,"Hatchback, Convertible",8827,549,8278
+2022-08-27,Vitor Gabriel Castro,Otávio Duarte,M,74,Peixoto de Vieira,MINI Roadster,2015,MINI,Roadster,Convertible,12680,997,11683
+2022-08-28,Juliana Jesus,Miguel Barros,M,80,Carvalho Verde,Cadillac DTS,2010,Cadillac,DTS,Sedan,13072,414,12658
+2022-08-28,Yasmin Fernandes,Beatriz Azevedo,F,53,Rezende dos Dourados,Toyota RAV4,1999,Toyota,RAV4,SUV,10683,376,10307
+2022-08-28,Isabella da Rosa,Pedro Miguel Cardoso,M,77,Moreira,Mercedes-Benz Sprinter 3500 Cargo,2014,Mercedes-Benz,Sprinter 3500 Cargo,Van/Minivan,11659,58,11601
+2022-08-29,Isabella da Rosa,Maria Julia Monteiro,F,76,Nogueira,Volkswagen Golf SportWagen,2016,Volkswagen,Golf SportWagen,Wagon,9884,690,9194
+2022-08-30,Juliana Jesus,Dr. Joaquim da Mata,M,60,Azevedo,Mitsubishi Montero Sport,1998,Mitsubishi,Montero Sport,SUV,12879,458,12421
+2022-08-31,Francisco Silva,Juan da Mota,M,30,Silveira,Hyundai Ioniq Hybrid,2019,Hyundai,Ioniq Hybrid,Hatchback,11162,950,10212
+2022-08-31,Isabella da Rosa,Dra. Maria Cecília da Paz,F,77,Moraes,MAZDA MX-6,1992,MAZDA,MX-6,Coupe,8586,231,8355
+2022-09-01,Yasmin Fernandes,Felipe Dias,M,31,Silveira das Flores,Toyota Tundra Regular Cab,2004,Toyota,Tundra Regular Cab,Pickup,10827,237,10590
+2022-09-01,Sophie Peixoto,João Gabriel Ribeiro,M,75,da Rocha,Geo Storm,1992,Geo,Storm,"Coupe, Hatchback",13483,989,12494
+2022-09-01,Vitor Gabriel Castro,Vitor Castro,M,30,da Cunha do Sul,Nissan Titan King Cab,2012,Nissan,Titan King Cab,Pickup,10270,42,10228
+2022-09-02,Yasmin Fernandes,Luiz Otávio Nunes,M,29,da Cunha de Azevedo,Hyundai Tucson,2005,Hyundai,Tucson,SUV,8897,206,8691
+2022-09-02,Vitor Gabriel Castro,Juan Melo,M,70,Farias,Volkswagen Beetle,2015,Volkswagen,Beetle,"Hatchback, Convertible",11743,168,11575
+2022-09-02,Vitor Gabriel Castro,Luiz Henrique da Mata,M,39,Pereira de da Rocha,Chevrolet Express 2500 Passenger,2019,Chevrolet,Express 2500 Passenger,Van/Minivan,13616,728,12888
+2022-09-03,Yasmin Fernandes,João Guilherme da Cruz,M,51,da Costa,Dodge Ram Van 1500,1996,Dodge,Ram Van 1500,Van/Minivan,11974,340,11634
+2022-09-03,Juliana Jesus,Thomas Novaes,M,49,Ramos,Pontiac Grand Prix,2002,Pontiac,Grand Prix,"Sedan, Coupe",9514,618,8896
+2022-09-04,Isabella da Rosa,Otávio da Cruz,M,72,Peixoto,Cadillac Seville,2002,Cadillac,Seville,Sedan,9248,435,8813
+2022-09-04,Beatriz Gomes,Ana Laura Ferreira,F,52,Correia,Dodge Ram 2500 Regular Cab,1994,Dodge,Ram 2500 Regular Cab,Pickup,12669,303,12366
+2022-09-04,Juliana Jesus,Júlia Moura,F,31,Jesus da Praia,Chevrolet Express 2500 Cargo,2015,Chevrolet,Express 2500 Cargo,Van/Minivan,9361,374,8987
+2022-09-07,Yasmin Fernandes,Emilly das Neves,F,34,Duarte,Ford F350 Super Cab,1993,Ford,F350 Super Cab,Pickup,8058,158,7900
+2022-09-08,Vitor Gabriel Castro,Pedro Henrique Sales,M,54,Rezende da Praia,Hyundai Elantra,2008,Hyundai,Elantra,Sedan,12465,324,12141
+2022-09-09,Juliana Jesus,Isabelly Souza,F,66,Novaes,MAZDA MX-5 Miata RF,2017,MAZDA,MX-5 Miata RF,Convertible,12098,24,12074
+2022-09-09,Yasmin Fernandes,Calebe Dias,M,79,Porto Grande,Ford Expedition,2005,Ford,Expedition,SUV,12602,816,11786
+2022-09-10,Yasmin Fernandes,Elisa da Paz,F,48,Nunes,Volkswagen Passat,2020,Volkswagen,Passat,Sedan,9861,998,8863
+2022-09-11,Sophie Peixoto,Dr. Vitor Fogaça,M,64,Peixoto,Dodge Intrepid,2000,Dodge,Intrepid,Sedan,11123,831,10292
+2022-09-12,Beatriz Gomes,Melissa Peixoto,F,42,Rodrigues dos Dourados,Mitsubishi Mirage,2002,Mitsubishi,Mirage,Coupe,11284,122,11162
+2022-09-12,Vitor Gabriel Castro,Stephany Nogueira,F,66,Rezende,GMC Sierra 1500 Crew Cab,2013,GMC,Sierra 1500 Crew Cab,Pickup,12742,363,12379
+2022-09-13,Sophie Peixoto,Ana Carolina Oliveira,F,42,Santos,GMC Sierra 3500 HD Regular Cab,2015,GMC,Sierra 3500 HD Regular Cab,Pickup,12850,659,12191
+2022-09-15,Sophie Peixoto,Otávio Souza,M,26,Caldeira da Prata,Chevrolet Express 2500 Cargo,2010,Chevrolet,Express 2500 Cargo,Van/Minivan,11382,593,10789
+2022-09-15,Yasmin Fernandes,Dr. João Gabriel Almeida,M,60,Melo de Cardoso,Acura RLX Sport Hybrid,2017,Acura,RLX Sport Hybrid,Sedan,10578,519,10059
+2022-09-16,Juliana Jesus,Carlos Eduardo Almeida,M,26,Cardoso,MAZDA MPV,2002,MAZDA,MPV,Van/Minivan,10047,183,9864
+2022-09-16,Yasmin Fernandes,Luana Gonçalves,F,29,da Costa de Monteiro,INFINITI Q70,2014,INFINITI,Q70,Sedan,10520,955,9565
+2022-09-18,Vitor Gabriel Castro,Agatha da Rosa,F,22,Souza,Porsche Panamera,2012,Porsche,Panamera,Sedan,9118,626,8492
+2022-09-18,Isabella da Rosa,Dra. Amanda da Cunha,F,50,Ferreira,GMC Savana 3500 Passenger,2006,GMC,Savana 3500 Passenger,Van/Minivan,8969,718,8251
+2022-09-18,Yasmin Fernandes,Murilo Farias,M,47,Lima do Campo,Oldsmobile LSS,1999,Oldsmobile,LSS,Sedan,8533,840,7693
+2022-09-19,Isabella da Rosa,Maria Sophia Correia,F,62,Gomes,Nissan Sentra,2005,Nissan,Sentra,Sedan,12482,175,12307
+2022-09-19,Isabella da Rosa,Elisa Azevedo,F,29,Martins do Galho,Chevrolet Avalanche 1500,2003,Chevrolet,Avalanche 1500,Pickup,9646,54,9592
+2022-09-19,Vitor Gabriel Castro,Isabella Farias,F,63,Gonçalves da Praia,Ford F250 Super Duty Super Cab,2001,Ford,F250 Super Duty Super Cab,Pickup,9106,167,8939
+2022-09-21,Juliana Jesus,Bruna Cardoso,F,35,Ramos de Minas,Toyota Yaris,2016,Toyota,Yaris,Hatchback,12778,339,12439
+2022-09-22,Beatriz Gomes,Kaique Fogaça,M,53,Sales das Flores,Rolls-Royce Wraith,2016,Rolls-Royce,Wraith,Coupe,11842,148,11694
+2022-09-22,Isabella da Rosa,Benjamin Ferreira,M,42,Barros dos Dourados,Buick LeSabre,1995,Buick,LeSabre,Sedan,8659,701,7958
+2022-09-23,Yasmin Fernandes,Davi da Cunha,M,77,Costa do Galho,Mercedes-Benz C-Class,2019,Mercedes-Benz,C-Class,"Convertible, Sedan, Coupe",8539,637,7902
+2022-09-23,Sophie Peixoto,Arthur Azevedo,M,50,das Neves,Chevrolet Impala,2006,Chevrolet,Impala,Sedan,11713,865,10848
+2022-09-25,Juliana Jesus,Laís Jesus,F,46,da Luz,Honda Civic,1995,Honda,Civic,"Hatchback, Sedan, Coupe",9718,208,9510
+2022-09-26,Sophie Peixoto,Isadora Gomes,F,44,Duarte,Volkswagen Cabrio,1998,Volkswagen,Cabrio,Convertible,11840,602,11238
+2022-09-26,Sophie Peixoto,Helena Araújo,F,79,Cavalcanti das Pedras,Dodge Dakota Club Cab,2001,Dodge,Dakota Club Cab,Pickup,11007,280,10727
+2022-09-26,Yasmin Fernandes,Lucas Gabriel Rezende,M,37,Alves Verde,Mitsubishi Mighty Max Regular Cab,1993,Mitsubishi,Mighty Max Regular Cab,Pickup,13775,225,13550
+2022-09-28,Beatriz Gomes,Milena Jesus,F,55,Cardoso,Isuzu Rodeo,2002,Isuzu,Rodeo,SUV,11218,738,10480
+2022-09-28,Isabella da Rosa,Srta. Amanda Souza,F,39,Santos do Campo,Ford Expedition,2002,Ford,Expedition,SUV,11945,813,11132
+2022-09-28,Francisco Silva,Sra. Eloah Cavalcanti,F,79,Viana,Dodge Ram 3500 Crew Cab,2010,Dodge,Ram 3500 Crew Cab,Pickup,8892,543,8349
+2022-09-28,Francisco Silva,Sra. Sophie Pires,F,44,Mendes,Toyota Tundra CrewMax,2010,Toyota,Tundra CrewMax,Pickup,9781,394,9387
+2022-09-28,Francisco Silva,Gustavo Lopes,M,35,da Paz,Suzuki XL-7,2002,Suzuki,XL-7,SUV,9780,130,9650
+2022-09-28,Francisco Silva,Raul Novaes,M,27,da Paz,Honda Civic,2020,Honda,Civic,"Hatchback, Sedan, Coupe",9247,669,8578
+2022-09-29,Beatriz Gomes,Renan Dias,M,78,Jesus Grande,Volvo XC70,2013,Volvo,XC70,Wagon,13104,210,12894
+2022-09-30,Yasmin Fernandes,Murilo Jesus,M,58,Almeida da Prata,Audi A6,2009,Audi,A6,"Sedan, Wagon",9775,32,9743
+2022-09-30,Sophie Peixoto,Isabel Carvalho,F,77,Ferreira,Toyota Tacoma Access Cab,2009,Toyota,Tacoma Access Cab,Pickup,11763,270,11493
+2022-10-01,Francisco Silva,Nicolas da Luz,M,26,Novaes,Nissan 350Z,2004,Nissan,350Z,"Coupe, Convertible",8090,236,7854
+2022-10-02,Vitor Gabriel Castro,Sra. Evelyn Pires,F,45,da Cruz,Chevrolet Suburban 2500,2010,Chevrolet,Suburban 2500,SUV,13392,126,13266
+2022-10-03,Isabella da Rosa,Emanuel Mendes,M,27,Cunha,Plymouth Grand Voyager,1996,Plymouth,Grand Voyager,Van/Minivan,13535,279,13256
+2022-10-04,Juliana Jesus,Stephany Farias,F,32,Correia,Acura RLX Sport Hybrid,2018,Acura,RLX Sport Hybrid,Sedan,12838,548,12290
+2022-10-04,Isabella da Rosa,Noah Nunes,M,30,Oliveira das Flores,Nissan NV2500 HD Cargo,2020,Nissan,NV2500 HD Cargo,Van/Minivan,11499,913,10586
+2022-10-04,Francisco Silva,Benjamin Carvalho,M,31,Cavalcanti,Oldsmobile Bravada,1997,Oldsmobile,Bravada,SUV,13637,979,12658
+2022-10-05,Beatriz Gomes,Breno Moura,M,64,Rodrigues,Isuzu Ascender,2008,Isuzu,Ascender,SUV,9788,854,8934
+2022-10-05,Vitor Gabriel Castro,Manuela Cunha,F,53,Cardoso,Mercedes-Benz R-Class,2008,Mercedes-Benz,R-Class,Wagon,8999,652,8347
+2022-10-05,Beatriz Gomes,Dra. Ana Vitória Peixoto,F,75,Monteiro,Ford Explorer Sport,2003,Ford,Explorer Sport,SUV,12980,949,12031
+2022-10-08,Yasmin Fernandes,Luigi Santos,M,42,Caldeira de Pires,Mitsubishi Outlander,2012,Mitsubishi,Outlander,SUV,11365,307,11058
+2022-10-08,Isabella da Rosa,Isis Correia,F,70,da Cruz de Nascimento,Mitsubishi Diamante,2003,Mitsubishi,Diamante,Sedan,12591,804,11787
+2022-10-08,Sophie Peixoto,Clarice Carvalho,F,68,Carvalho,Dodge Ram Van 2500,2002,Dodge,Ram Van 2500,Van/Minivan,11663,518,11145
+2022-10-08,Isabella da Rosa,Manuela Cunha,F,58,Teixeira,Toyota Land Cruiser,2000,Toyota,Land Cruiser,SUV,8862,107,8755
+2022-10-09,Yasmin Fernandes,Nina Freitas,F,67,da Luz de Nunes,Mercedes-Benz B-Class,2015,Mercedes-Benz,B-Class,Hatchback,8625,207,8418
+2022-10-10,Juliana Jesus,Ana Júlia Santos,F,43,Ramos,Audi SQ5,2016,Audi,SQ5,SUV,12244,254,11990
+2022-10-11,Sophie Peixoto,Thales Costa,M,58,Moraes de Viana,Jaguar XK,2006,Jaguar,XK,"Coupe, Convertible",9976,756,9220
+2022-10-11,Beatriz Gomes,Dr. Enzo da Luz,M,38,Souza do Campo,Jeep Cherokee,2015,Jeep,Cherokee,SUV,12075,175,11900
+2022-10-11,Francisco Silva,Renan Barbosa,M,54,Freitas,Freightliner Sprinter 2500 Passenger,2013,Freightliner,Sprinter 2500 Passenger,Van/Minivan,11078,603,10475
+2022-10-13,Juliana Jesus,Emilly Silveira,F,45,Campos Verde,Dodge Journey,2019,Dodge,Journey,SUV,12897,974,11923
+2022-10-14,Yasmin Fernandes,Agatha Costela,F,44,Carvalho,Ram C/V Tradesman,2015,Ram,C/V Tradesman,Van/Minivan,11949,222,11727
+2022-10-15,Juliana Jesus,Benjamin Araújo,M,39,Jesus,Dodge Caravan Cargo,2005,Dodge,Caravan Cargo,Van/Minivan,13998,155,13843
+2022-10-15,Francisco Silva,Sr. Noah Peixoto,M,50,Jesus Verde,Mercury Monterey,2006,Mercury,Monterey,Van/Minivan,10782,487,10295
+2022-10-15,Yasmin Fernandes,Sra. Elisa Aragão,F,48,Porto Verde,GMC Savana 3500 Passenger,2003,GMC,Savana 3500 Passenger,Van/Minivan,8652,606,8046
+2022-10-16,Juliana Jesus,Kamilly da Conceição,F,59,Jesus da Praia,Ford Mustang,1997,Ford,Mustang,"Convertible, Coupe",9188,86,9102
+2022-10-16,Sophie Peixoto,Olivia Moreira,F,59,Cardoso,Plymouth Grand Voyager,1998,Plymouth,Grand Voyager,Van/Minivan,9480,95,9385
+2022-10-16,Francisco Silva,João Gabriel Farias,M,65,Peixoto,Oldsmobile 88,1993,Oldsmobile,88,Sedan,9566,504,9062
+2022-10-18,Isabella da Rosa,Bernardo Alves,M,79,Nunes do Amparo,Mercedes-Benz C-Class,1996,Mercedes-Benz,C-Class,Sedan,10060,169,9891
+2022-10-19,Beatriz Gomes,Elisa Ramos,F,43,Moraes,Lexus RC,2015,Lexus,RC,Coupe,12138,473,11665
+2022-10-19,Yasmin Fernandes,Ana Moura,F,46,Gomes do Oeste,Mitsubishi Endeavor,2004,Mitsubishi,Endeavor,SUV,10122,811,9311
+2022-10-19,Sophie Peixoto,Bianca Costa,F,40,da Luz do Amparo,Porsche Cayenne,2017,Porsche,Cayenne,SUV,13560,921,12639
+2022-10-20,Vitor Gabriel Castro,Levi Pinto,M,31,Lima da Serra,Honda CR-Z,2011,Honda,CR-Z,Coupe,10124,664,9460
+2022-10-20,Francisco Silva,Dra. Caroline da Luz,F,69,Ferreira,GMC 1500 Club Coupe,1992,GMC,1500 Club Coupe,Pickup,11046,451,10595
+2022-10-20,Sophie Peixoto,Paulo Gomes,M,67,Barbosa Verde,Ford Econoline E250 Cargo,2001,Ford,Econoline E250 Cargo,Van/Minivan,11405,208,11197
+2022-10-21,Juliana Jesus,João Miguel Ribeiro,M,60,Correia,Lincoln Mark VII,1992,Lincoln,Mark VII,Coupe,9470,273,9197
+2022-10-22,Francisco Silva,Breno Costela,M,36,Rocha,Eagle Summit,1995,Eagle,Summit,"Coupe, Sedan, Wagon",13383,318,13065
+2022-10-22,Beatriz Gomes,Mirella Cardoso,F,32,Dias,Buick LeSabre,2004,Buick,LeSabre,Sedan,13287,860,12427
+2022-10-22,Yasmin Fernandes,Cauê da Mata,M,74,Souza de da Conceição,Mercury Cougar,1992,Mercury,Cougar,Coupe,11031,731,10300
+2022-10-23,Juliana Jesus,Pedro Teixeira,M,25,Cavalcanti das Pedras,Ferrari 458 Italia,2012,Ferrari,458 Italia,Coupe,9836,284,9552
+2022-10-24,Sophie Peixoto,Srta. Maria Sophia Fernandes,F,77,da Costa do Norte,Honda Accord,2012,Honda,Accord,"Sedan, Coupe",12865,9,12856
+2022-10-24,Francisco Silva,Bruno Mendes,M,48,da Rosa do Amparo,Toyota Venza,2012,Toyota,Venza,Wagon,10329,472,9857
+2022-10-24,Beatriz Gomes,Sra. Stephany Rezende,F,30,da Paz,Mercedes-Benz Mercedes-Maybach S-Class,2019,Mercedes-Benz,Mercedes-Maybach S-Class,Sedan,8563,842,7721
+2022-10-24,Francisco Silva,Dr. Ian Correia,M,23,Jesus,Honda Civic,2011,Honda,Civic,"Sedan, Coupe",9288,76,9212
+2022-10-25,Beatriz Gomes,Danilo Nunes,M,75,da Conceição de Minas,Chrysler Town & Country,1997,Chrysler,Town & Country,Van/Minivan,11019,146,10873
+2022-10-28,Yasmin Fernandes,Emanuelly Novaes,F,69,Cardoso de Pinto,BMW 3 Series,2014,BMW,3 Series,"Wagon, Sedan",8790,923,7867
+2022-10-28,Francisco Silva,Davi Lucca Monteiro,M,27,Duarte,Buick Rainier,2005,Buick,Rainier,SUV,11007,900,10107
+2022-10-28,Francisco Silva,Bernardo Rocha,M,60,Jesus de Farias,GMC Sierra 2500 Extended Cab,2003,GMC,Sierra 2500 Extended Cab,Pickup,9062,392,8670
+2022-10-28,Isabella da Rosa,Lavínia Melo,F,75,Silva da Praia,Land Rover Discovery,2018,Land Rover,Discovery,SUV,9197,861,8336
+2022-10-29,Francisco Silva,Anthony da Cruz,M,46,Costa,Mercedes-Benz Mercedes-AMG GLE,2018,Mercedes-Benz,Mercedes-AMG GLE,SUV,12066,431,11635
+2022-10-29,Beatriz Gomes,Bruna Rocha,F,25,Barbosa,Lincoln Town Car,2000,Lincoln,Town Car,Sedan,9251,507,8744
+2022-10-29,Isabella da Rosa,Milena Aragão,F,48,Gomes,Chrysler LHS,1997,Chrysler,LHS,Sedan,9088,605,8483
+2022-10-30,Sophie Peixoto,Sarah da Rosa,F,38,da Cruz,Acura RDX,2007,Acura,RDX,SUV,10471,930,9541
+2022-10-30,Francisco Silva,Pedro Lucas da Mota,M,39,Cunha,Kia Sorento,2016,Kia,Sorento,SUV,10374,476,9898
+2022-10-31,Vitor Gabriel Castro,Pedro Lucas Fogaça,M,38,Correia da Praia,Toyota Highlander,2008,Toyota,Highlander,SUV,10990,298,10692
+2022-11-01,Juliana Jesus,Clara Monteiro,F,63,Rezende Grande,Jeep Wrangler,2017,Jeep,Wrangler,SUV,9667,716,8951
+2022-11-01,Yasmin Fernandes,Alícia Farias,F,61,Campos de Goiás,Ram 3500 Crew Cab,2020,Ram,3500 Crew Cab,Pickup,8157,608,7549
+2022-11-02,Sophie Peixoto,Davi Lucas Novaes,M,33,Souza,Lincoln Town Car,2010,Lincoln,Town Car,Sedan,9416,238,9178
+2022-11-02,Beatriz Gomes,Dr. Gabriel Nascimento,M,68,Monteiro,Ford Transit Connect Cargo,2010,Ford,Transit Connect Cargo,Van/Minivan,12681,137,12544
+2022-11-02,Francisco Silva,Agatha Rocha,F,66,Farias,Chevrolet G-Series 2500,1998,Chevrolet,G-Series 2500,Van/Minivan,11500,74,11426
+2022-11-03,Beatriz Gomes,Enzo Gabriel Nogueira,M,30,Vieira do Oeste,Genesis G80,2019,Genesis,G80,Sedan,10882,789,10093
+2022-11-03,Isabella da Rosa,Dra. Rebeca Jesus,F,52,Jesus das Pedras,BMW X4,2017,BMW,X4,SUV,9034,837,8197
+2022-11-03,Sophie Peixoto,Vitor Gabriel Silva,M,31,Moreira dos Dourados,Subaru Loyale,1992,Subaru,Loyale,"Sedan, Wagon",10131,972,9159
+2022-11-04,Sophie Peixoto,Júlia da Rosa,F,79,Fernandes,Cadillac Escalade ESV,2007,Cadillac,Escalade ESV,SUV,9701,582,9119
+2022-11-07,Isabella da Rosa,Nicolas Martins,M,29,Melo,Ford F350 Super Duty Crew Cab,2018,Ford,F350 Super Duty Crew Cab,Pickup,11986,307,11679
+2022-11-07,Francisco Silva,Cauê Barros,M,64,da Paz da Praia,Ford Flex,2012,Ford,Flex,SUV,13527,248,13279
+2022-11-07,Beatriz Gomes,Emanuel Souza,M,76,da Paz do Sul,MAZDA CX-5,2020,MAZDA,CX-5,SUV,8161,771,7390
+2022-11-09,Sophie Peixoto,Sr. Guilherme Silveira,M,72,Jesus,Toyota Highlander,2003,Toyota,Highlander,SUV,12047,927,11120
+2022-11-10,Francisco Silva,Benício Moraes,M,71,Ramos Verde,Mitsubishi Galant,2007,Mitsubishi,Galant,Sedan,11161,614,10547
+2022-11-10,Yasmin Fernandes,João Guilherme Peixoto,M,28,Costela,Oldsmobile 88,1999,Oldsmobile,88,Sedan,9155,656,8499
+2022-11-10,Beatriz Gomes,Julia Farias,F,59,Rezende do Sul,Toyota Tundra Double Cab,2011,Toyota,Tundra Double Cab,Pickup,10575,576,9999
+2022-11-10,Yasmin Fernandes,Sr. Luiz Fernando Cardoso,M,48,Melo do Oeste,Volkswagen Golf III,1993,Volkswagen,Golf III,Hatchback,13803,731,13072
+2022-11-11,Beatriz Gomes,Paulo Viana,M,73,Fernandes,GMC Savana 2500 Cargo,2017,GMC,Savana 2500 Cargo,Van/Minivan,9745,18,9727
+2022-11-13,Yasmin Fernandes,Dra. Isis da Mota,F,30,Cardoso do Sul,GMC Yukon,2004,GMC,Yukon,SUV,9515,267,9248
+2022-11-13,Francisco Silva,João Vitor Rocha,M,29,Fogaça das Pedras,Chevrolet Sportvan G30,1994,Chevrolet,Sportvan G30,Van/Minivan,8169,989,7180
+2022-11-15,Juliana Jesus,Eduardo Cardoso,M,34,Araújo de Martins,Nissan Rogue,2019,Nissan,Rogue,SUV,9019,802,8217
+2022-11-15,Vitor Gabriel Castro,Amanda Porto,F,46,Lima,Toyota Tacoma Regular Cab,2006,Toyota,Tacoma Regular Cab,Pickup,13994,192,13802
+2022-11-18,Vitor Gabriel Castro,Sabrina Freitas,F,40,Aragão,Chevrolet 2500 Regular Cab,1996,Chevrolet,2500 Regular Cab,Pickup,11352,885,10467
+2022-11-20,Vitor Gabriel Castro,Maitê Jesus,F,77,da Luz Grande,MAZDA RX-7,1994,MAZDA,RX-7,Hatchback,10874,676,10198
+2022-11-21,Beatriz Gomes,Maitê Viana,F,30,Lima Grande,Lexus LX,1998,Lexus,LX,SUV,11976,189,11787
+2022-11-22,Beatriz Gomes,Alexandre Oliveira,M,77,Monteiro,Chevrolet Silverado 3500 Extended Cab,2006,Chevrolet,Silverado 3500 Extended Cab,Pickup,9925,814,9111
+2022-11-22,Beatriz Gomes,Enrico Oliveira,M,48,Rodrigues,Toyota RAV4,2002,Toyota,RAV4,SUV,13834,225,13609
+2022-11-23,Yasmin Fernandes,Vinicius Nascimento,M,38,Campos,Oldsmobile Aurora,1999,Oldsmobile,Aurora,Sedan,12959,585,12374
+2022-11-23,Juliana Jesus,Igor da Costa,M,48,Jesus,Oldsmobile Intrigue,2002,Oldsmobile,Intrigue,Sedan,12664,871,11793
+2022-11-25,Yasmin Fernandes,João Felipe Dias,M,29,Nascimento,Nissan Frontier King Cab,2017,Nissan,Frontier King Cab,Pickup,8648,455,8193
+2022-11-25,Beatriz Gomes,Erick Fernandes,M,52,da Conceição de Dias,Subaru Legacy,2004,Subaru,Legacy,"Sedan, Wagon",11821,451,11370
+2022-11-25,Beatriz Gomes,Enzo Gabriel Gonçalves,M,59,Araújo da Praia,Dodge Durango,2008,Dodge,Durango,SUV,11551,834,10717
+2022-11-30,Yasmin Fernandes,João Pedro Dias,M,67,Fernandes,Buick Park Avenue,1993,Buick,Park Avenue,Sedan,12636,18,12618
+2022-12-02,Sophie Peixoto,Clara Correia,F,77,Souza,Nissan NV3500 HD Cargo,2019,Nissan,NV3500 HD Cargo,Van/Minivan,11197,222,10975
+2022-12-02,Yasmin Fernandes,Alexia Cunha,F,48,Correia,Buick LeSabre,1995,Buick,LeSabre,Sedan,10345,3,10342
+2022-12-04,Francisco Silva,Davi Lucas Rodrigues,M,35,Melo,Mercedes-Benz Mercedes-AMG G-Class,2018,Mercedes-Benz,Mercedes-AMG G-Class,SUV,9136,93,9043
+2022-12-04,Yasmin Fernandes,Isaac Fernandes,M,62,Nogueira do Sul,Audi Q3,2016,Audi,Q3,SUV,10182,303,9879
+2022-12-05,Francisco Silva,Júlia Rodrigues,F,43,Silveira da Mata,Audi A5,2011,Audi,A5,"Coupe, Convertible",11663,454,11209
+2022-12-06,Vitor Gabriel Castro,Paulo Melo,M,41,Santos de Minas,Kia Rio,2015,Kia,Rio,"Sedan, Hatchback",9734,525,9209
+2022-12-07,Francisco Silva,Alice Ramos,F,73,da Mota das Flores,Acura MDX,2010,Acura,MDX,SUV,10364,65,10299
+2022-12-08,Juliana Jesus,Sr. Lucas da Conceição,M,26,Freitas dos Dourados,Subaru BRZ,2016,Subaru,BRZ,Coupe,13475,50,13425
+2022-12-08,Isabella da Rosa,Danilo da Rosa,M,67,da Mota,Mercedes-Benz M-Class,2015,Mercedes-Benz,M-Class,SUV,10362,695,9667
+2022-12-08,Beatriz Gomes,Lorena Castro,F,27,Vieira,GMC Canyon Regular Cab,2007,GMC,Canyon Regular Cab,Pickup,11213,53,11160
+2022-12-08,Beatriz Gomes,Milena Farias,F,27,Peixoto,Land Rover LR4,2010,Land Rover,LR4,SUV,10400,162,10238
+2022-12-08,Beatriz Gomes,Srta. Ana Correia,F,69,Novaes,Ford Aspire,1995,Ford,Aspire,Hatchback,12818,132,12686
+2022-12-09,Sophie Peixoto,Sophia Barros,F,50,Moraes de Goiás,Mitsubishi 3000GT,1996,Mitsubishi,3000GT,"Coupe, Convertible",13495,367,13128
+2022-12-09,Yasmin Fernandes,Cecília Nascimento,F,78,Pereira,MAZDA 626,1998,MAZDA,626,Sedan,12179,41,12138
+2022-12-09,Beatriz Gomes,Eduarda Cardoso,F,35,da Paz,Mitsubishi Galant,1995,Mitsubishi,Galant,Sedan,9007,364,8643
+2022-12-10,Isabella da Rosa,Vicente da Mata,M,48,Monteiro,Toyota Tundra Regular Cab,2014,Toyota,Tundra Regular Cab,Pickup,13281,435,12846
+2022-12-10,Sophie Peixoto,Natália Lopes,F,22,Aragão de Minas,Ford F150 Super Cab,2019,Ford,F150 Super Cab,Pickup,13353,476,12877
+2022-12-11,Beatriz Gomes,Joana Jesus,F,25,Dias Grande,GMC Sierra 2500 HD Extended Cab,2013,GMC,Sierra 2500 HD Extended Cab,Pickup,12092,389,11703
+2022-12-11,Sophie Peixoto,Dr. Eduardo Souza,M,40,Cavalcanti da Mata,GMC Savana 3500 Cargo,2013,GMC,Savana 3500 Cargo,Van/Minivan,9889,276,9613
+2022-12-12,Francisco Silva,Luiz Henrique da Cruz,M,67,Cunha do Amparo,GMC Sierra 2500 HD Crew Cab,2006,GMC,Sierra 2500 HD Crew Cab,Pickup,13789,790,12999
+2022-12-13,Francisco Silva,Ana Laura Lopes,F,22,Peixoto do Oeste,Chevrolet 2500 Regular Cab,1994,Chevrolet,2500 Regular Cab,Pickup,9781,600,9181
+2022-12-13,Juliana Jesus,Isabel Silva,F,70,Lima,Chevrolet Express 1500 Cargo,2002,Chevrolet,Express 1500 Cargo,Van/Minivan,11030,581,10449
+2022-12-13,Francisco Silva,Luana Lopes,F,71,Castro da Praia,Dodge Ram Wagon B250,1994,Dodge,Ram Wagon B250,Van/Minivan,11632,968,10664
+2022-12-15,Vitor Gabriel Castro,Helena Rezende,F,47,Alves de Fernandes,Buick Park Avenue,1995,Buick,Park Avenue,Sedan,12840,374,12466
+2022-12-15,Yasmin Fernandes,Luigi Martins,M,77,Lima,HUMMER H2,2009,HUMMER,H2,SUV,9577,515,9062
+2022-12-18,Beatriz Gomes,Gabrielly Lima,F,52,Gomes,Kia Niro Plug-in Hybrid,2019,Kia,Niro Plug-in Hybrid,Wagon,9093,46,9047
+2022-12-18,Vitor Gabriel Castro,Ana Júlia Cardoso,F,37,da Costa,Oldsmobile Bravada,2004,Oldsmobile,Bravada,SUV,8994,423,8571
+2022-12-18,Beatriz Gomes,Bárbara Melo,F,48,da Conceição dos Dourados,MAZDA Protege,2002,MAZDA,Protege,Sedan,11969,955,11014
+2022-12-18,Vitor Gabriel Castro,Isis Souza,F,54,Carvalho,Audi A3,2013,Audi,A3,Wagon,8238,694,7544
+2022-12-20,Isabella da Rosa,Dr. Luiz Fernando Lima,M,53,Lopes,Rolls-Royce Phantom,2005,Rolls-Royce,Phantom,Sedan,13143,530,12613
+2022-12-20,Sophie Peixoto,Heitor Freitas,M,67,da Costa de Vieira,Pontiac Grand Prix,1992,Pontiac,Grand Prix,"Coupe, Sedan",10116,852,9264
+2022-12-20,Juliana Jesus,Heitor Correia,M,71,Viana Grande,Mitsubishi Montero Sport,2001,Mitsubishi,Montero Sport,SUV,8678,434,8244
+2022-12-20,Sophie Peixoto,Joaquim Ribeiro,M,48,Gomes,smart fortwo,2011,smart,fortwo,"Hatchback, Convertible",8007,780,7227
+2022-12-20,Juliana Jesus,Vicente Monteiro,M,74,Teixeira,Oldsmobile Aurora,2001,Oldsmobile,Aurora,Sedan,13638,654,12984
+2022-12-20,Francisco Silva,Luiz Fernando Cavalcanti,M,80,da Paz de Monteiro,Dodge Nitro,2009,Dodge,Nitro,SUV,8587,998,7589
+2022-12-21,Sophie Peixoto,Lucas Gabriel da Cruz,M,26,Araújo de Rezende,FIAT 500c,2017,FIAT,500c,Convertible,10850,393,10457
+2022-12-21,Isabella da Rosa,Raul Aragão,M,53,Freitas,BMW X3,2009,BMW,X3,SUV,10134,877,9257
+2022-12-21,Beatriz Gomes,Sofia Peixoto,F,35,Almeida,Nissan NV200,2014,Nissan,NV200,Van/Minivan,9871,722,9149
+2022-12-21,Vitor Gabriel Castro,Cauã Oliveira,M,46,Almeida,Rolls-Royce Ghost,2017,Rolls-Royce,Ghost,Sedan,8587,512,8075
+2022-12-22,Sophie Peixoto,Alana Pires,F,71,Lopes Paulista,Ford Transit Connect Passenger,2011,Ford,Transit Connect Passenger,Van/Minivan,13499,20,13479
+2022-12-22,Francisco Silva,Evelyn Duarte,F,62,Gomes do Norte,Kia Optima Hybrid,2016,Kia,Optima Hybrid,Sedan,13554,23,13531
+2022-12-24,Yasmin Fernandes,João Felipe Viana,M,24,Viana do Galho,Lexus LS,2017,Lexus,LS,Sedan,10932,273,10659
+2022-12-26,Vitor Gabriel Castro,Emilly Almeida,F,27,Lima Alegre,Jeep Wrangler,1995,Jeep,Wrangler,SUV,10587,35,10552
+2022-12-27,Francisco Silva,Sra. Mariane Pires,F,24,Costa dos Dourados,MAZDA MAZDA6,2018,MAZDA,MAZDA6,Sedan,11381,612,10769
+2022-12-27,Juliana Jesus,Kevin Dias,M,38,Correia Grande,Chevrolet Express 1500 Passenger,1996,Chevrolet,Express 1500 Passenger,Van/Minivan,10401,557,9844
+2022-12-27,Sophie Peixoto,Luigi Cardoso,M,30,Cavalcanti de Goiás,MAZDA CX-5,2016,MAZDA,CX-5,SUV,13301,892,12409
+2022-12-28,Vitor Gabriel Castro,Lara Costela,F,80,Rocha,Suzuki Aerio,2007,Suzuki,Aerio,Sedan,13252,194,13058
+2022-12-28,Juliana Jesus,João Vitor Martins,M,79,Sales,Mercedes-Benz CLA,2017,Mercedes-Benz,CLA,Sedan,11179,10,11169
+2022-12-29,Francisco Silva,Carolina Novaes,F,48,Castro Alegre,Audi R8,2009,Audi,R8,Coupe,10184,153,10031
+2022-12-29,Sophie Peixoto,Valentina das Neves,F,47,Moreira,Dodge Charger,2012,Dodge,Charger,Sedan,9805,778,9027
+2022-12-29,Vitor Gabriel Castro,Srta. Isis Farias,F,28,Barros de Minas,Toyota Xtra Cab,1992,Toyota,Xtra Cab,Pickup,13840,835,13005
+2022-12-30,Francisco Silva,Luiz Henrique Jesus,M,61,Fernandes,Ford Explorer Sport Trac,2008,Ford,Explorer Sport Trac,SUV,8119,240,7879
+2023-01-02,Isabella da Rosa,Agatha Viana,F,37,Mendes de Goiás,Saturn VUE,2002,Saturn,VUE,SUV,12400,935,11465
+2023-01-04,Beatriz Gomes,João Felipe da Rocha,M,66,da Paz,Saturn VUE,2002,Saturn,VUE,SUV,8618,451,8167
+2023-01-04,Isabella da Rosa,Dr. Vitor Hugo Dias,M,56,Freitas do Sul,Isuzu Trooper,1995,Isuzu,Trooper,SUV,9874,123,9751
+2023-01-05,Francisco Silva,Pedro Lucas Nunes,M,58,Jesus,Mercedes-Benz 600 SEC,1993,Mercedes-Benz,600 SEC,Coupe,13478,378,13100
+2023-01-06,Vitor Gabriel Castro,Maria Fernanda Lima,F,27,Cavalcanti,Chevrolet Express 1500 Cargo,2004,Chevrolet,Express 1500 Cargo,Van/Minivan,9758,986,8772
+2023-01-06,Sophie Peixoto,Isadora Freitas,F,80,Melo da Serra,Kia Forte Koup,2015,Kia,Forte Koup,Coupe,11878,265,11613
+2023-01-07,Sophie Peixoto,Beatriz Ribeiro,F,74,Melo da Praia,Kia Optima Hybrid,2019,Kia,Optima Hybrid,Sedan,8779,873,7906
+2023-01-07,Beatriz Gomes,Noah Novaes,M,67,da Rosa Verde,Ford Focus,2017,Ford,Focus,"Sedan, Hatchback",10669,357,10312
+2023-01-08,Beatriz Gomes,Sra. Eduarda da Cruz,F,31,Moura,Honda Pilot,2013,Honda,Pilot,SUV,12944,383,12561
+2023-01-09,Vitor Gabriel Castro,Levi Ribeiro,M,33,Vieira de Mendes,Cadillac DeVille,1997,Cadillac,DeVille,Sedan,13062,131,12931
+2023-01-09,Francisco Silva,Clarice Moura,F,52,Viana das Pedras,Hyundai Santa Fe,2002,Hyundai,Santa Fe,SUV,12362,533,11829
+2023-01-09,Beatriz Gomes,Emanuel Nascimento,M,70,Fogaça,Land Rover Freelander,2003,Land Rover,Freelander,SUV,11672,29,11643
+2023-01-10,Vitor Gabriel Castro,Srta. Alexia Freitas,F,80,Correia de Fernandes,BMW X5,2016,BMW,X5,SUV,11303,136,11167
+2023-01-10,Yasmin Fernandes,Gabriel Barbosa,M,24,da Cruz,Chrysler Sebring,2002,Chrysler,Sebring,"Sedan, Convertible, Coupe",9919,358,9561
+2023-01-11,Juliana Jesus,Luiz Fernando Jesus,M,42,Lopes de Minas,Dodge Sprinter 2500 Cargo,2004,Dodge,Sprinter 2500 Cargo,Van/Minivan,8357,837,7520
+2023-01-12,Juliana Jesus,Ana Lívia da Costa,F,73,Correia da Praia,Freightliner Sprinter 2500 Crew,2017,Freightliner,Sprinter 2500 Crew,Van/Minivan,13233,606,12627
+2023-01-12,Isabella da Rosa,Srta. Bárbara Costa,F,73,Ferreira do Sul,Chevrolet Express 1500 Passenger,1996,Chevrolet,Express 1500 Passenger,Van/Minivan,9618,399,9219
+2023-01-12,Juliana Jesus,Francisco Azevedo,M,76,Jesus Verde,Chevrolet Silverado 2500 HD Double Cab,2019,Chevrolet,Silverado 2500 HD Double Cab,Pickup,10839,261,10578
+2023-01-12,Juliana Jesus,João Guilherme Dias,M,74,Lima,Dodge D250 Club Cab,1992,Dodge,D250 Club Cab,Pickup,11897,981,10916
+2023-01-13,Juliana Jesus,Luiz Miguel Viana,M,29,Rezende do Norte,Ford F450 Super Duty Crew Cab,2014,Ford,F450 Super Duty Crew Cab,Pickup,9154,847,8307
+2023-01-14,Beatriz Gomes,Bernardo Jesus,M,30,Pereira,GMC Acadia,2017,GMC,Acadia,SUV,12743,281,12462
+2023-01-15,Beatriz Gomes,Leandro da Conceição,M,73,da Rocha,BMW M6,2013,BMW,M6,"Coupe, Convertible",8994,168,8826
+2023-01-15,Vitor Gabriel Castro,Dr. Felipe Araújo,M,63,Cardoso do Amparo,Chevrolet 2500 Regular Cab,1993,Chevrolet,2500 Regular Cab,Pickup,9054,941,8113
+2023-01-16,Vitor Gabriel Castro,Luiz Fernando Ferreira,M,75,Cavalcanti de Cardoso,Jeep Grand Cherokee,2019,Jeep,Grand Cherokee,SUV,8636,473,8163
+2023-01-16,Isabella da Rosa,Maria Julia Rezende,F,37,Viana,INFINITI QX,2010,INFINITI,QX,SUV,10455,980,9475
+2023-01-17,Yasmin Fernandes,Enzo Gabriel Costela,M,37,Barbosa,Chevrolet Malibu,2012,Chevrolet,Malibu,Sedan,8244,731,7513
+2023-01-18,Juliana Jesus,Nicole Porto,F,45,Rodrigues de Goiás,Audi A6,1996,Audi,A6,"Sedan, Wagon",8351,944,7407
+2023-01-19,Isabella da Rosa,Yasmin Mendes,F,29,Correia de Sales,smart fortwo electric drive cabrio,2017,smart,fortwo electric drive cabrio,Convertible,11635,436,11199
+2023-01-20,Francisco Silva,Stella Moraes,F,56,Azevedo,Volkswagen GTI,2000,Volkswagen,GTI,Hatchback,11267,977,10290
+2023-01-20,Yasmin Fernandes,Dra. Nicole Rodrigues,F,35,Lopes do Sul,Chrysler 300,2017,Chrysler,300,Sedan,8800,498,8302
+2023-01-21,Beatriz Gomes,Dra. Ana Luiza Pereira,F,38,Correia da Praia,Chevrolet Colorado Extended Cab,2017,Chevrolet,Colorado Extended Cab,Pickup,11124,521,10603
+2023-01-21,Juliana Jesus,Alice Fogaça,F,31,das Neves do Galho,Lincoln MKZ,2009,Lincoln,MKZ,Sedan,12732,797,11935
+2023-01-21,Yasmin Fernandes,Sra. Sabrina Monteiro,F,60,Monteiro,Lexus LS,2018,Lexus,LS,Sedan,12489,315,12174
+2023-01-24,Francisco Silva,Sophie da Rosa,F,69,Correia,Dodge Dakota Extended Cab,2010,Dodge,Dakota Extended Cab,Pickup,9709,645,9064
+2023-01-24,Yasmin Fernandes,Agatha Pinto,F,62,Rodrigues Grande,Mitsubishi Raider Double Cab,2007,Mitsubishi,Raider Double Cab,Pickup,12860,408,12452
+2023-01-25,Juliana Jesus,Felipe Pinto,M,33,Barros,Mercedes-Benz E-Class,2003,Mercedes-Benz,E-Class,"Sedan, Wagon",13618,528,13090
+2023-01-25,Francisco Silva,João Felipe Barros,M,25,Lopes de Teixeira,Toyota Solara,2006,Toyota,Solara,"Coupe, Convertible",9604,385,9219
+2023-01-27,Sophie Peixoto,Agatha Duarte,F,63,Monteiro de da Cruz,Nissan Pathfinder,2002,Nissan,Pathfinder,SUV,9065,944,8121
+2023-01-27,Yasmin Fernandes,Enrico Pinto,M,74,Costela de Nogueira,Nissan cube,2011,Nissan,cube,Wagon,11454,40,11414
+2023-01-27,Beatriz Gomes,Dr. Noah Lima,M,77,Moraes,INFINITI Q,1993,INFINITI,Q,Sedan,10232,122,10110
+2023-01-27,Sophie Peixoto,Luiz Miguel Caldeira,M,65,Nascimento,Ram 2500 Crew Cab,2013,Ram,2500 Crew Cab,Pickup,11420,101,11319
+2023-01-27,Vitor Gabriel Castro,Maria Moura,F,44,Ribeiro dos Dourados,Nissan Frontier Crew Cab,2009,Nissan,Frontier Crew Cab,Pickup,10109,310,9799
+2023-01-27,Juliana Jesus,Sr. Gabriel da Conceição,M,61,Farias,GMC Canyon Crew Cab,2011,GMC,Canyon Crew Cab,Pickup,11031,137,10894
+2023-01-28,Sophie Peixoto,Sr. Thales da Cunha,M,57,Moura,Ram 2500 Crew Cab,2011,Ram,2500 Crew Cab,Pickup,11368,471,10897
+2023-01-28,Beatriz Gomes,Gustavo Henrique Campos,M,76,Porto,Toyota Tacoma Access Cab,2011,Toyota,Tacoma Access Cab,Pickup,9823,450,9373
+2023-01-29,Juliana Jesus,Dr. Diogo Fogaça,M,75,Moraes,Lexus LS,2014,Lexus,LS,Sedan,11185,213,10972
+2023-01-29,Yasmin Fernandes,Isaac Azevedo,M,52,Araújo da Serra,Audi A6,2019,Audi,A6,Sedan,11859,113,11746
+2023-01-30,Francisco Silva,Giovanna das Neves,F,24,Barbosa das Pedras,Audi A7,2020,Audi,A7,Sedan,9266,269,8997
+2023-01-30,Francisco Silva,Cauê Novaes,M,66,Campos de Farias,Honda Civic,1993,Honda,Civic,"Coupe, Hatchback, Sedan",11052,233,10819
+2023-01-31,Isabella da Rosa,Lorena da Cruz,F,31,Souza,GMC Sierra 2500 HD Crew Cab,2008,GMC,Sierra 2500 HD Crew Cab,Pickup,11908,465,11443
+2023-02-01,Isabella da Rosa,Sra. Alana Castro,F,45,Duarte,Toyota Yaris iA,2017,Toyota,Yaris iA,Sedan,9592,398,9194
+2023-02-01,Juliana Jesus,Carolina da Mota,F,58,da Luz de Peixoto,Mercedes-Benz C-Class,2013,Mercedes-Benz,C-Class,"Sedan, Coupe",11520,891,10629
+2023-02-01,Francisco Silva,Bruna Fernandes,F,40,Pinto Verde,Audi S4,2007,Audi,S4,"Sedan, Wagon, Convertible",12370,1,12369
+2023-02-02,Francisco Silva,Davi Luiz Fernandes,M,71,Araújo Verde,Volkswagen GTI,2000,Volkswagen,GTI,Hatchback,13895,526,13369
+2023-02-02,Vitor Gabriel Castro,Maria Alice Gomes,F,35,Vieira das Flores,Audi 80,1992,Audi,80,Sedan,8671,67,8604
+2023-02-02,Beatriz Gomes,Guilherme Moraes,M,42,Cavalcanti da Prata,Kia Optima,2017,Kia,Optima,Sedan,8024,921,7103
+2023-02-03,Vitor Gabriel Castro,Sophie Correia,F,30,Fogaça,Chevrolet Silverado 2500 HD Crew Cab,2020,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,13923,791,13132
+2023-02-04,Isabella da Rosa,Maria Julia Lopes,F,33,Almeida,Chevrolet Impala,2016,Chevrolet,Impala,Sedan,8747,724,8023
+2023-02-05,Isabella da Rosa,Srta. Vitória da Paz,F,50,Barros,Chevrolet Traverse,2016,Chevrolet,Traverse,SUV,11220,927,10293
+2023-02-05,Beatriz Gomes,Srta. Maria Costela,F,48,Cardoso,Acura Legend,1992,Acura,Legend,"Sedan, Coupe",8813,905,7908
+2023-02-05,Yasmin Fernandes,Sr. Lucas Caldeira,M,28,da Cunha do Campo,Panoz Esperante,2005,Panoz,Esperante,"Coupe, Convertible",12345,982,11363
+2023-02-06,Juliana Jesus,Carlos Eduardo Castro,M,78,da Conceição de Aragão,Oldsmobile Aurora,2001,Oldsmobile,Aurora,Sedan,12621,596,12025
+2023-02-06,Beatriz Gomes,Gustavo Rezende,M,65,Rocha de Minas,Freightliner Sprinter 2500 Passenger,2017,Freightliner,Sprinter 2500 Passenger,Van/Minivan,11242,667,10575
+2023-02-07,Juliana Jesus,Otávio Almeida,M,44,Rocha,Chevrolet Silverado 3500 HD Regular Cab,2018,Chevrolet,Silverado 3500 HD Regular Cab,Pickup,8787,341,8446
+2023-02-08,Vitor Gabriel Castro,Laura Gomes,F,50,Porto do Sul,Chevrolet Avalanche,2010,Chevrolet,Avalanche,SUV,11431,15,11416
+2023-02-08,Vitor Gabriel Castro,Dra. Brenda da Cruz,F,59,Duarte,MAZDA 626,2000,MAZDA,626,Sedan,13545,951,12594
+2023-02-09,Vitor Gabriel Castro,Gabrielly Cardoso,F,38,Nunes,Bentley Flying Spur,2014,Bentley,Flying Spur,Sedan,11412,720,10692
+2023-02-09,Juliana Jesus,Dra. Laura Campos,F,27,Gonçalves das Pedras,Mitsubishi Eclipse Cross,2019,Mitsubishi,Eclipse Cross,SUV,13082,864,12218
+2023-02-10,Francisco Silva,Dr. Isaac Cunha,M,44,Peixoto,Ferrari 612 Scaglietti,2010,Ferrari,612 Scaglietti,Coupe,13288,978,12310
+2023-02-10,Vitor Gabriel Castro,Dr. Gabriel Jesus,M,55,Cunha das Flores,Chevrolet Traverse,2013,Chevrolet,Traverse,SUV,13089,526,12563
+2023-02-11,Beatriz Gomes,Luna Costa,F,30,Correia,Oldsmobile Alero,1999,Oldsmobile,Alero,"Sedan, Coupe",12083,50,12033
+2023-02-11,Vitor Gabriel Castro,Kevin Souza,M,41,Fernandes,Dodge Ram Wagon 3500,1999,Dodge,Ram Wagon 3500,Van/Minivan,10273,253,10020
+2023-02-11,Francisco Silva,Agatha da Conceição,F,45,Castro de Goiás,Chevrolet Silverado 3500 Extended Cab,2004,Chevrolet,Silverado 3500 Extended Cab,Pickup,10491,19,10472
+2023-02-11,Isabella da Rosa,Gabriel Azevedo,M,38,da Rocha do Galho,GMC Suburban 2500,1996,GMC,Suburban 2500,SUV,9744,528,9216
+2023-02-12,Sophie Peixoto,Sra. Ana Júlia Moraes,F,26,Moraes,Nissan Maxima,1997,Nissan,Maxima,Sedan,11363,708,10655
+2023-02-12,Yasmin Fernandes,Mariane Carvalho,F,36,Oliveira,Chevrolet Express 2500 Cargo,2019,Chevrolet,Express 2500 Cargo,Van/Minivan,9394,943,8451
+2023-02-13,Yasmin Fernandes,Davi Azevedo,M,36,Alves,Saturn VUE,2007,Saturn,VUE,SUV,11273,669,10604
+2023-02-13,Sophie Peixoto,Paulo Cardoso,M,48,Barbosa Paulista,Buick LaCrosse,2014,Buick,LaCrosse,Sedan,12502,5,12497
+2023-02-14,Juliana Jesus,Dra. Caroline Campos,F,35,da Rocha Grande,GMC 3500 Crew Cab,1993,GMC,3500 Crew Cab,Pickup,8737,873,7864
+2023-02-14,Vitor Gabriel Castro,Olivia Souza,F,80,Almeida,Nissan Altima,1993,Nissan,Altima,Sedan,8787,731,8056
+2023-02-14,Yasmin Fernandes,Eduardo Silva,M,51,Jesus,Subaru Forester,2017,Subaru,Forester,SUV,10528,681,9847
+2023-02-15,Juliana Jesus,Rafaela Duarte,F,72,da Paz de da Mata,Chrysler Sebring,2004,Chrysler,Sebring,"Coupe, Convertible, Sedan",10674,508,10166
+2023-02-17,Yasmin Fernandes,Eloah Fogaça,F,75,da Paz Verde,Ford F150 Regular Cab,2009,Ford,F150 Regular Cab,Pickup,8571,8,8563
+2023-02-18,Isabella da Rosa,Sra. Maria Julia Melo,F,71,Moreira,Chevrolet Express 1500 Passenger,1998,Chevrolet,Express 1500 Passenger,Van/Minivan,9153,504,8649
+2023-02-18,Juliana Jesus,Kamilly Freitas,F,32,Lopes,Toyota Camry Hybrid,2019,Toyota,Camry Hybrid,Sedan,8356,329,8027
+2023-02-19,Sophie Peixoto,Pedro Henrique Oliveira,M,66,da Cunha,BMW X3,2014,BMW,X3,SUV,12680,338,12342
+2023-02-19,Yasmin Fernandes,Arthur Costa,M,73,Melo das Pedras,Isuzu Rodeo Sport,2002,Isuzu,Rodeo Sport,SUV,9262,358,8904
+2023-02-20,Yasmin Fernandes,Luana Caldeira,F,72,Nascimento,Genesis G90,2018,Genesis,G90,Sedan,12663,598,12065
+2023-02-20,Francisco Silva,Olivia da Conceição,F,80,Lima de Goiás,MAZDA MAZDA5,2007,MAZDA,MAZDA5,Van/Minivan,10968,901,10067
+2023-02-20,Beatriz Gomes,Guilherme Gonçalves,M,49,Aragão de Gomes,Volvo XC90,2010,Volvo,XC90,SUV,9241,436,8805
+2023-02-21,Francisco Silva,Gustavo Alves,M,30,da Cunha,Ford Econoline E150 Passenger,2000,Ford,Econoline E150 Passenger,Van/Minivan,9746,564,9182
+2023-02-21,Beatriz Gomes,Renan Costa,M,48,Silva,Ram ProMaster Cargo Van,2017,Ram,ProMaster Cargo Van,Van/Minivan,12264,92,12172
+2023-02-23,Yasmin Fernandes,João Felipe da Conceição,M,62,Ribeiro do Galho,GMC Savana 2500 Passenger,2013,GMC,Savana 2500 Passenger,Van/Minivan,8355,771,7584
+2023-02-24,Francisco Silva,Pedro Lucas Araújo,M,75,Ribeiro,Ford Aerostar Passenger,1992,Ford,Aerostar Passenger,Van/Minivan,13279,745,12534
+2023-02-24,Isabella da Rosa,Nicolas Azevedo,M,72,Farias de da Rocha,Volkswagen Tiguan,2019,Volkswagen,Tiguan,SUV,9147,287,8860
+2023-02-26,Vitor Gabriel Castro,Sra. Maria Eduarda Monteiro,F,77,Santos,Ram 2500 Mega Cab,2015,Ram,2500 Mega Cab,Pickup,13327,723,12604
+2023-02-26,Isabella da Rosa,Nathan Castro,M,61,Moraes,Honda Passport,2020,Honda,Passport,SUV,11671,261,11410
+2023-02-26,Vitor Gabriel Castro,Caroline Caldeira,F,40,Fogaça,Land Rover Freelander,2003,Land Rover,Freelander,SUV,13489,945,12544
+2023-02-27,Vitor Gabriel Castro,Sr. Caio Nascimento,M,79,Souza Alegre,Acura TL,2002,Acura,TL,Sedan,10575,575,10000
+2023-02-27,Beatriz Gomes,Felipe Monteiro,M,36,Ferreira,Acura TL,1996,Acura,TL,Sedan,9110,92,9018
+2023-02-27,Beatriz Gomes,Dr. Enrico Santos,M,51,Lima Grande,Lexus IS,2013,Lexus,IS,"Sedan, Convertible",11963,92,11871
+2023-03-01,Yasmin Fernandes,Melissa Novaes,F,52,da Mata de Goiás,Ram 1500 Quad Cab,2017,Ram,1500 Quad Cab,Pickup,13982,553,13429
+2023-03-01,Sophie Peixoto,Augusto da Costa,M,45,da Mota do Sul,Lincoln Continental,1994,Lincoln,Continental,Sedan,11590,999,10591
+2023-03-01,Beatriz Gomes,João Pedro Duarte,M,51,Gonçalves de Costela,Acura TSX,2004,Acura,TSX,Sedan,12880,394,12486
+2023-03-02,Isabella da Rosa,Breno da Rocha,M,53,Ribeiro das Pedras,GMC Yukon XL 1500,2006,GMC,Yukon XL 1500,SUV,9025,260,8765
+2023-03-03,Beatriz Gomes,Murilo da Rocha,M,49,Nascimento Grande,Toyota 4Runner,2003,Toyota,4Runner,SUV,10587,608,9979
+2023-03-03,Sophie Peixoto,Ana Luiza da Mota,F,76,Fernandes Verde,Toyota Corolla,2016,Toyota,Corolla,Sedan,11458,655,10803
+2023-03-03,Sophie Peixoto,Júlia Pires,F,33,Cardoso de Goiás,Mitsubishi Outlander Sport,2018,Mitsubishi,Outlander Sport,SUV,8591,374,8217
+2023-03-03,Francisco Silva,Laís Moura,F,37,Correia,Toyota Tacoma Double Cab,2012,Toyota,Tacoma Double Cab,Pickup,13173,312,12861
+2023-03-06,Beatriz Gomes,Maria Alice Castro,F,41,Santos,Chevrolet Silverado 2500 HD Regular Cab,2004,Chevrolet,Silverado 2500 HD Regular Cab,Pickup,13759,143,13616
+2023-03-06,Juliana Jesus,Clarice da Rocha,F,37,Campos de Minas,GMC Savana 2500 Cargo,2014,GMC,Savana 2500 Cargo,Van/Minivan,9880,886,8994
+2023-03-07,Yasmin Fernandes,João Vitor da Costa,M,47,da Costa Grande,Toyota Land Cruiser,2004,Toyota,Land Cruiser,SUV,12476,193,12283
+2023-03-09,Juliana Jesus,Joaquim Ramos,M,68,da Paz,Toyota Camry,2002,Toyota,Camry,Sedan,12113,217,11896
+2023-03-10,Juliana Jesus,Dr. Nicolas Farias,M,32,Cardoso,Acura RL,2005,Acura,RL,Sedan,12866,64,12802
+2023-03-10,Isabella da Rosa,Marina Rezende,F,78,Monteiro Paulista,Dodge Viper,2006,Dodge,Viper,"Coupe, Convertible",11578,794,10784
+2023-03-11,Vitor Gabriel Castro,Gabriel Oliveira,M,68,Aragão,Volkswagen Routan,2013,Volkswagen,Routan,Van/Minivan,12228,424,11804
+2023-03-11,Vitor Gabriel Castro,Mariane Martins,F,52,Duarte,Toyota Solara,2008,Toyota,Solara,"Coupe, Convertible",8379,579,7800
+2023-03-12,Juliana Jesus,Catarina Nunes,F,60,Rocha de Lima,BMW M3,2012,BMW,M3,"Convertible, Coupe",8061,338,7723
+2023-03-13,Sophie Peixoto,Murilo da Cunha,M,42,Oliveira,Kia Soul EV,2018,Kia,Soul EV,Wagon,8969,917,8052
+2023-03-13,Francisco Silva,Helena Pereira,F,59,Dias dos Dourados,Audi A3,2018,Audi,A3,"Sedan, Convertible",10387,45,10342
+2023-03-14,Sophie Peixoto,Dra. Esther Mendes,F,53,da Cruz,Chevrolet Uplander Cargo,2005,Chevrolet,Uplander Cargo,Van/Minivan,8671,381,8290
+2023-03-15,Sophie Peixoto,Laís Caldeira,F,30,da Luz do Amparo,Nissan Pathfinder,2003,Nissan,Pathfinder,SUV,8746,231,8515
+2023-03-15,Yasmin Fernandes,Luiz Gustavo Fernandes,M,36,Rezende,Nissan Frontier Regular Cab,2000,Nissan,Frontier Regular Cab,Pickup,8944,792,8152
+2023-03-15,Beatriz Gomes,Noah Caldeira,M,72,Peixoto Paulista,Mercury Grand Marquis,1993,Mercury,Grand Marquis,Sedan,8553,596,7957
+2023-03-16,Francisco Silva,Carolina Dias,F,53,Nogueira do Sul,Ford F250 Super Duty Regular Cab,2004,Ford,F250 Super Duty Regular Cab,Pickup,11598,256,11342
+2023-03-17,Beatriz Gomes,Dr. Vitor Gabriel da Rocha,M,40,Rocha das Flores,INFINITI QX60,2014,INFINITI,QX60,SUV,8081,622,7459
+2023-03-17,Juliana Jesus,Davi Lucas Mendes,M,24,da Cruz dos Dourados,GMC Savana 2500 Passenger,2002,GMC,Savana 2500 Passenger,Van/Minivan,13226,399,12827
+2023-03-18,Juliana Jesus,Miguel Moraes,M,24,da Mata Alegre,Mercedes-Benz Sprinter 2500 Passenger,2016,Mercedes-Benz,Sprinter 2500 Passenger,Van/Minivan,9028,275,8753
+2023-03-18,Yasmin Fernandes,Emanuel da Luz,M,68,da Cruz do Sul,Chevrolet Astro Passenger,2004,Chevrolet,Astro Passenger,Van/Minivan,10583,713,9870
+2023-03-19,Vitor Gabriel Castro,Leandro Ferreira,M,68,Melo do Oeste,Ford F250 Super Cab,1997,Ford,F250 Super Cab,Pickup,10078,765,9313
+2023-03-19,Juliana Jesus,Sr. Davi Peixoto,M,32,da Cunha das Flores,Mercedes-Benz Sprinter 2500 Crew,2015,Mercedes-Benz,Sprinter 2500 Crew,Van/Minivan,9262,65,9197
+2023-03-19,Yasmin Fernandes,Srta. Sarah Monteiro,F,42,Cardoso das Pedras,Subaru Justy,1992,Subaru,Justy,Hatchback,10719,870,9849
+2023-03-19,Beatriz Gomes,Emilly da Rocha,F,27,Aragão da Prata,Ford F150 Super Cab,1993,Ford,F150 Super Cab,Pickup,13083,488,12595
+2023-03-20,Francisco Silva,Srta. Larissa Aragão,F,39,Cardoso do Sul,Dodge Journey,2017,Dodge,Journey,SUV,8392,462,7930
+2023-03-21,Yasmin Fernandes,Diogo Pinto,M,62,da Rocha,Oldsmobile Cutlass Supreme,1997,Oldsmobile,Cutlass Supreme,"Sedan, Coupe",11039,296,10743
+2023-03-21,Sophie Peixoto,Caio da Rosa,M,33,Nunes,Aston Martin Vantage,2009,Aston Martin,Vantage,"Convertible, Coupe",12837,206,12631
+2023-03-21,Beatriz Gomes,Sra. Camila Gonçalves,F,47,Lima de Teixeira,INFINITI FX,2011,INFINITI,FX,SUV,9905,38,9867
+2023-03-22,Yasmin Fernandes,Dr. Diego Silveira,M,56,da Costa do Amparo,Acura TL,2006,Acura,TL,Sedan,10298,920,9378
+2023-03-22,Isabella da Rosa,Brenda Freitas,F,76,Barbosa,Hyundai Equus,2014,Hyundai,Equus,Sedan,10160,41,10119
+2023-03-22,Beatriz Gomes,Francisco Monteiro,M,37,Monteiro da Prata,Chevrolet Cobalt,2005,Chevrolet,Cobalt,"Sedan, Coupe",8174,387,7787
+2023-03-23,Juliana Jesus,João Pedro da Cunha,M,30,Azevedo do Norte,Toyota Supra,1995,Toyota,Supra,Hatchback,11575,789,10786
+2023-03-23,Isabella da Rosa,Bruno Monteiro,M,45,Campos,MAZDA RX-8,2010,MAZDA,RX-8,Coupe,10351,195,10156
+2023-03-23,Isabella da Rosa,Dra. Sarah Nascimento,F,47,da Conceição,Nissan Altima,2009,Nissan,Altima,"Sedan, Coupe",13386,451,12935
+2023-03-24,Juliana Jesus,Enzo Gabriel Porto,M,30,da Paz da Praia,Audi S4,2010,Audi,S4,Sedan,11347,479,10868
+2023-03-24,Yasmin Fernandes,Dr. Murilo Barros,M,48,Araújo,MAZDA B-Series Cab Plus,2000,MAZDA,B-Series Cab Plus,Pickup,11922,15,11907
+2023-03-24,Juliana Jesus,Emanuella Melo,F,49,Novaes,Dodge Neon,2004,Dodge,Neon,Sedan,10622,711,9911
+2023-03-24,Vitor Gabriel Castro,Raquel da Rosa,F,54,Moreira,BMW X5,2010,BMW,X5,SUV,9582,871,8711
+2023-03-26,Francisco Silva,Pedro Lucas Rezende,M,58,Ferreira,Lincoln Navigator,2007,Lincoln,Navigator,SUV,13746,82,13664
+2023-03-27,Juliana Jesus,Elisa da Costa,F,36,da Conceição da Serra,Dodge D350 Regular Cab,1992,Dodge,D350 Regular Cab,Pickup,12379,564,11815
+2023-03-28,Sophie Peixoto,Samuel da Cunha,M,46,da Rocha de Minas,BMW i3,2019,BMW,i3,Hatchback,11608,418,11190
+2023-03-29,Vitor Gabriel Castro,Luigi Carvalho,M,34,Silva,Chevrolet Express 1500 Passenger,2004,Chevrolet,Express 1500 Passenger,Van/Minivan,8448,133,8315
+2023-03-29,Beatriz Gomes,Emanuel Sales,M,30,Jesus do Galho,Freightliner Sprinter WORKER Cargo,2018,Freightliner,Sprinter WORKER Cargo,Van/Minivan,11055,63,10992
+2023-03-29,Isabella da Rosa,Dr. Luiz Felipe Farias,M,45,Caldeira do Norte,Chevrolet Express 2500 Cargo,2013,Chevrolet,Express 2500 Cargo,Van/Minivan,12542,227,12315
+2023-03-29,Isabella da Rosa,Sra. Eduarda Carvalho,F,72,Lopes de Goiás,Lincoln Navigator L,2020,Lincoln,Navigator L,SUV,11558,617,10941
+2023-03-30,Juliana Jesus,Ian Pires,M,46,Viana do Amparo,Chevrolet Silverado 1500 Regular Cab,2015,Chevrolet,Silverado 1500 Regular Cab,Pickup,12384,564,11820
+2023-03-31,Yasmin Fernandes,Sr. Renan das Neves,M,63,Almeida de Peixoto,Nissan Quest,2013,Nissan,Quest,Van/Minivan,13300,620,12680
+2023-03-31,Sophie Peixoto,Alexia Ribeiro,F,78,Freitas,Porsche Cayenne,2011,Porsche,Cayenne,SUV,10164,41,10123
+2023-04-01,Vitor Gabriel Castro,Gustavo Henrique Fogaça,M,47,Ribeiro do Norte,GMC Envoy,2002,GMC,Envoy,SUV,12945,168,12777
+2023-04-02,Yasmin Fernandes,Igor Dias,M,61,Porto,Mercedes-Benz M-Class,2010,Mercedes-Benz,M-Class,SUV,11510,495,11015
+2023-04-02,Vitor Gabriel Castro,Gabrielly Mendes,F,36,Sales Grande,Ford Fusion,2019,Ford,Fusion,Sedan,9479,532,8947
+2023-04-06,Sophie Peixoto,Emanuel Rodrigues,M,40,Farias de Castro,Volvo S40,2002,Volvo,S40,Sedan,10161,196,9965
+2023-04-07,Francisco Silva,Daniel Mendes,M,48,da Conceição,Jaguar XJ,2002,Jaguar,XJ,Sedan,8215,43,8172
+2023-04-08,Sophie Peixoto,Sra. Evelyn Araújo,F,37,Monteiro Alegre,Volkswagen Jetta GLI,2019,Volkswagen,Jetta GLI,Sedan,12267,174,12093
+2023-04-08,Vitor Gabriel Castro,Pedro Miguel Alves,M,35,Oliveira,Cadillac STS,2006,Cadillac,STS,Sedan,13995,25,13970
+2023-04-09,Sophie Peixoto,Caio Cardoso,M,79,Ribeiro da Prata,Chevrolet Silverado 3500 HD Crew Cab,2011,Chevrolet,Silverado 3500 HD Crew Cab,Pickup,10204,103,10101
+2023-04-09,Yasmin Fernandes,Brenda Melo,F,76,Barros,Ford Transit 350 Wagon,2016,Ford,Transit 350 Wagon,Van/Minivan,12995,578,12417
+2023-04-11,Juliana Jesus,Natália Melo,F,47,Alves do Oeste,Volkswagen GTI,2002,Volkswagen,GTI,Hatchback,13058,860,12198
+2023-04-11,Juliana Jesus,Davi Lucas Cardoso,M,30,Vieira,Cadillac XT4,2019,Cadillac,XT4,SUV,12492,191,12301
+2023-04-11,Sophie Peixoto,Srta. Elisa Oliveira,F,23,da Cruz,Dodge Ram 2500 Club Cab,1999,Dodge,Ram 2500 Club Cab,Pickup,8808,257,8551
+2023-04-11,Francisco Silva,Luiz Gustavo Jesus,M,55,da Cruz,BMW i8,2014,BMW,i8,Coupe,9159,189,8970
+2023-04-12,Sophie Peixoto,Pedro Oliveira,M,36,da Cruz Grande,Tesla Model S,2012,Tesla,Model S,Sedan,8122,241,7881
+2023-04-14,Juliana Jesus,Augusto Alves,M,71,Costa,Pontiac Torrent,2009,Pontiac,Torrent,SUV,10390,417,9973
+2023-04-14,Isabella da Rosa,Eloah Araújo,F,55,da Mota,Ford Transit Connect Passenger,2016,Ford,Transit Connect Passenger,Van/Minivan,10320,377,9943
+2023-04-15,Vitor Gabriel Castro,Alícia Jesus,F,70,Cardoso de Moreira,Suzuki Aerio,2004,Suzuki,Aerio,"Sedan, Wagon",12972,662,12310
+2023-04-16,Beatriz Gomes,Manuela Santos,F,43,Pereira,Dodge Caravan Passenger,1999,Dodge,Caravan Passenger,Van/Minivan,12936,336,12600
+2023-04-16,Francisco Silva,Lívia Ramos,F,71,Freitas de Goiás,Ford F350 Regular Cab,1995,Ford,F350 Regular Cab,Pickup,8648,757,7891
+2023-04-17,Beatriz Gomes,Juan Almeida,M,56,Gomes,Mercedes-Benz SL-Class,2000,Mercedes-Benz,SL-Class,Convertible,8968,343,8625
+2023-04-19,Beatriz Gomes,João Gabriel Nascimento,M,48,Moura de Pereira,Suzuki Swift,1998,Suzuki,Swift,Hatchback,8183,725,7458
+2023-04-19,Vitor Gabriel Castro,Ana Clara da Paz,F,38,da Rocha do Campo,BMW M5,2016,BMW,M5,Sedan,13471,999,12472
+2023-04-20,Isabella da Rosa,Maria Sophia Freitas,F,66,da Cruz,Jeep Grand Cherokee,1997,Jeep,Grand Cherokee,SUV,9953,587,9366
+2023-04-20,Juliana Jesus,Sr. Levi Duarte,M,37,Azevedo,Aston Martin Vantage,2017,Aston Martin,Vantage,"Convertible, Coupe",11976,290,11686
+2023-04-20,Vitor Gabriel Castro,Evelyn Cardoso,F,50,Gonçalves,Ford Expedition EL,2012,Ford,Expedition EL,SUV,11002,485,10517
+2023-04-22,Juliana Jesus,Sr. Henrique Pires,M,55,da Rocha dos Dourados,HUMMER H1,1995,HUMMER,H1,"SUV, Wagon",10221,208,10013
+2023-04-22,Juliana Jesus,Lavínia Peixoto,F,59,Oliveira,Chevrolet Silverado 3500 HD Crew Cab,2019,Chevrolet,Silverado 3500 HD Crew Cab,Pickup,13402,638,12764
+2023-04-22,Sophie Peixoto,Dra. Isabella Souza,F,53,Azevedo,Ferrari 458 Spider,2013,Ferrari,458 Spider,Convertible,11698,808,10890
+2023-04-22,Isabella da Rosa,Cauê Araújo,M,44,Almeida,Volvo S70,2000,Volvo,S70,Sedan,11596,120,11476
+2023-04-23,Sophie Peixoto,Sr. Lucca Silveira,M,45,Aragão de da Cruz,Hyundai Santa Fe,2012,Hyundai,Santa Fe,SUV,11437,873,10564
+2023-04-23,Vitor Gabriel Castro,Srta. Isabella Aragão,F,59,Santos de Pereira,Hyundai Santa Fe Sport,2013,Hyundai,Santa Fe Sport,SUV,9141,225,8916
+2023-04-23,Isabella da Rosa,Isabelly Pinto,F,78,Castro,Mitsubishi Galant,2000,Mitsubishi,Galant,Sedan,13428,956,12472
+2023-04-25,Vitor Gabriel Castro,Marcelo Porto,M,59,Monteiro da Praia,Mercury Villager,1994,Mercury,Villager,Van/Minivan,13844,119,13725
+2023-04-26,Sophie Peixoto,Srta. Ana Sophia Alves,F,61,Mendes do Oeste,Maybach 57,2012,Maybach,57,Sedan,8748,571,8177
+2023-04-26,Sophie Peixoto,Srta. Cecília Barros,F,52,Lima da Praia,Ram 3500 Mega Cab,2016,Ram,3500 Mega Cab,Pickup,11833,901,10932
+2023-04-26,Isabella da Rosa,Murilo Caldeira,M,65,Nascimento,Toyota Tundra Regular Cab,2005,Toyota,Tundra Regular Cab,Pickup,13495,961,12534
+2023-04-26,Francisco Silva,Bryan da Luz,M,48,Duarte de Jesus,BMW Z4 M,2006,BMW,Z4 M,"Convertible, Coupe",12177,628,11549
+2023-04-26,Yasmin Fernandes,Isaac Moura,M,59,Pinto,Suzuki Verona,2004,Suzuki,Verona,Sedan,8277,464,7813
+2023-04-27,Juliana Jesus,Kamilly Barbosa,F,54,Freitas Verde,Ford GT,2006,Ford,GT,Coupe,13795,736,13059
+2023-04-27,Vitor Gabriel Castro,Sra. Sophie da Luz,F,27,Silveira,Cadillac XTS,2019,Cadillac,XTS,Sedan,13911,222,13689
+2023-04-28,Vitor Gabriel Castro,Luiz Otávio Jesus,M,30,Duarte do Amparo,Dodge Durango,2017,Dodge,Durango,SUV,13697,649,13048
+2023-04-29,Francisco Silva,Sofia Novaes,F,65,Rezende do Campo,GMC Suburban 2500,1996,GMC,Suburban 2500,SUV,9740,539,9201
+2023-04-29,Yasmin Fernandes,Enrico da Cruz,M,29,Martins da Prata,Audi A3,2017,Audi,A3,"Sedan, Convertible",8185,16,8169
+2023-04-30,Juliana Jesus,Maria Luiza Souza,F,43,Pereira de Viana,Ford Expedition EL,2009,Ford,Expedition EL,SUV,9603,282,9321
+2023-04-30,Sophie Peixoto,Caio Rocha,M,49,Silva do Oeste,Buick LaCrosse,2017,Buick,LaCrosse,Sedan,13271,993,12278
+2023-04-30,Yasmin Fernandes,Dr. Marcelo da Conceição,M,57,da Rocha,Ford E250 Super Duty Cargo,2003,Ford,E250 Super Duty Cargo,Van/Minivan,11966,602,11364
+2023-05-01,Sophie Peixoto,Maysa Alves,F,67,Nunes,Ferrari 612 Scaglietti,2010,Ferrari,612 Scaglietti,Coupe,10325,958,9367
+2023-05-01,Yasmin Fernandes,Nicolas Moreira,M,24,das Neves,Chevrolet Suburban,2015,Chevrolet,Suburban,SUV,13097,241,12856
+2023-05-03,Juliana Jesus,Pedro Azevedo,M,25,Oliveira do Amparo,Audi S4,2010,Audi,S4,Sedan,9816,211,9605
+2023-05-03,Sophie Peixoto,Eduardo Lima,M,41,das Neves,GMC Yukon XL 2500,2000,GMC,Yukon XL 2500,SUV,13203,981,12222
+2023-05-05,Vitor Gabriel Castro,Dr. Renan Caldeira,M,64,Novaes,Mitsubishi Expo,1995,Mitsubishi,Expo,Wagon,8470,955,7515
+2023-05-05,Vitor Gabriel Castro,Laura Ribeiro,F,59,Araújo,Nissan Altima,2005,Nissan,Altima,Sedan,13290,621,12669
+2023-05-05,Yasmin Fernandes,Isabella Azevedo,F,71,Moura de Gonçalves,Chevrolet Uplander Passenger,2007,Chevrolet,Uplander Passenger,Van/Minivan,11721,658,11063
+2023-05-08,Juliana Jesus,Alexia Castro,F,65,Cardoso,Rolls-Royce Wraith,2018,Rolls-Royce,Wraith,Coupe,8076,552,7524
+2023-05-09,Sophie Peixoto,Isaac Silveira,M,43,Peixoto Alegre,Porsche 968,1995,Porsche,968,"Coupe, Convertible",8465,719,7746
+2023-05-09,Vitor Gabriel Castro,Lorenzo Sales,M,68,Barros de Oliveira,Dodge Ram 2500 Regular Cab,1994,Dodge,Ram 2500 Regular Cab,Pickup,12785,505,12280
+2023-05-10,Sophie Peixoto,Pietra Sales,F,69,Barros,Nissan NV3500 HD Passenger,2018,Nissan,NV3500 HD Passenger,Van/Minivan,11839,897,10942
+2023-05-10,Sophie Peixoto,Maria Fernanda Teixeira,F,37,Rezende,Chevrolet Impala Limited,2016,Chevrolet,Impala Limited,Sedan,9526,649,8877
+2023-05-11,Juliana Jesus,Thales Santos,M,70,Caldeira da Praia,BMW Z4,2004,BMW,Z4,Convertible,10376,220,10156
+2023-05-11,Beatriz Gomes,Maria Sophia Cardoso,F,28,da Cruz das Flores,Jeep Wrangler Unlimited,2018,Jeep,Wrangler Unlimited,SUV,10451,919,9532
+2023-05-12,Yasmin Fernandes,Enzo Gabriel Pires,M,22,Barbosa,Audi S6,2003,Audi,S6,Wagon,9103,922,8181
+2023-05-13,Isabella da Rosa,Thomas Fogaça,M,72,Pires das Flores,Saab 900,1998,Saab,900,"Hatchback, Convertible",9308,844,8464
+2023-05-13,Beatriz Gomes,Srta. Caroline Costela,F,31,Rodrigues da Praia,Chevrolet 1500 Extended Cab,1999,Chevrolet,1500 Extended Cab,Pickup,12729,784,11945
+2023-05-15,Sophie Peixoto,Julia Lima,F,54,Campos,Mercedes-Benz E-Class,2006,Mercedes-Benz,E-Class,"Sedan, Wagon",11512,924,10588
+2023-05-15,Francisco Silva,Srta. Gabrielly da Mata,F,47,Azevedo Alegre,Volvo 850,1995,Volvo,850,"Wagon, Sedan",13556,695,12861
+2023-05-15,Yasmin Fernandes,Bruno Silveira,M,43,Cardoso,Chevrolet Lumina,1999,Chevrolet,Lumina,Sedan,8442,106,8336
+2023-05-15,Francisco Silva,Theo Araújo,M,23,Nogueira de Teixeira,Kia Sephia,1995,Kia,Sephia,Sedan,9698,358,9340
+2023-05-16,Vitor Gabriel Castro,Miguel Cardoso,M,67,Araújo de Viana,Subaru Tribeca,2014,Subaru,Tribeca,SUV,12437,574,11863
+2023-05-17,Juliana Jesus,Sra. Julia Pires,F,64,Rezende de Minas,GMC Savana 2500 Passenger,2006,GMC,Savana 2500 Passenger,Van/Minivan,8848,150,8698
+2023-05-17,Beatriz Gomes,Emilly Martins,F,24,Rocha,GMC Savana 2500 Cargo,1997,GMC,Savana 2500 Cargo,Van/Minivan,13330,713,12617
+2023-05-17,Francisco Silva,Joaquim Pereira,M,60,Lopes de Dias,Lexus IS,2015,Lexus,IS,"Sedan, Convertible",8455,122,8333
+2023-05-17,Vitor Gabriel Castro,Mariana Costela,F,67,Moura das Pedras,Toyota Sequoia,2019,Toyota,Sequoia,SUV,8628,536,8092
+2023-05-18,Vitor Gabriel Castro,Levi Dias,M,72,da Cunha,Nissan Murano,2006,Nissan,Murano,SUV,13883,549,13334
+2023-05-18,Francisco Silva,Erick Cardoso,M,67,Cavalcanti do Norte,INFINITI QX,1999,INFINITI,QX,SUV,8006,387,7619
+2023-05-20,Juliana Jesus,Gabriel Lopes,M,37,Caldeira,MINI Convertible,2016,MINI,Convertible,Convertible,11758,959,10799
+2023-05-20,Beatriz Gomes,Kaique Duarte,M,29,Rezende,Kia Sorento,2005,Kia,Sorento,SUV,9076,133,8943
+2023-05-21,Isabella da Rosa,Bernardo da Costa,M,56,da Paz,Chevrolet Silverado 3500 HD Regular Cab,2008,Chevrolet,Silverado 3500 HD Regular Cab,Pickup,12882,410,12472
+2023-05-21,Yasmin Fernandes,Vicente Ramos,M,48,Peixoto de Goiás,Honda S2000,2006,Honda,S2000,Convertible,11082,847,10235
+2023-05-21,Juliana Jesus,Maria Julia Rodrigues,F,71,da Paz,Nissan cube,2013,Nissan,cube,Wagon,10756,886,9870
+2023-05-21,Beatriz Gomes,Dr. Kevin Nogueira,M,40,Rocha do Norte,GMC Savana 1500 Cargo,1998,GMC,Savana 1500 Cargo,Van/Minivan,12077,782,11295
+2023-05-21,Francisco Silva,Rodrigo da Cunha,M,69,Souza,Oldsmobile Aurora,2003,Oldsmobile,Aurora,Sedan,10395,792,9603
+2023-05-22,Isabella da Rosa,Sarah Teixeira,F,63,Fernandes Verde,Ford Escort,1997,Ford,Escort,"Sedan, Wagon",9060,610,8450
+2023-05-22,Juliana Jesus,Felipe Teixeira,M,59,Araújo Grande,Buick LeSabre,1993,Buick,LeSabre,Sedan,13732,91,13641
+2023-05-22,Francisco Silva,Thiago Costela,M,59,da Luz da Serra,Subaru WRX,2015,Subaru,WRX,Sedan,10209,598,9611
+2023-05-23,Francisco Silva,Dra. Isabelly Moreira,F,62,da Costa Verde,Pontiac Firebird,2002,Pontiac,Firebird,"Coupe, Convertible",10317,64,10253
+2023-05-23,Sophie Peixoto,Danilo Ribeiro,M,37,Dias,Nissan Sentra,2006,Nissan,Sentra,Sedan,8282,331,7951
+2023-05-23,Francisco Silva,Breno Campos,M,60,da Paz,INFINITI QX60,2017,INFINITI,QX60,SUV,13784,840,12944
+2023-05-25,Beatriz Gomes,Srta. Ana Julia Cunha,F,70,Monteiro,Hyundai Sonata,2019,Hyundai,Sonata,Sedan,12780,137,12643
+2023-05-25,Yasmin Fernandes,Sr. Kevin Lopes,M,41,Peixoto de Oliveira,Volvo S80,2011,Volvo,S80,Sedan,13667,355,13312
+2023-05-25,Isabella da Rosa,Srta. Alexia Fogaça,F,26,Gomes,Chevrolet Suburban 3500HD,2018,Chevrolet,Suburban 3500HD,SUV,10968,275,10693
+2023-05-27,Vitor Gabriel Castro,Dr. Caio Fogaça,M,31,Oliveira,Maserati Levante,2019,Maserati,Levante,SUV,13190,251,12939
+2023-05-30,Isabella da Rosa,Raul Pinto,M,42,Aragão de Minas,Chevrolet Silverado 1500 Crew Cab,2019,Chevrolet,Silverado 1500 Crew Cab,Pickup,13100,471,12629
+2023-05-30,Yasmin Fernandes,Natália Rocha,F,47,Rezende do Galho,Aston Martin Rapide S,2017,Aston Martin,Rapide S,Sedan,12116,353,11763
+2023-05-30,Francisco Silva,Ana Moraes,F,52,Oliveira,Subaru Legacy,2002,Subaru,Legacy,"Wagon, Sedan",9463,455,9008
+2023-05-31,Isabella da Rosa,Pedro Miguel Moura,M,55,Caldeira,Chevrolet 1500 Regular Cab,1994,Chevrolet,1500 Regular Cab,Pickup,12129,68,12061
+2023-05-31,Francisco Silva,Letícia Duarte,F,65,Oliveira,Volkswagen Jetta,1998,Volkswagen,Jetta,Sedan,9512,421,9091
+2023-06-02,Francisco Silva,Alexia da Cruz,F,29,Ferreira,Volkswagen New Beetle,2000,Volkswagen,New Beetle,Hatchback,11591,583,11008
+2023-06-03,Isabella da Rosa,Dr. Paulo Ferreira,M,29,Barbosa Paulista,Mitsubishi Eclipse,2005,Mitsubishi,Eclipse,"Coupe, Convertible",13886,750,13136
+2023-06-03,Beatriz Gomes,Dr. João Felipe da Mota,M,27,Campos,Land Rover Freelander,2005,Land Rover,Freelander,SUV,9522,31,9491
+2023-06-03,Isabella da Rosa,Kevin Novaes,M,37,Nascimento da Mata,Lexus CT,2011,Lexus,CT,Hatchback,12675,246,12429
+2023-06-03,Isabella da Rosa,Srta. Beatriz Moreira,F,54,Teixeira,Lexus SC,2000,Lexus,SC,Coupe,8939,409,8530
+2023-06-03,Sophie Peixoto,João Felipe Lopes,M,61,Oliveira,Toyota Tacoma Regular Cab,2008,Toyota,Tacoma Regular Cab,Pickup,12741,760,11981
+2023-06-04,Juliana Jesus,Giovanna Caldeira,F,32,da Cunha do Galho,Ram 1500 Regular Cab,2017,Ram,1500 Regular Cab,Pickup,10778,193,10585
+2023-06-04,Vitor Gabriel Castro,Thales Freitas,M,42,Novaes,Dodge Durango,2005,Dodge,Durango,SUV,8985,485,8500
+2023-06-04,Vitor Gabriel Castro,Vinicius da Mata,M,28,Fernandes,Volvo S40,2011,Volvo,S40,Sedan,10902,180,10722
+2023-06-05,Juliana Jesus,Fernanda Castro,F,50,Duarte Paulista,Jaguar S-Type,2008,Jaguar,S-Type,Sedan,13420,924,12496
+2023-06-06,Vitor Gabriel Castro,Lucca Vieira,M,57,Pereira,Chevrolet Traverse,2013,Chevrolet,Traverse,SUV,9546,889,8657
+2023-06-06,Sophie Peixoto,Larissa Ferreira,F,46,Costela,Chevrolet Volt,2015,Chevrolet,Volt,Sedan,12016,742,11274
+2023-06-06,Vitor Gabriel Castro,Ana Clara Sales,F,77,Jesus das Pedras,Nissan Sentra,1996,Nissan,Sentra,Sedan,11612,393,11219
+2023-06-07,Isabella da Rosa,Leonardo Azevedo,M,37,Lopes de da Paz,Dodge Avenger,2000,Dodge,Avenger,Coupe,9566,0,9566
+2023-06-08,Beatriz Gomes,Heitor Pinto,M,38,Silva,INFINITI EX,2013,INFINITI,EX,SUV,10518,622,9896
+2023-06-08,Juliana Jesus,Maria Clara Costela,F,62,Dias do Norte,Lincoln Blackwood,2002,Lincoln,Blackwood,Pickup,11992,792,11200
+2023-06-09,Beatriz Gomes,Eduarda Carvalho,F,31,Moreira da Mata,Mercedes-Benz SLK-Class,2008,Mercedes-Benz,SLK-Class,Convertible,11039,964,10075
+2023-06-09,Beatriz Gomes,João Lucas Barros,M,64,das Neves,Volvo XC70,2011,Volvo,XC70,Wagon,11155,508,10647
+2023-06-10,Sophie Peixoto,Eduarda Farias,F,26,Nascimento do Amparo,Land Rover Range Rover,2020,Land Rover,Range Rover,SUV,9048,401,8647
+2023-06-11,Sophie Peixoto,Noah da Luz,M,51,Porto,Mitsubishi Montero,1994,Mitsubishi,Montero,SUV,9322,195,9127
+2023-06-12,Sophie Peixoto,Sarah Moura,F,46,Dias,Mercedes-Benz Mercedes-AMG CLS,2018,Mercedes-Benz,Mercedes-AMG CLS,Sedan,8985,294,8691
+2023-06-13,Francisco Silva,Felipe Vieira,M,45,Cardoso,MINI Paceman,2014,MINI,Paceman,Hatchback,13850,630,13220
+2023-06-14,Yasmin Fernandes,Bryan Ferreira,M,34,da Luz do Campo,Toyota Solara,2004,Toyota,Solara,"Coupe, Convertible",13949,185,13764
+2023-06-14,Francisco Silva,João Lucas Viana,M,73,Melo,Maybach 57,2009,Maybach,57,Sedan,10679,671,10008
+2023-06-16,Juliana Jesus,Manuela da Rocha,F,41,Ramos,Chevrolet Volt,2013,Chevrolet,Volt,Sedan,9457,143,9314
+2023-06-18,Vitor Gabriel Castro,Rodrigo da Paz,M,33,Oliveira,Dodge Ram Wagon 2500,2002,Dodge,Ram Wagon 2500,Van/Minivan,10566,307,10259
+2023-06-18,Vitor Gabriel Castro,Vitor Hugo das Neves,M,54,Moreira,Maserati Levante,2018,Maserati,Levante,SUV,13403,410,12993
+2023-06-18,Sophie Peixoto,Cauê da Conceição,M,53,Santos,Ford Ranger Super Cab,2002,Ford,Ranger Super Cab,Pickup,13932,326,13606
+2023-06-19,Sophie Peixoto,Ana Castro,F,44,da Mota,Audi Q7,2013,Audi,Q7,SUV,12632,671,11961
+2023-06-23,Juliana Jesus,Pietro Farias,M,22,da Conceição,Buick LeSabre,1996,Buick,LeSabre,Sedan,8521,723,7798
+2023-06-24,Isabella da Rosa,João Gabriel Rezende,M,76,Lima,Toyota Paseo,1995,Toyota,Paseo,Coupe,11953,296,11657
+2023-06-26,Isabella da Rosa,Sra. Heloísa Ramos,F,63,Silveira,Scion FR-S,2015,Scion,FR-S,Coupe,13357,94,13263
+2023-06-27,Vitor Gabriel Castro,Bryan Nogueira,M,58,Melo de Nascimento,Mitsubishi Eclipse,2012,Mitsubishi,Eclipse,"Coupe, Convertible",13917,123,13794
+2023-06-27,Isabella da Rosa,Sabrina Porto,F,69,Freitas,GMC Savana 3500 Passenger,2011,GMC,Savana 3500 Passenger,Van/Minivan,8773,85,8688
+2023-06-28,Francisco Silva,Helena Dias,F,25,Pires,GMC Envoy XL,2004,GMC,Envoy XL,SUV,9250,535,8715
+2023-06-28,Juliana Jesus,Eloah Jesus,F,50,Teixeira do Galho,Nissan 370Z,2020,Nissan,370Z,Coupe,8018,762,7256
+2023-06-29,Yasmin Fernandes,Amanda Martins,F,29,Peixoto,Pontiac Grand Prix,2006,Pontiac,Grand Prix,Sedan,11086,491,10595
+2023-06-29,Vitor Gabriel Castro,Theo Pires,M,56,Santos,Ford Econoline E150 Cargo,2000,Ford,Econoline E150 Cargo,Van/Minivan,8167,876,7291
+2023-06-30,Vitor Gabriel Castro,Stephany da Paz,F,56,Aragão das Pedras,Toyota Camry,2007,Toyota,Camry,Sedan,11564,681,10883
+2023-06-30,Francisco Silva,Ana Laura Castro,F,29,da Rocha da Mata,Dodge Ram Van 1500,1996,Dodge,Ram Van 1500,Van/Minivan,9861,15,9846
+2023-07-01,Yasmin Fernandes,Arthur Pereira,M,50,Lima de Campos,Chevrolet Tahoe,2019,Chevrolet,Tahoe,SUV,9417,698,8719
+2023-07-01,Francisco Silva,Rafael Almeida,M,69,Jesus,GMC Sierra 3500 HD Extended Cab,2011,GMC,Sierra 3500 HD Extended Cab,Pickup,8113,519,7594
+2023-07-01,Sophie Peixoto,Rafael da Mata,M,43,das Neves de Nascimento,Ford F250 Crew Cab,1997,Ford,F250 Crew Cab,Pickup,11755,848,10907
+2023-07-02,Isabella da Rosa,Srta. Luiza Teixeira,F,41,Ribeiro do Norte,Ford Econoline E150 Passenger,2000,Ford,Econoline E150 Passenger,Van/Minivan,11425,971,10454
+2023-07-02,Juliana Jesus,Srta. Kamilly Ramos,F,50,Oliveira de Minas,BMW X5,2007,BMW,X5,SUV,9857,857,9000
+2023-07-03,Vitor Gabriel Castro,Gustavo Moura,M,47,Moreira,Chevrolet Silverado 1500 Regular Cab,2011,Chevrolet,Silverado 1500 Regular Cab,Pickup,9356,385,8971
+2023-07-04,Isabella da Rosa,Brenda Santos,F,33,Monteiro de Cunha,Buick Park Avenue,2003,Buick,Park Avenue,Sedan,8222,908,7314
+2023-07-04,Beatriz Gomes,Marina Rodrigues,F,65,Fogaça Alegre,Chevrolet Malibu,2012,Chevrolet,Malibu,Sedan,13141,853,12288
+2023-07-05,Sophie Peixoto,Luiz Otávio Rocha,M,65,Fogaça,Nissan NV1500 Cargo,2020,Nissan,NV1500 Cargo,Van/Minivan,12329,83,12246
+2023-07-05,Beatriz Gomes,Eduardo Almeida,M,23,Lima,Dodge Dakota Quad Cab,2006,Dodge,Dakota Quad Cab,Pickup,10179,766,9413
+2023-07-05,Beatriz Gomes,Srta. Mariana da Mata,F,33,Cavalcanti,Saturn Ion,2007,Saturn,Ion,"Sedan, Coupe",12610,50,12560
+2023-07-07,Yasmin Fernandes,Emilly Porto,F,53,Cardoso Alegre,Dodge Dakota Quad Cab,2005,Dodge,Dakota Quad Cab,Pickup,12044,627,11417
+2023-07-07,Beatriz Gomes,Manuela Azevedo,F,41,Pinto de das Neves,Acura MDX,2013,Acura,MDX,SUV,11369,897,10472
+2023-07-10,Francisco Silva,Ana Laura Moraes,F,66,Viana da Mata,Mercedes-Benz SLR McLaren,2006,Mercedes-Benz,SLR McLaren,Coupe,11949,508,11441
+2023-07-10,Sophie Peixoto,Ana Clara Martins,F,27,Santos,Porsche 968,1994,Porsche,968,"Coupe, Convertible",12674,876,11798
+2023-07-11,Vitor Gabriel Castro,Raquel Correia,F,28,da Rosa,GMC Terrain,2014,GMC,Terrain,SUV,10225,330,9895
+2023-07-14,Beatriz Gomes,Laís Cavalcanti,F,71,Costela de Porto,Ford Taurus,2017,Ford,Taurus,Sedan,13875,387,13488
+2023-07-14,Sophie Peixoto,Lara Alves,F,59,Dias da Mata,Lexus GS,2004,Lexus,GS,Sedan,8720,355,8365
+2023-07-15,Juliana Jesus,Isabella Monteiro,F,56,Ribeiro do Oeste,MAZDA Millenia,1999,MAZDA,Millenia,Sedan,8115,467,7648
+2023-07-16,Yasmin Fernandes,Pedro Miguel Dias,M,77,Ferreira do Sul,Eagle Summit,1994,Eagle,Summit,"Sedan, Coupe, Wagon",9290,506,8784
+2023-07-17,Vitor Gabriel Castro,Davi Lucas Teixeira,M,46,Nunes,Toyota Tacoma Xtracab,1996,Toyota,Tacoma Xtracab,Pickup,10500,496,10004
+2023-07-17,Francisco Silva,Yasmin Duarte,F,60,Freitas do Sul,Lotus Elise,2009,Lotus,Elise,Coupe,8711,312,8399
+2023-07-17,Francisco Silva,Alexandre da Rocha,M,64,Almeida,BMW Z4,2019,BMW,Z4,Convertible,11334,300,11034
+2023-07-17,Yasmin Fernandes,Lucca da Rocha,M,66,Moraes,GMC Yukon XL 1500,2001,GMC,Yukon XL 1500,SUV,8040,619,7421
+2023-07-17,Sophie Peixoto,Laís Lima,F,22,da Cruz,Chevrolet Camaro,2020,Chevrolet,Camaro,Convertible,11640,676,10964
+2023-07-17,Sophie Peixoto,Dr. Fernando Farias,M,23,da Luz,Chevrolet Trax,2019,Chevrolet,Trax,SUV,8025,767,7258
+2023-07-18,Sophie Peixoto,Mariane Farias,F,54,Cardoso,MAZDA MX-5 Miata RF,2017,MAZDA,MX-5 Miata RF,Convertible,11683,646,11037
+2023-07-18,Beatriz Gomes,Ana Clara Azevedo,F,39,Aragão da Mata,Chevrolet Blazer,1998,Chevrolet,Blazer,SUV,12905,867,12038
+2023-07-18,Beatriz Gomes,Esther Castro,F,30,Castro do Oeste,Buick LeSabre,2004,Buick,LeSabre,Sedan,8960,963,7997
+2023-07-18,Vitor Gabriel Castro,Alexandre da Rosa,M,79,da Luz,Ford E350 Super Duty Passenger,2014,Ford,E350 Super Duty Passenger,Van/Minivan,10324,928,9396
+2023-07-19,Juliana Jesus,Dr. Arthur da Paz,M,55,Ferreira de Goiás,Jaguar X-Type,2004,Jaguar,X-Type,Sedan,12854,83,12771
+2023-07-21,Vitor Gabriel Castro,Heitor Aragão,M,75,Cavalcanti,MAZDA MX-5 Miata,2013,MAZDA,MX-5 Miata,Convertible,13054,16,13038
+2023-07-21,Beatriz Gomes,Sra. Isabel Lima,F,73,Gonçalves,Lincoln Town Car,2006,Lincoln,Town Car,Sedan,8344,980,7364
+2023-07-22,Sophie Peixoto,Sr. Paulo Sales,M,48,da Cruz Grande,Acura RL,2003,Acura,RL,Sedan,9489,695,8794
+2023-07-22,Vitor Gabriel Castro,Dr. Pedro Miguel da Paz,M,39,Monteiro,Ford Fusion Energi,2018,Ford,Fusion Energi,Sedan,8743,1,8742
+2023-07-24,Beatriz Gomes,Sr. Vitor Hugo da Luz,M,26,Freitas,Maybach 57,2010,Maybach,57,Sedan,12389,97,12292
+2023-07-24,Yasmin Fernandes,Maitê Carvalho,F,72,Oliveira,Dodge Challenger,2017,Dodge,Challenger,Coupe,11213,988,10225
+2023-07-27,Sophie Peixoto,Dr. Antônio Pires,M,58,Santos,Dodge Ram 2500 Quad Cab,2001,Dodge,Ram 2500 Quad Cab,Pickup,9580,910,8670
+2023-07-27,Vitor Gabriel Castro,Dr. Isaac Ferreira,M,43,da Luz,Scion FR-S,2015,Scion,FR-S,Coupe,8708,454,8254
+2023-07-27,Juliana Jesus,Gabrielly Porto,F,56,Castro,Dodge Ram Wagon 3500,1999,Dodge,Ram Wagon 3500,Van/Minivan,12707,752,11955
+2023-07-28,Yasmin Fernandes,Murilo Silveira,M,62,Novaes Paulista,Porsche 911,2007,Porsche,911,"Coupe, Convertible",13830,688,13142
+2023-07-29,Isabella da Rosa,Olivia Oliveira,F,70,Silveira,Chrysler 300,2010,Chrysler,300,Sedan,12526,19,12507
+2023-07-30,Juliana Jesus,Vicente Rezende,M,34,Silveira,Nissan Pathfinder,1999,Nissan,Pathfinder,SUV,13915,918,12997
+2023-07-30,Francisco Silva,Fernanda Pires,F,36,Cavalcanti das Pedras,Chrysler Cirrus,1995,Chrysler,Cirrus,Sedan,13706,401,13305
+2023-07-31,Sophie Peixoto,João Gabriel Rodrigues,M,54,Pinto,Maserati Ghibli,2014,Maserati,Ghibli,Sedan,11295,796,10499
+2023-07-31,Juliana Jesus,Yago Ferreira,M,35,Sales,Dodge Neon,2001,Dodge,Neon,Sedan,10877,75,10802
+2023-07-31,Yasmin Fernandes,Joaquim Ferreira,M,73,das Neves,Toyota Camry Hybrid,2017,Toyota,Camry Hybrid,Sedan,12868,485,12383
+2023-08-01,Sophie Peixoto,Srta. Luna Lopes,F,76,da Costa de Rodrigues,INFINITI FX,2005,INFINITI,FX,SUV,9597,801,8796
+2023-08-01,Francisco Silva,Srta. Eloah Santos,F,53,Costa,Nissan Murano,2009,Nissan,Murano,SUV,10781,127,10654
+2023-08-02,Sophie Peixoto,Júlia Moreira,F,68,Moreira das Flores,Audi 90,1994,Audi,90,Sedan,12847,862,11985
+2023-08-03,Sophie Peixoto,Juan Caldeira,M,66,Nogueira do Norte,BMW X6,2015,BMW,X6,SUV,10367,614,9753
+2023-08-03,Isabella da Rosa,Bryan da Paz,M,74,Oliveira Alegre,Volkswagen Golf,2017,Volkswagen,Golf,Hatchback,11825,110,11715
+2023-08-04,Isabella da Rosa,Raquel Araújo,F,74,Cavalcanti Alegre,Dodge Journey,2010,Dodge,Journey,SUV,11784,398,11386
+2023-08-04,Francisco Silva,Thales Nunes,M,38,Cunha,Dodge Ram Wagon B250,1994,Dodge,Ram Wagon B250,Van/Minivan,10965,941,10024
+2023-08-05,Vitor Gabriel Castro,Bruna Fogaça,F,68,Vieira do Oeste,Audi A4,2013,Audi,A4,Sedan,8214,221,7993
+2023-08-05,Sophie Peixoto,Cecília Dias,F,52,Silveira,Chevrolet Camaro,2017,Chevrolet,Camaro,"Coupe, Convertible",13384,228,13156
+2023-08-06,Yasmin Fernandes,Caio Barros,M,49,da Costa,GMC Sonoma Extended Cab,2001,GMC,Sonoma Extended Cab,Pickup,10028,216,9812
+2023-08-07,Vitor Gabriel Castro,Beatriz Silveira,F,72,Souza de Cavalcanti,GMC Yukon,1998,GMC,Yukon,SUV,13717,407,13310
+2023-08-07,Isabella da Rosa,Murilo Barbosa,M,50,Rocha de Fogaça,Toyota Celica,2003,Toyota,Celica,Hatchback,11725,434,11291
+2023-08-08,Vitor Gabriel Castro,Miguel Silva,M,36,Fogaça do Galho,BMW 7 Series,2005,BMW,7 Series,Sedan,11530,391,11139
+2023-08-09,Juliana Jesus,Marina Cavalcanti,F,56,da Conceição,Toyota Avalon,2017,Toyota,Avalon,Sedan,10382,730,9652
+2023-08-09,Juliana Jesus,Alexia Ribeiro,F,54,Carvalho dos Dourados,McLaren MP4-12C,2014,McLaren,MP4-12C,"Coupe, Convertible",13162,164,12998
+2023-08-10,Vitor Gabriel Castro,Maria Eduarda Vieira,F,77,Sales de Caldeira,Honda Element,2006,Honda,Element,SUV,13010,626,12384
+2023-08-11,Beatriz Gomes,Ana Clara Carvalho,F,65,da Costa,Volvo C70,1999,Volvo,C70,"Coupe, Convertible",10728,945,9783
+2023-08-12,Yasmin Fernandes,Stephany Caldeira,F,70,Fogaça,GMC Savana 2500 Passenger,1998,GMC,Savana 2500 Passenger,Van/Minivan,13874,197,13677
+2023-08-13,Isabella da Rosa,Ana Clara Novaes,F,68,Teixeira,HUMMER H1,1995,HUMMER,H1,"SUV, Wagon",13633,169,13464
+2023-08-13,Isabella da Rosa,Emilly da Conceição,F,65,das Neves da Prata,Nissan Pathfinder,2020,Nissan,Pathfinder,SUV,13195,728,12467
+2023-08-13,Juliana Jesus,Luiz Felipe Caldeira,M,23,Barros,Porsche 911,2009,Porsche,911,"Coupe, Convertible",9391,807,8584
+2023-08-14,Juliana Jesus,Laura Cavalcanti,F,34,Dias,GMC 2500 Regular Cab,1994,GMC,2500 Regular Cab,Pickup,10506,168,10338
+2023-08-15,Juliana Jesus,Enrico da Luz,M,46,Jesus da Prata,Ford Taurus,2003,Ford,Taurus,"Sedan, Wagon",12554,224,12330
+2023-08-16,Vitor Gabriel Castro,Davi Luiz Alves,M,55,Moraes de Minas,Acura CL,2003,Acura,CL,Coupe,8242,884,7358
+2023-08-17,Vitor Gabriel Castro,Dra. Cecília Costela,F,61,Vieira da Mata,Nissan King Cab,1992,Nissan,King Cab,Pickup,9182,688,8494
+2023-08-17,Beatriz Gomes,Brenda Oliveira,F,73,Cavalcanti de Ferreira,Toyota Paseo,1997,Toyota,Paseo,"Hatchback, Convertible",9116,432,8684
+2023-08-17,Beatriz Gomes,Srta. Elisa Correia,F,65,Pires,Dodge Dakota Regular Cab,1997,Dodge,Dakota Regular Cab,Pickup,10056,169,9887
+2023-08-19,Francisco Silva,Sarah das Neves,F,22,da Rocha,Ford Mustang,2005,Ford,Mustang,"Coupe, Convertible",13192,758,12434
+2023-08-20,Vitor Gabriel Castro,Srta. Stephany Oliveira,F,60,Barbosa de Viana,Audi Q5,2019,Audi,Q5,SUV,13465,328,13137
+2023-08-21,Sophie Peixoto,Rafaela Gomes,F,34,da Mata,Mercedes-Benz SLK-Class,2009,Mercedes-Benz,SLK-Class,Convertible,8539,443,8096
+2023-08-22,Vitor Gabriel Castro,Srta. Evelyn Teixeira,F,47,Araújo da Mata,GMC Sonoma Regular Cab,1998,GMC,Sonoma Regular Cab,Pickup,12427,779,11648
+2023-08-23,Isabella da Rosa,Vicente Mendes,M,65,Campos de Nogueira,Nissan Versa,2018,Nissan,Versa,Sedan,10673,838,9835
+2023-08-23,Vitor Gabriel Castro,Gabriel da Cruz,M,31,Moreira das Flores,Chevrolet Silverado 2500 HD Crew Cab,2007,Chevrolet,Silverado 2500 HD Crew Cab,Pickup,9561,561,9000
+2023-08-25,Francisco Silva,Maria Alice da Luz,F,36,Peixoto,Ford F250 Super Duty Super Cab,2010,Ford,F250 Super Duty Super Cab,Pickup,9224,391,8833
+2023-08-26,Yasmin Fernandes,Bryan Dias,M,34,Freitas,Lincoln MKT,2015,Lincoln,MKT,SUV,12620,656,11964
+2023-08-26,Juliana Jesus,Srta. Alexia Cavalcanti,F,51,da Paz,Volkswagen Jetta,2004,Volkswagen,Jetta,"Wagon, Sedan",11064,835,10229
+2023-08-27,Yasmin Fernandes,Vitor Rezende,M,77,Correia,Nissan Altima,1995,Nissan,Altima,Sedan,10550,585,9965
+2023-08-29,Francisco Silva,Dr. Alexandre Duarte,M,52,Silva,Nissan Frontier Crew Cab,2002,Nissan,Frontier Crew Cab,Pickup,8088,796,7292
+2023-08-30,Juliana Jesus,Mariane Rocha,F,74,Cardoso,Nissan Rogue,2013,Nissan,Rogue,SUV,13575,874,12701
+2023-08-30,Isabella da Rosa,Noah da Cunha,M,52,Cunha,Volvo C30,2012,Volvo,C30,Hatchback,12361,20,12341
+2023-09-01,Isabella da Rosa,Gabriel Oliveira,M,57,da Mata,Toyota Corolla,2000,Toyota,Corolla,Sedan,8637,907,7730
+2023-09-03,Sophie Peixoto,Yago Melo,M,78,da Costa,BMW 7 Series,2003,BMW,7 Series,Sedan,12197,804,11393
+2023-09-04,Yasmin Fernandes,Isaac Monteiro,M,45,Lopes,Mitsubishi Mirage,2001,Mitsubishi,Mirage,"Coupe, Sedan",12293,347,11946
+2023-09-04,Yasmin Fernandes,Valentina Silveira,F,33,das Neves de das Neves,Chevrolet S10 Extended Cab,1992,Chevrolet,S10 Extended Cab,Pickup,13180,570,12610
+2023-09-05,Sophie Peixoto,Arthur Dias,M,33,Peixoto Alegre,Hyundai Genesis Coupe,2013,Hyundai,Genesis Coupe,Coupe,13815,658,13157
+2023-09-05,Francisco Silva,Emilly Dias,F,69,Lopes,Mercedes-Benz SL-Class,2001,Mercedes-Benz,SL-Class,Convertible,13127,980,12147
+2023-09-05,Juliana Jesus,Vitória Aragão,F,56,Lopes,GMC Vandura 3500,1993,GMC,Vandura 3500,Van/Minivan,13032,24,13008
+2023-09-05,Vitor Gabriel Castro,Dr. Gustavo Henrique Cunha,M,28,Costela,Hyundai Santa Fe,2017,Hyundai,Santa Fe,SUV,9072,257,8815
+2023-09-05,Francisco Silva,Maria Luiza da Cunha,F,30,Vieira,MAZDA Tribute,2010,MAZDA,Tribute,SUV,13534,516,13018
+2023-09-06,Juliana Jesus,Agatha Araújo,F,45,Peixoto Verde,Chevrolet Silverado 3500 Extended Cab,2002,Chevrolet,Silverado 3500 Extended Cab,Pickup,8217,237,7980
+2023-09-06,Juliana Jesus,Srta. Sophie Santos,F,23,Cardoso,Toyota Camry,1993,Toyota,Camry,"Wagon, Sedan",12045,180,11865
+2023-09-07,Francisco Silva,Vitor Gabriel Viana,M,24,Oliveira,Toyota Prius c,2013,Toyota,Prius c,Hatchback,9021,847,8174
+2023-09-08,Juliana Jesus,Renan da Mata,M,71,Pinto Verde,Chevrolet Silverado 1500 Double Cab,2019,Chevrolet,Silverado 1500 Double Cab,Pickup,8013,903,7110
+2023-09-10,Juliana Jesus,Vitor Gabriel da Rocha,M,40,Porto,Panoz Esperante,2005,Panoz,Esperante,"Coupe, Convertible",11450,633,10817
+2023-09-10,Juliana Jesus,Stella Duarte,F,79,Ramos,Honda Fit,2008,Honda,Fit,Hatchback,13081,393,12688
+2023-09-10,Isabella da Rosa,Laura Duarte,F,55,Silva,Saab 9000,1996,Saab,9000,Hatchback,13227,100,13127
+2023-09-10,Yasmin Fernandes,Diogo Rocha,M,77,Santos do Amparo,Pontiac Vibe,2009,Pontiac,Vibe,Wagon,13852,940,12912
+2023-09-11,Isabella da Rosa,Srta. Nina Gonçalves,F,72,Nogueira,Chevrolet Silverado 2500 HD Double Cab,2018,Chevrolet,Silverado 2500 HD Double Cab,Pickup,10671,818,9853
+2023-09-12,Yasmin Fernandes,Sr. Luiz Miguel Rodrigues,M,41,Viana da Prata,BMW M3,2006,BMW,M3,"Convertible, Coupe",10829,67,10762
+2023-09-12,Francisco Silva,Felipe da Conceição,M,76,Vieira da Serra,Hyundai Elantra,2002,Hyundai,Elantra,"Sedan, Hatchback",11191,549,10642
+2023-09-13,Vitor Gabriel Castro,Dr. João Pedro Peixoto,M,75,Almeida,GMC Suburban 2500,1996,GMC,Suburban 2500,SUV,9201,608,8593
+2023-09-14,Juliana Jesus,Maitê Dias,F,53,Barros,Nissan GT-R,2014,Nissan,GT-R,Coupe,12613,579,12034
+2023-09-15,Beatriz Gomes,Murilo Costa,M,47,Moura,Audi Q5,2015,Audi,Q5,SUV,13009,853,12156
+2023-09-15,Francisco Silva,Amanda Moura,F,63,Pereira,Suzuki Forenza,2004,Suzuki,Forenza,Sedan,12914,755,12159
+2023-09-16,Isabella da Rosa,Olivia Rodrigues,F,80,Monteiro das Pedras,GMC Savana 3500 Cargo,2010,GMC,Savana 3500 Cargo,Van/Minivan,9687,96,9591
+2023-09-16,Beatriz Gomes,Eduardo Correia,M,26,Monteiro dos Dourados,Mercedes-Benz GLC Coupe,2019,Mercedes-Benz,GLC Coupe,SUV,9327,177,9150
+2023-09-17,Vitor Gabriel Castro,Ian Aragão,M,33,Aragão,Chevrolet 2500 HD Regular Cab,2000,Chevrolet,2500 HD Regular Cab,Pickup,9495,345,9150
+2023-09-17,Vitor Gabriel Castro,Juliana Gonçalves,F,58,Cavalcanti da Prata,Chevrolet Tahoe,2004,Chevrolet,Tahoe,SUV,11455,687,10768
+2023-09-17,Francisco Silva,Beatriz Cardoso,F,79,Pinto da Mata,MAZDA MPV,2001,MAZDA,MPV,Van/Minivan,8003,768,7235
+2023-09-18,Francisco Silva,Lucca Gonçalves,M,68,Pires do Amparo,Acura NSX,2003,Acura,NSX,Coupe,8837,364,8473
+2023-09-19,Vitor Gabriel Castro,Dra. Alana Rezende,F,55,Fogaça do Sul,Lexus LS,2011,Lexus,LS,Sedan,12408,785,11623
+2023-09-19,Juliana Jesus,Mirella Fogaça,F,71,Aragão da Serra,Toyota Supra,1997,Toyota,Supra,Hatchback,12355,278,12077
+2023-09-19,Yasmin Fernandes,Maria Luiza Nunes,F,66,Duarte do Oeste,Jeep Grand Cherokee,2008,Jeep,Grand Cherokee,SUV,13137,441,12696
+2023-09-20,Yasmin Fernandes,Paulo Jesus,M,61,Silva,Isuzu Oasis,1999,Isuzu,Oasis,Van/Minivan,10877,769,10108
+2023-09-21,Beatriz Gomes,Yago Gonçalves,M,62,Oliveira de Porto,Audi S8,2001,Audi,S8,Sedan,9144,156,8988
+2023-09-21,Isabella da Rosa,Bruno da Paz,M,69,Caldeira,Hyundai Accent,2007,Hyundai,Accent,"Hatchback, Sedan",12186,394,11792
+2023-09-22,Beatriz Gomes,Ana Luiza da Mota,F,27,Barbosa das Flores,Chevrolet Express 2500 Passenger,2017,Chevrolet,Express 2500 Passenger,Van/Minivan,12591,729,11862
+2023-09-24,Isabella da Rosa,Pedro Henrique da Conceição,M,28,Ramos,Nissan 370Z,2016,Nissan,370Z,"Coupe, Convertible",10908,387,10521
+2023-09-25,Beatriz Gomes,Alexia Rocha,F,73,Novaes,Toyota Tacoma Xtracab,1997,Toyota,Tacoma Xtracab,Pickup,8748,347,8401
+2023-09-25,Beatriz Gomes,Alícia Rezende,F,65,das Neves Paulista,Kia Sephia,2000,Kia,Sephia,Sedan,9668,130,9538
+2023-09-26,Sophie Peixoto,Luigi Ribeiro,M,25,Pereira,Ram ProMaster City,2015,Ram,ProMaster City,Van/Minivan,12571,977,11594
+2023-09-26,Yasmin Fernandes,Fernanda Pinto,F,25,Barbosa,Ford Transit Connect Cargo,2019,Ford,Transit Connect Cargo,Van/Minivan,11136,254,10882
+2023-09-26,Francisco Silva,Larissa Dias,F,74,Rezende da Mata,BMW X3,2009,BMW,X3,SUV,11320,832,10488
+2023-09-26,Sophie Peixoto,Lívia da Luz,F,31,Duarte,Dodge Ram Van B350,1993,Dodge,Ram Van B350,Van/Minivan,13988,947,13041
+2023-09-26,Francisco Silva,Sra. Milena Melo,F,66,Vieira,Lincoln Town Car,2001,Lincoln,Town Car,Sedan,11115,599,10516
+2023-09-26,Yasmin Fernandes,Marcelo Vieira,M,30,da Costa,Mercedes-Benz E-Class,2010,Mercedes-Benz,E-Class,"Sedan, Coupe",11819,212,11607
+2023-09-26,Juliana Jesus,Alícia Caldeira,F,69,Moraes,Jeep Grand Cherokee,1999,Jeep,Grand Cherokee,SUV,13959,183,13776
+2023-09-27,Juliana Jesus,Amanda Cardoso,F,80,Moraes,Lexus LS,2017,Lexus,LS,Sedan,13129,212,12917
+2023-09-28,Juliana Jesus,Ana Sophia Castro,F,31,Mendes,BMW M3,2016,BMW,M3,Sedan,8767,424,8343
+2023-09-29,Isabella da Rosa,Sra. Isadora Teixeira,F,33,Nascimento,Dodge Caravan Passenger,2001,Dodge,Caravan Passenger,Van/Minivan,8021,601,7420
+2023-09-29,Francisco Silva,Isaac Moura,M,49,Cardoso,MAZDA MPV,2005,MAZDA,MPV,Van/Minivan,12832,274,12558
