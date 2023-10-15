@@ -509,7 +509,7 @@ DATA DA VENDA,NOME DO VENDEDOR,NOME DO CLIENTE,SEXO DO CLIENTE,IDADE DO CLIENTE,
 2021-12-16,Vitor Gabriel Castro,Alana Ribeiro,F,55,Martins,Toyota Tacoma Double Cab,2010,Toyota,Tacoma Double Cab,Pickup,13889,344,13545
 2021-12-17,Juliana Jesus,Daniel da Paz,M,37,Sales Alegre,Nissan Maxima,2018,Nissan,Maxima,Sedan,8769,603,8166
 2021-12-17,Sophie Peixoto,Sra. Isabella Pinto,F,57,Martins Verde,Ford F350 Super Duty Regular Cab,2014,Ford,F350 Super Duty Regular Cab,Pickup,11894,792,11102
-2021-12-18,Isabella da Rosa,Thomas Martins,M,46,Duarte de Aragão,Kia Sportage,2017,Kia,Sportage,SUV,12892,547,12345
+2021-12-18,Isabella da Rosa,Thomas Martins,M,46,Duarte de Aragão,Kia Sportage,2017,,Sportage,SUV,12892,547,12345
 2021-12-18,Sophie Peixoto,Maria Alice Rodrigues,F,78,Costa de Pereira,Maserati Quattroporte,2018,Maserati,Quattroporte,Sedan,11128,383,10745
 2021-12-19,Vitor Gabriel Castro,Vinicius Rodrigues,M,68,Rezende,Lexus RX,2020,Lexus,RX,SUV,13474,986,12488
 2021-12-20,Francisco Silva,Bianca das Neves,F,54,Barros da Mata,Ram 2500 Crew Cab,2016,Ram,2500 Crew Cab,Pickup,12148,7,12141
